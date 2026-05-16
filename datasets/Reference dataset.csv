@@ -1,0 +1,11 @@
+Test_Name,Min_Value,Max_Value,Unit,Gender,Age_Group,Critical_Low_Threshold,Critical_High_Threshold
+Hemoglobin,13,17,g/dL,Male,Adult,7,20
+Hemoglobin,12,15,g/dL,Female,Adult,7,20
+WBC_Count,4000,11000,cells/mcL,All,All,2000,20000
+Platelet_Count,150000,450000,cells/mcL,All,All,50000,1000000
+Blood_Sugar_Fasting,70,100,mg/dL,All,All,50,300
+HbA1c,4,5.6,%,All,All,3,12
+Cholesterol_Total,125,200,mg/dL,All,All,100,400
+Creatinine,0.7,1.3,mg/dL,All,All,0.3,5
+Sodium,135,145,mEq/L,All,All,120,170
+Potassium,3.5,5,mEq/L,All,All,2,7

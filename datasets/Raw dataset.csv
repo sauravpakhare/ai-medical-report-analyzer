@@ -1,0 +1,1001 @@
+Report_ID,Patient_ID,Patient_Name,Age,Gender,Report_Date,Hemoglobin,WBC_Count,RBC_Count,Platelet_Count,Blood_Sugar_Fasting,Blood_Sugar_Postprandial,HbA1c,Cholesterol_Total,Cholesterol_LDL,Cholesterol_HDL,Triglycerides,Urea,Creatinine,Sodium,Potassium,Test_Unit_Hemoglobin,Test_Unit_WBC,Test_Unit_Sugar,Test_Unit_Cholesterol,Lab_Name,Doctor_Name,Report_Type
+R0001,P1001,Neha Kumar,48,Male,2026-01-21,14.3,9893,4.9,279363,88,141,6,226,173,45,249,55,1.2,131,3.8,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0002,P1002,Vikas Kumar,73,Male,2026-03-06,9.5,11969,5.2,310443,118,190,5.8,163,99,30,269,59,1.2,141,4,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Gupta,Blood Test
+R0003,P1003,Rahul Kumar,26,Male,2026-03-19,14,9789,5,271824,88,243,7.6,275,146,58,189,37,0.8,144,4.7,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0004,P1004,Rohan Kumar,68,Female,2026-02-10,15.3,10431,4.9,268033,82,247,8.2,263,122,45,286,33,1.2,147,5,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0005,P1005,Vikas Kumar,20,Male,2026-01-11,13.6,8045,3.5,178237,133,211,5.2,157,139,54,169,24,1.7,144,3,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Rao,Blood Test
+R0006,P1006,Pooja Kumar,35,Male,2026-04-29,10.7,6866,4.3,332675,118,160,8,263,115,45,187,33,1.4,137,3.4,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Mehta,Blood Test
+R0007,P1007,Priya Kumar,73,Female,2026-01-20,12,11652,4.2,368628,95,141,7.7,230,149,48,237,59,1.4,142,3.7,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0008,P1008,Arjun Kumar,29,Male,2026-04-02,10.6,11854,5.3,184902,157,262,6.6,239,150,41,169,34,1.6,143,4.7,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Sharma,Blood Test
+R0009,P1009,Arjun Kumar,67,Male,2026-03-12,15.4,8614,4,267414,82,195,8.7,201,177,37,183,48,1.6,137,4,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Sharma,Blood Test
+R0010,P1010,Rohan Kumar,36,Female,2026-03-11,12.6,8380,4.8,381301,91,252,7.2,170,168,45,284,20,1,145,5.4,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Rao,Blood Test
+R0011,P1011,Pooja Kumar,32,Female,2026-03-01,12.2,11379,5,270719,167,211,5.5,173,178,43,218,23,1.5,143,3.8,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Sharma,Blood Test
+R0012,P1012,Priya Kumar,20,Female,2026-03-08,9.1,9245,5.1,203105,162,128,8.2,250,140,40,294,52,1.8,132,4.6,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Rao,Blood Test
+R0013,P1013,Vikas Kumar,46,Female,2026-03-10,11.3,5410,4.7,344660,117,141,5,229,154,54,217,41,0.7,138,4.5,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0014,P1014,Amit Kumar,55,Male,2026-03-15,13.8,10758,5.3,294023,141,132,6.2,278,153,55,294,35,1.9,134,3.9,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Rao,Blood Test
+R0015,P1015,Priya Kumar,60,Male,2026-02-02,12.1,5843,5.1,262988,88,225,5.8,190,166,33,151,52,1.5,133,3.8,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Rao,Blood Test
+R0016,P1016,Rohan Kumar,64,Male,2026-02-15,10.6,11624,4.1,213773,119,231,6.6,221,164,55,288,45,2,145,3.7,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0017,P1017,Anjali Kumar,61,Female,2026-01-15,14,4478,4.3,219836,111,161,6.3,284,122,50,258,35,1.9,144,3.4,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Gupta,Blood Test
+R0018,P1018,Rahul Kumar,63,Female,2026-04-09,14.6,11601,4.9,158919,88,200,8.8,250,156,48,174,46,1.6,135,3.3,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Mehta,Blood Test
+R0019,P1019,Sneha Kumar,42,Female,2026-04-01,13.6,8833,3.7,313863,163,125,5.6,228,127,46,168,35,1.4,137,4.6,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Gupta,Blood Test
+R0020,P1020,Arjun Kumar,74,Male,2026-04-22,11.9,5437,4.8,334342,129,184,7.3,242,158,33,217,25,1.1,132,3.3,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0021,P1021,Pooja Kumar,27,Male,2026-03-06,12.6,11136,5,175974,117,297,7.7,156,102,34,173,40,0.8,134,4.1,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Mehta,Blood Test
+R0022,P1022,Priya Kumar,75,Male,2026-01-08,15.9,11205,4.7,131359,180,271,6.6,277,159,37,251,44,1.5,145,5.3,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0023,P1023,Rohan Kumar,39,Female,2026-02-18,14.1,8653,5.3,277725,99,198,8.7,166,162,58,281,36,1.9,145,3.9,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Rao,Blood Test
+R0024,P1024,Arjun Kumar,60,Female,2026-01-02,14.6,7719,3.7,240082,168,169,7.9,298,134,41,267,35,0.9,131,5,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0025,P1025,Priya Kumar,61,Female,2026-04-09,10.2,7593,5,399616,179,249,5,241,130,31,299,31,1,146,3,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Rao,Blood Test
+R0026,P1026,Neha Kumar,70,Female,2026-03-17,15.3,8587,3.7,279498,143,299,8.4,228,172,47,230,59,1.1,135,5.3,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0027,P1027,Amit Kumar,65,Male,2026-02-26,15,4260,4.5,220335,158,211,8.7,226,105,58,169,20,1.2,133,4.3,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Gupta,Blood Test
+R0028,P1028,Pooja Kumar,22,Male,2026-02-14,13.2,9618,5.4,164945,133,224,8.4,214,180,32,255,54,1,141,5.3,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Gupta,Blood Test
+R0029,P1029,Pooja Kumar,65,Female,2026-02-03,11.4,6971,3.7,284858,83,260,8.6,284,123,43,179,42,1.5,148,3.2,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Sharma,Blood Test
+R0030,P1030,Priya Kumar,70,Female,2026-03-27,13,4052,4.9,197735,95,205,7,236,137,47,217,53,0.7,134,3.3,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0031,P1031,Rohan Kumar,52,Female,2026-04-19,11.9,10725,5.3,229604,126,202,5.6,218,176,47,178,37,1.9,137,4.8,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Gupta,Blood Test
+R0032,P1032,Vikas Kumar,35,Female,2026-02-01,13.6,8272,5.1,295652,126,213,8.2,186,120,51,239,42,1.8,144,4.7,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Rao,Blood Test
+R0033,P1033,Vikas Kumar,37,Female,2026-01-17,15.3,10417,4.8,277470,142,279,8.7,166,144,36,168,59,1.2,132,3.3,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Sharma,Blood Test
+R0034,P1034,Neha Kumar,47,Male,2026-01-22,14.2,9468,3.7,230553,95,293,5.5,285,107,59,208,33,1.7,139,4,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Rao,Blood Test
+R0035,P1035,Sneha Kumar,70,Female,2026-03-25,9.5,5909,5.4,282302,149,289,6.4,180,137,60,155,37,1.7,138,4,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0036,P1036,Pooja Kumar,36,Female,2026-01-27,15.5,4956,3.6,189789,89,196,6.3,202,122,30,232,24,1.7,142,5.2,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0037,P1037,Priya Kumar,62,Female,2026-01-04,13.6,8047,3.6,134532,140,237,7.4,267,98,44,260,58,1.6,147,5.2,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Sharma,Blood Test
+R0038,P1038,Vikas Kumar,72,Female,2026-01-11,9.4,6026,3.9,237227,139,128,8.5,224,169,34,299,47,1.3,150,4.5,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Mehta,Blood Test
+R0039,P1039,Rahul Kumar,29,Female,2026-03-27,13.7,10383,4.9,360849,166,186,8.9,255,132,45,237,54,1,143,4.6,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0040,P1040,Rahul Kumar,52,Male,2026-02-10,9.3,6635,4,265530,96,227,7.7,176,93,41,172,50,1.8,142,5.2,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Mehta,Blood Test
+R0041,P1041,Neha Kumar,29,Female,2026-03-14,14.6,6149,3.9,221417,134,244,9,264,100,32,249,39,1.5,143,5.1,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0042,P1042,Rahul Kumar,68,Female,2026-01-09,12.1,9218,5.1,311131,100,166,7.7,293,91,33,162,28,1.5,139,3.2,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Gupta,Blood Test
+R0043,P1043,Pooja Kumar,43,Male,2026-03-23,10.3,11928,5.3,222161,160,223,7.5,266,175,59,225,30,0.6,149,5.2,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Sharma,Blood Test
+R0044,P1044,Rohan Kumar,58,Female,2026-02-16,12.2,6234,4.9,176526,178,250,7.2,254,96,32,230,23,0.6,141,3.1,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0045,P1045,Pooja Kumar,32,Female,2026-03-30,13.6,8719,4.9,253419,94,124,4.9,210,141,32,220,60,1.4,147,5.1,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0046,P1046,Arjun Kumar,40,Female,2026-04-01,11.3,4675,5.4,201785,85,173,5.2,210,113,44,234,60,1.1,145,4,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0047,P1047,Vikas Kumar,48,Female,2026-02-23,15.5,10196,3.7,166140,103,147,7.6,297,112,52,237,31,1.1,142,3.2,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Rao,Blood Test
+R0048,P1048,Rohan Kumar,36,Female,2026-02-14,11.6,5912,5.4,357094,149,281,5.6,214,116,57,192,30,2,149,4,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0049,P1049,Rohan Kumar,66,Male,2026-03-17,14.5,11405,4.4,319399,147,264,6.7,196,139,40,190,45,1.7,132,5.5,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Sharma,Blood Test
+R0050,P1050,Pooja Kumar,66,Female,2026-04-22,12.8,8881,5.1,154813,83,226,8,162,104,36,216,28,1.4,130,3.9,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Rao,Blood Test
+R0051,P1051,Sneha Kumar,65,Male,2026-01-10,11.2,7848,4.3,133780,118,218,9,171,166,32,192,34,1.6,130,3.6,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Sharma,Blood Test
+R0052,P1052,Priya Kumar,24,Female,2026-01-10,14.1,6063,4.3,309104,84,267,4.6,227,111,53,199,22,0.7,132,4.4,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0053,P1053,Arjun Kumar,37,Female,2026-03-12,11.1,9024,5.2,277432,120,280,8.9,213,168,50,158,35,1.3,146,3.7,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Rao,Blood Test
+R0054,P1054,Sneha Kumar,50,Female,2026-01-21,13.6,6828,5,226356,152,196,7.3,153,104,56,249,37,0.8,137,3.7,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Sharma,Blood Test
+R0055,P1055,Vikas Kumar,20,Male,2026-01-02,11.8,4616,5.3,139840,90,161,5.8,236,121,42,170,30,0.9,146,3.8,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0056,P1056,Amit Kumar,41,Male,2026-04-27,16,10061,4.1,225131,87,246,9,172,175,34,287,40,0.7,145,3.4,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Sharma,Blood Test
+R0057,P1057,Priya Kumar,50,Female,2026-03-24,9.8,10230,4.8,313639,171,245,7.1,239,132,46,210,35,0.9,142,4.5,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0058,P1058,Amit Kumar,25,Female,2026-02-17,12.9,7374,4.6,136477,80,200,5.7,242,100,35,171,40,0.7,135,3.3,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0059,P1059,Arjun Kumar,41,Female,2026-02-16,10.5,6797,4.6,270567,133,264,6,282,153,34,231,35,1.2,135,4.9,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0060,P1060,Pooja Kumar,18,Female,2026-01-11,15,6349,5.1,208558,102,266,4.8,285,133,54,163,20,1.2,150,5.5,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Sharma,Blood Test
+R0061,P1061,Priya Kumar,37,Male,2026-02-08,11.1,6284,4.3,197682,166,233,6.8,193,131,47,269,28,1.7,141,4.8,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0062,P1062,Rohan Kumar,42,Female,2026-03-05,12.3,4395,3.8,257492,130,149,6.8,237,108,55,234,59,1.5,149,3.1,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Gupta,Blood Test
+R0063,P1063,Arjun Kumar,23,Female,2026-04-12,10,5890,4.6,136937,99,155,8.6,231,92,50,184,23,1.4,131,3,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Sharma,Blood Test
+R0064,P1064,Priya Kumar,24,Female,2026-04-19,10.9,6427,4.1,200680,179,229,7.1,175,179,59,194,60,1,145,3.1,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0065,P1065,Arjun Kumar,36,Female,2026-02-06,14.9,10125,5.2,151723,160,148,8,287,125,41,222,36,1.2,149,5.2,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Mehta,Blood Test
+R0066,P1066,Anjali Kumar,68,Male,2026-02-24,15.4,5575,5.3,388714,174,154,6.6,286,178,57,193,30,1,150,5.1,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Sharma,Blood Test
+R0067,P1067,Amit Kumar,23,Male,2026-03-24,13.9,8026,4.4,223379,146,175,6.3,202,116,35,164,49,1.4,148,4.4,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0068,P1068,Amit Kumar,37,Male,2026-02-26,9.8,10464,4.6,256096,121,151,5.5,231,143,34,204,47,1.6,148,5.2,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0069,P1069,Anjali Kumar,36,Male,2026-02-27,14.4,10447,3.6,170497,108,217,8.6,253,139,49,288,24,1.1,130,3.4,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Mehta,Blood Test
+R0070,P1070,Vikas Kumar,61,Male,2026-02-16,13.1,11517,4,186515,109,186,4.5,165,92,34,254,22,0.9,147,4.3,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Mehta,Blood Test
+R0071,P1071,Amit Kumar,37,Male,2026-03-14,10.7,4710,4.9,237185,134,152,4.7,252,106,51,157,53,0.7,148,4.2,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Gupta,Blood Test
+R0072,P1072,Sneha Kumar,48,Male,2026-02-17,14.7,10428,4.1,211665,153,217,5.7,224,145,57,228,25,1.4,143,4.6,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0073,P1073,Priya Kumar,56,Male,2026-01-08,12.3,7082,4.1,249168,137,274,8,196,95,47,189,60,0.7,146,3.8,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Mehta,Blood Test
+R0074,P1074,Rohan Kumar,60,Male,2026-03-25,15.8,8335,4.1,377570,86,225,5,181,142,50,298,50,0.7,148,3.9,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Mehta,Blood Test
+R0075,P1075,Anjali Kumar,70,Male,2026-04-04,15.6,4989,4.6,289258,120,141,4.8,298,141,30,201,32,1.1,131,4.4,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Gupta,Blood Test
+R0076,P1076,Rahul Kumar,27,Male,2026-04-28,14.3,7738,3.5,386316,84,194,4.8,182,105,53,273,56,0.7,139,4.1,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Gupta,Blood Test
+R0077,P1077,Rohan Kumar,47,Male,2026-01-09,10.9,4456,4,174936,141,172,7.5,179,152,31,224,30,1.9,146,4,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Gupta,Blood Test
+R0078,P1078,Anjali Kumar,48,Male,2026-02-12,15.1,4526,5.4,180830,106,167,4.6,191,93,30,253,50,1.4,130,5.1,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0079,P1079,Priya Kumar,65,Female,2026-03-28,9.8,9783,4.3,261132,173,286,5.3,184,94,54,248,33,0.7,141,3.2,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0080,P1080,Rahul Kumar,75,Male,2026-04-12,10,6199,3.6,287670,164,218,7.8,297,151,31,228,41,0.8,148,3.8,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0081,P1081,Rahul Kumar,49,Male,2026-02-01,11.5,9322,3.7,128507,136,122,6.5,219,175,31,188,43,0.8,137,5,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Sharma,Blood Test
+R0082,P1082,Sneha Kumar,66,Female,2026-04-19,14.2,5212,3.9,161819,159,218,4.7,171,115,52,186,60,1.9,141,4.7,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Sharma,Blood Test
+R0083,P1083,Sneha Kumar,61,Female,2026-03-15,9.8,11611,3.7,347543,89,132,8.5,152,92,57,183,34,0.9,135,4,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Rao,Blood Test
+R0084,P1084,Vikas Kumar,72,Male,2026-04-03,14.8,8068,3.8,373897,167,256,4.9,183,156,45,160,31,1.7,141,3.4,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0085,P1085,Pooja Kumar,71,Female,2026-03-10,10.5,9025,3.7,339009,84,223,6.2,284,87,59,245,56,0.8,136,4.3,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0086,P1086,Anjali Kumar,52,Male,2026-01-19,11.6,4491,4.3,134618,129,138,8,211,86,36,191,49,1.9,138,4.8,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Gupta,Blood Test
+R0087,P1087,Vikas Kumar,71,Male,2026-03-09,11.1,6906,5.2,272020,143,279,8,202,149,46,178,59,1.7,140,3.4,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Mehta,Blood Test
+R0088,P1088,Arjun Kumar,18,Female,2026-01-24,12,9695,4.6,162097,101,274,6.4,203,136,45,208,20,1.2,148,4.4,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Rao,Blood Test
+R0089,P1089,Sneha Kumar,19,Female,2026-01-03,14.3,5412,4.9,380687,175,176,8.6,265,137,45,222,54,1.1,137,3.2,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Mehta,Blood Test
+R0090,P1090,Anjali Kumar,24,Male,2026-04-24,11.1,7892,4.9,380918,82,164,7.2,208,136,56,233,38,1.2,139,3.2,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0091,P1091,Priya Kumar,49,Female,2026-02-17,9.9,9113,4,374818,95,251,7,211,85,57,157,31,0.6,132,4.9,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0092,P1092,Anjali Kumar,50,Female,2026-02-10,12.5,11133,5.1,362216,138,266,8.9,300,95,35,201,51,1.5,148,3.9,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Sharma,Blood Test
+R0093,P1093,Arjun Kumar,19,Male,2026-03-26,12,4387,4.7,187120,180,192,7.4,291,147,46,203,51,1.5,140,3.3,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Rao,Blood Test
+R0094,P1094,Anjali Kumar,50,Male,2026-01-02,14.3,6703,4.1,387223,163,220,4.9,235,175,46,293,27,1.6,149,3.8,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0095,P1095,Rahul Kumar,62,Female,2026-03-11,15.4,6584,4.4,363372,176,263,7.4,196,98,50,269,30,0.9,149,5.4,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Mehta,Blood Test
+R0096,P1096,Priya Kumar,40,Male,2026-03-20,10.1,4865,3.7,127081,101,248,4.8,274,111,58,192,37,1.1,135,5.2,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0097,P1097,Amit Kumar,72,Male,2026-01-17,14.7,11277,4.3,310189,148,121,6.2,297,92,50,281,39,0.9,141,3.5,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Sharma,Blood Test
+R0098,P1098,Sneha Kumar,45,Female,2026-04-01,14.8,5321,5,133864,108,175,6.9,159,173,51,246,28,1,150,4.1,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Mehta,Blood Test
+R0099,P1099,Neha Kumar,69,Female,2026-03-26,10.2,8907,3.9,307207,97,233,6.7,182,87,58,165,55,0.7,144,4.2,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Gupta,Blood Test
+R0100,P1100,Rohan Kumar,37,Female,2026-02-06,9.8,11409,3.7,141559,98,180,6.3,236,161,45,188,42,0.7,149,3.9,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0101,P1101,Anjali Kumar,20,Female,2026-01-03,11.4,6470,4.6,226289,138,280,6.5,238,161,58,157,30,1.3,141,5.2,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0102,P1102,Amit Kumar,18,Female,2026-03-11,14.5,10548,5.1,296031,161,163,8.4,293,97,36,235,29,1.8,146,3.2,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Mehta,Blood Test
+R0103,P1103,Priya Kumar,37,Male,2026-01-30,10,9584,4,219880,123,126,7.6,192,151,48,177,37,0.9,134,4.5,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0104,P1104,Priya Kumar,28,Female,2026-03-01,10.5,10542,4,129763,95,292,5.9,185,98,41,151,51,0.6,139,3.3,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0105,P1105,Rahul Kumar,37,Male,2026-04-10,12.8,7212,4.4,155200,157,272,6.8,184,89,54,269,56,1.4,136,4.4,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Sharma,Blood Test
+R0106,P1106,Rohan Kumar,37,Male,2026-01-26,13.3,7499,5.3,290588,155,287,6.3,151,106,33,217,57,1.5,148,4.1,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Mehta,Blood Test
+R0107,P1107,Neha Kumar,69,Male,2026-04-04,11.5,7789,4.5,360828,133,159,6.4,271,113,56,152,24,0.9,144,5,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0108,P1108,Anjali Kumar,56,Female,2026-01-05,15.9,4313,5.1,382386,155,218,5.4,258,81,54,163,23,0.6,136,5.1,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Rao,Blood Test
+R0109,P1109,Sneha Kumar,52,Male,2026-04-11,11,5692,5.5,355830,167,252,5,175,83,30,246,60,1.3,136,4,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Rao,Blood Test
+R0110,P1110,Pooja Kumar,58,Male,2026-04-26,10.6,11268,5.4,189713,131,122,6.2,288,173,46,200,51,2,134,3.3,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Sharma,Blood Test
+R0111,P1111,Amit Kumar,20,Female,2026-02-10,13.6,8445,5.4,288724,168,242,8.8,232,172,40,279,41,0.9,131,3.9,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Rao,Blood Test
+R0112,P1112,Anjali Kumar,21,Female,2026-04-16,13.9,11635,5.5,151117,178,254,7.7,288,102,60,214,40,1.5,134,5.3,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Rao,Blood Test
+R0113,P1113,Rohan Kumar,50,Female,2026-02-11,12.6,9534,3.6,284864,120,236,5.7,234,87,41,194,29,1.6,145,5.4,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Gupta,Blood Test
+R0114,P1114,Arjun Kumar,65,Male,2026-03-26,13.7,7952,4.7,242852,151,179,5.8,219,112,46,221,36,1.7,143,5,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Gupta,Blood Test
+R0115,P1115,Neha Kumar,25,Male,2026-03-05,10.9,5511,4.6,309038,81,231,4.9,298,135,40,290,49,2,149,5.4,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Sharma,Blood Test
+R0116,P1116,Amit Kumar,71,Female,2026-03-22,15.6,7216,3.7,315915,130,298,4.7,245,178,48,261,53,1,135,4.3,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Sharma,Blood Test
+R0117,P1117,Rohan Kumar,43,Female,2026-01-09,14.2,7926,4,186371,154,175,5.7,173,96,56,248,45,1.9,140,3.1,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Gupta,Blood Test
+R0118,P1118,Rahul Kumar,18,Male,2026-03-09,14.8,7810,3.6,367307,124,277,8.9,268,149,31,256,33,1.9,147,4.9,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Sharma,Blood Test
+R0119,P1119,Arjun Kumar,56,Female,2026-02-23,13.3,10856,3.7,311363,102,167,5.3,295,104,55,180,34,1,131,5.4,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Mehta,Blood Test
+R0120,P1120,Vikas Kumar,50,Female,2026-01-25,13.3,10663,4.5,252214,173,148,5.9,224,104,55,188,44,1.9,148,4.9,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0121,P1121,Rahul Kumar,37,Female,2026-03-14,11.4,7106,4.5,133133,114,142,6.4,199,88,51,284,34,0.8,136,3.4,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Rao,Blood Test
+R0122,P1122,Amit Kumar,19,Male,2026-01-13,15.3,6750,5.4,389434,155,129,5.9,210,104,36,279,26,1.3,133,3.7,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Gupta,Blood Test
+R0123,P1123,Vikas Kumar,52,Female,2026-01-08,10.6,7405,3.9,120841,137,222,6.9,206,166,46,217,39,0.9,146,4.4,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Mehta,Blood Test
+R0124,P1124,Rohan Kumar,75,Female,2026-01-21,14.7,6908,4.5,278901,120,185,5.2,208,119,49,296,30,1.1,139,5.1,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Rao,Blood Test
+R0125,P1125,Sneha Kumar,34,Male,2026-02-05,14.9,9638,5.2,398878,154,211,7.9,283,122,36,215,52,1.5,134,4.6,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Gupta,Blood Test
+R0126,P1126,Rahul Kumar,57,Female,2026-04-08,9.4,5754,5,184549,92,223,7.8,164,142,30,161,48,1.5,144,5.1,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0127,P1127,Amit Kumar,57,Female,2026-02-25,10.2,7048,4.8,134246,149,203,7.2,238,126,49,277,32,1.4,131,4.2,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0128,P1128,Vikas Kumar,69,Female,2026-03-30,10.2,8716,4.7,295137,177,290,8.7,167,93,54,240,56,1.8,147,3.9,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Gupta,Blood Test
+R0129,P1129,Rahul Kumar,62,Female,2026-04-20,9.8,8120,3.6,262311,142,181,6.8,204,166,51,243,22,1.7,143,4.4,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Sharma,Blood Test
+R0130,P1130,Priya Kumar,29,Female,2026-01-27,15.4,11863,5,285776,158,245,8,200,118,56,160,40,1.3,149,4.5,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0131,P1131,Priya Kumar,67,Male,2026-04-29,12.9,5450,4.4,160938,112,211,5.5,171,117,53,293,42,1.6,134,4.2,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Rao,Blood Test
+R0132,P1132,Anjali Kumar,65,Female,2026-03-29,10.8,10824,5.2,265349,178,231,6.1,197,153,50,186,30,1.3,135,3.5,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Rao,Blood Test
+R0133,P1133,Neha Kumar,32,Female,2026-02-28,9.4,11166,4.7,243115,126,152,6.2,282,113,32,219,58,0.7,131,4.8,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Gupta,Blood Test
+R0134,P1134,Rahul Kumar,54,Female,2026-03-09,15.3,4563,5.2,288274,128,242,7.3,261,141,36,179,47,1,149,4.9,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0135,P1135,Rohan Kumar,45,Female,2026-03-16,10.5,4978,4.5,377469,129,189,6.9,291,143,45,242,23,1.1,138,3.5,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0136,P1136,Neha Kumar,32,Female,2026-02-14,9.8,10451,5.2,198089,150,234,5,289,116,56,283,47,1.9,134,3.9,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0137,P1137,Amit Kumar,19,Male,2026-01-31,9.7,5152,5.1,373897,83,137,7.7,194,106,42,256,55,1,136,3.5,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Gupta,Blood Test
+R0138,P1138,Priya Kumar,24,Male,2026-02-12,11,4571,5.3,262465,93,146,7.5,289,132,35,207,51,0.8,139,3.2,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0139,P1139,Neha Kumar,38,Female,2026-04-14,10,5204,3.6,187756,164,149,4.8,164,114,59,164,52,1.7,135,4.8,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Sharma,Blood Test
+R0140,P1140,Vikas Kumar,42,Female,2026-03-21,13.9,11634,3.5,197261,171,124,6.1,295,121,55,160,31,2,143,5,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Sharma,Blood Test
+R0141,P1141,Priya Kumar,57,Male,2026-04-27,11.6,8897,4.2,352719,87,192,8.6,276,145,53,175,47,0.8,144,4.8,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0142,P1142,Priya Kumar,52,Female,2026-02-03,10.7,4599,4.1,378172,115,211,5.4,217,119,30,228,23,1.8,146,4.8,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0143,P1143,Rohan Kumar,25,Female,2026-04-19,12.9,10563,4.9,128157,162,157,6.2,162,128,51,153,48,1.6,135,5,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Gupta,Blood Test
+R0144,P1144,Arjun Kumar,43,Male,2026-03-11,14.3,10114,4.1,276586,157,257,8.9,253,136,45,295,20,1.3,147,3,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Gupta,Blood Test
+R0145,P1145,Arjun Kumar,33,Male,2026-01-12,12.6,9263,4.1,306406,154,272,7.7,227,109,59,183,48,1.6,136,5.4,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0146,P1146,Rohan Kumar,48,Female,2026-01-12,9.5,6921,4.3,186727,97,166,5.8,245,98,40,267,54,1,134,3.6,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Rao,Blood Test
+R0147,P1147,Rohan Kumar,49,Male,2026-02-04,11,5492,4.2,174027,136,223,4.9,160,85,35,163,44,1.4,149,3.9,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0148,P1148,Priya Kumar,53,Male,2026-01-30,11.3,10073,3.9,173556,141,147,4.6,232,106,40,223,21,1,131,4.8,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Gupta,Blood Test
+R0149,P1149,Sneha Kumar,57,Female,2026-01-15,11.1,7366,5.2,190192,88,265,5.7,281,151,31,221,56,1.3,145,4.4,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Gupta,Blood Test
+R0150,P1150,Rohan Kumar,59,Female,2026-03-01,15.5,11545,4.7,141409,174,290,8.1,288,83,41,180,46,1.9,134,4.6,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Sharma,Blood Test
+R0151,P1151,Arjun Kumar,51,Female,2026-01-03,10.4,10504,3.8,384605,159,154,5.9,182,80,59,191,21,1.1,145,3.1,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Sharma,Blood Test
+R0152,P1152,Arjun Kumar,71,Female,2026-04-18,11.6,11882,4.6,228932,107,207,8.8,238,121,33,243,44,1.2,139,3,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Mehta,Blood Test
+R0153,P1153,Arjun Kumar,63,Female,2026-03-24,10.3,5941,4.5,274874,110,187,7.5,245,84,49,172,49,1.8,143,4,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0154,P1154,Arjun Kumar,48,Male,2026-02-23,13.3,9892,3.7,198250,153,300,8.3,204,166,50,212,35,1.2,130,5.1,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Gupta,Blood Test
+R0155,P1155,Pooja Kumar,64,Female,2026-04-28,12.6,10256,3.9,365715,98,156,5.3,171,139,58,289,49,1.6,131,3.2,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Mehta,Blood Test
+R0156,P1156,Anjali Kumar,31,Female,2026-04-09,10.8,5599,4.8,179518,93,229,6.3,161,179,52,268,31,0.6,143,4.5,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0157,P1157,Vikas Kumar,67,Female,2026-03-25,13.7,5003,3.7,381977,124,192,9,264,101,35,255,25,1.5,137,3.2,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Gupta,Blood Test
+R0158,P1158,Vikas Kumar,64,Female,2026-02-04,10.8,6865,5.4,257561,96,242,6.2,298,173,60,192,29,1.5,144,5.4,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Sharma,Blood Test
+R0159,P1159,Rahul Kumar,73,Male,2026-01-04,10.4,11031,3.6,283975,148,182,4.9,271,177,47,285,23,1.1,140,3.9,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0160,P1160,Priya Kumar,62,Female,2026-04-07,12.2,7668,3.5,380382,90,149,5.5,265,165,50,181,49,0.9,137,4.7,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0161,P1161,Rahul Kumar,33,Male,2026-02-03,10.6,9918,4.6,169563,162,228,6.3,160,134,51,213,45,1.9,147,3,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Sharma,Blood Test
+R0162,P1162,Arjun Kumar,30,Male,2026-04-01,12.2,4340,4.2,328746,174,161,7.6,158,147,58,233,36,1.1,147,3.7,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0163,P1163,Rohan Kumar,72,Male,2026-04-06,12.1,10573,3.8,355150,84,284,5.7,179,166,31,288,58,0.8,138,3.1,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0164,P1164,Vikas Kumar,40,Female,2026-03-12,12.3,4767,5.5,377376,85,210,6.4,173,120,45,286,53,1.5,139,4.9,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Rao,Blood Test
+R0165,P1165,Vikas Kumar,63,Male,2026-01-29,12,8778,4.1,212656,121,257,8.6,181,117,48,296,25,0.7,146,4.7,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Mehta,Blood Test
+R0166,P1166,Pooja Kumar,74,Male,2026-04-03,14.4,11837,4,125673,144,299,4.6,197,117,58,212,47,1.4,132,4,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Rao,Blood Test
+R0167,P1167,Amit Kumar,43,Female,2026-03-07,13.4,5856,4.5,383653,145,200,5.5,151,121,56,266,49,1.8,146,4.2,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Rao,Blood Test
+R0168,P1168,Pooja Kumar,70,Female,2026-02-03,11.8,11093,5.3,347884,116,151,5,285,166,54,300,54,1.1,149,4.6,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Mehta,Blood Test
+R0169,P1169,Pooja Kumar,75,Female,2026-02-18,14.8,11875,5.3,357361,88,127,9,249,144,38,256,34,0.6,137,3.9,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0170,P1170,Priya Kumar,25,Male,2026-03-14,15,10889,3.9,266529,80,168,7.4,233,158,42,185,55,2,142,3.5,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Rao,Blood Test
+R0171,P1171,Sneha Kumar,57,Female,2026-03-30,13.3,7370,5,308887,156,267,4.8,289,130,45,212,32,1.5,131,4.6,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0172,P1172,Neha Kumar,74,Female,2026-01-29,15.8,11305,4.4,379871,85,237,6.1,182,94,57,239,49,1.8,136,5.2,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Mehta,Blood Test
+R0173,P1173,Vikas Kumar,73,Female,2026-01-27,11.9,5181,3.9,298251,116,220,8.5,193,149,38,240,37,1.2,140,4.1,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0174,P1174,Vikas Kumar,57,Male,2026-03-02,10.4,10544,5,278403,95,172,8.3,278,167,59,264,42,1,132,5,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0175,P1175,Pooja Kumar,54,Male,2026-03-17,13.6,5100,5.3,244303,168,199,7.9,268,135,55,185,28,0.7,131,3.3,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Rao,Blood Test
+R0176,P1176,Pooja Kumar,65,Male,2026-02-15,14,10307,4.6,162774,160,280,8.6,204,172,34,263,27,1.5,142,5.2,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Sharma,Blood Test
+R0177,P1177,Anjali Kumar,53,Male,2026-04-12,11.8,4296,5.4,266983,140,282,8.7,299,116,53,233,33,1.5,139,5,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Gupta,Blood Test
+R0178,P1178,Priya Kumar,56,Female,2026-04-30,13.6,9444,4.3,138980,88,271,8.3,282,116,40,193,33,0.7,144,4.1,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0179,P1179,Pooja Kumar,56,Male,2026-02-28,10.7,5048,3.5,239782,105,156,5.5,253,154,34,212,32,1.6,136,3.4,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Mehta,Blood Test
+R0180,P1180,Neha Kumar,52,Male,2026-01-25,9.8,7074,5.3,308347,138,202,6.4,222,167,42,296,57,1.6,148,4.3,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Gupta,Blood Test
+R0181,P1181,Vikas Kumar,40,Male,2026-01-24,15.7,4547,4,166715,156,268,6.5,214,162,51,243,38,1.5,140,5,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0182,P1182,Arjun Kumar,49,Female,2026-03-06,12.7,11151,5.3,164632,162,279,8,260,109,42,285,27,1.3,140,4.1,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0183,P1183,Neha Kumar,67,Female,2026-01-07,11.5,5745,4.8,182772,125,278,5.6,256,141,31,184,48,0.7,144,4,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Rao,Blood Test
+R0184,P1184,Priya Kumar,43,Male,2026-04-06,9.5,4705,5.1,327038,148,207,6.2,201,164,50,173,56,1.9,131,3.1,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Rao,Blood Test
+R0185,P1185,Rohan Kumar,35,Female,2026-02-01,10.9,7978,4.4,242490,114,205,4.9,165,97,34,201,20,1.3,140,4.7,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Rao,Blood Test
+R0186,P1186,Pooja Kumar,49,Male,2026-01-23,15.5,11401,4.6,249324,107,120,8.7,285,125,56,287,51,0.9,143,3.9,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Gupta,Blood Test
+R0187,P1187,Priya Kumar,33,Male,2026-02-26,11.3,9767,4.1,185510,91,140,5.7,169,154,59,206,49,0.9,137,4.1,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0188,P1188,Priya Kumar,34,Male,2026-03-05,13.6,10919,5.4,335083,132,233,4.6,219,132,41,154,31,1.3,133,4.9,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Rao,Blood Test
+R0189,P1189,Neha Kumar,63,Female,2026-03-01,15.8,6379,4.3,363941,150,286,5.6,159,145,36,233,55,1.8,146,5,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Gupta,Blood Test
+R0190,P1190,Vikas Kumar,30,Male,2026-03-07,12.5,10271,3.7,358440,87,143,6.3,290,160,44,262,28,1.1,147,3.5,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0191,P1191,Amit Kumar,41,Female,2026-01-11,13.1,10912,4.1,364679,113,124,6.9,257,134,51,165,42,1.4,137,4.9,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Sharma,Blood Test
+R0192,P1192,Priya Kumar,32,Male,2026-02-17,14.5,9738,5.1,360807,117,134,4.6,249,93,60,216,21,0.9,146,3.1,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Gupta,Blood Test
+R0193,P1193,Neha Kumar,67,Female,2026-03-22,10.5,11720,4.3,356626,170,242,6.7,204,117,54,276,39,0.9,137,4.4,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0194,P1194,Rahul Kumar,72,Female,2026-03-20,14.3,4659,4.9,222126,81,190,5.1,208,144,57,199,20,1.7,130,4.1,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0195,P1195,Rahul Kumar,58,Female,2026-02-10,10.5,9251,3.8,295854,104,206,8.7,179,95,50,176,55,0.7,142,4.6,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Gupta,Blood Test
+R0196,P1196,Pooja Kumar,70,Male,2026-03-11,15.9,7963,5.5,342996,142,177,8.4,153,169,38,235,51,1.5,147,3.8,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0197,P1197,Vikas Kumar,41,Female,2026-01-03,12.4,4844,4.7,293596,179,137,8.3,285,152,57,227,23,0.9,140,4.3,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Gupta,Blood Test
+R0198,P1198,Vikas Kumar,30,Male,2026-04-13,11.2,8968,3.9,344553,111,256,5.8,269,89,33,234,55,0.8,131,5,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Mehta,Blood Test
+R0199,P1199,Rahul Kumar,31,Male,2026-02-07,9.6,9897,4.1,344121,116,204,6.3,163,141,41,153,24,0.7,137,4.1,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Rao,Blood Test
+R0200,P1200,Arjun Kumar,18,Female,2026-01-15,10.8,8475,4.3,196177,152,163,8.6,208,100,43,293,29,1.6,150,5.5,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Mehta,Blood Test
+R0201,P1201,Vikas Kumar,61,Male,2026-01-19,10.6,11450,5.2,144872,121,207,6.9,223,155,34,189,47,1.2,135,4.8,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Rao,Blood Test
+R0202,P1202,Neha Kumar,71,Male,2026-02-08,12.9,4336,4.2,258212,148,148,6,250,111,59,281,32,1.5,134,5.1,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Sharma,Blood Test
+R0203,P1203,Pooja Kumar,59,Male,2026-04-06,10.9,4304,4,347672,126,171,8.4,184,94,37,276,49,1.4,148,3.3,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0204,P1204,Sneha Kumar,19,Male,2026-02-15,13.6,8017,4.2,273575,144,231,4.6,259,122,39,182,42,1,150,3.8,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Sharma,Blood Test
+R0205,P1205,Pooja Kumar,31,Male,2026-01-08,11,5750,4.4,239485,125,188,7.6,191,153,33,152,34,1.6,147,3.8,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Gupta,Blood Test
+R0206,P1206,Amit Kumar,41,Female,2026-01-30,10.2,7433,3.6,243486,169,186,4.9,286,117,30,233,48,0.7,148,4.8,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Gupta,Blood Test
+R0207,P1207,Sneha Kumar,56,Female,2026-04-15,12.2,7371,5.1,140918,146,269,4.9,222,90,45,209,35,0.8,149,5.3,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Rao,Blood Test
+R0208,P1208,Rohan Kumar,58,Female,2026-01-01,13.6,4080,4.2,238117,135,286,5.2,202,125,51,191,21,1.7,132,5.5,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Rao,Blood Test
+R0209,P1209,Pooja Kumar,30,Male,2026-01-24,13.1,7974,5.3,285374,100,277,5.9,226,99,56,230,59,0.9,134,4.9,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Gupta,Blood Test
+R0210,P1210,Rahul Kumar,27,Male,2026-02-14,13.4,9363,4.4,157706,124,261,5,171,102,45,178,33,0.6,133,3.5,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Sharma,Blood Test
+R0211,P1211,Pooja Kumar,75,Female,2026-02-21,10.9,8784,5.1,341938,127,239,6.8,203,158,35,282,55,1.4,142,3.9,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Mehta,Blood Test
+R0212,P1212,Sneha Kumar,72,Male,2026-01-01,12.2,4908,4.5,174246,142,138,5.3,204,131,58,285,24,1.7,146,4.9,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Rao,Blood Test
+R0213,P1213,Sneha Kumar,62,Male,2026-02-12,13.5,9004,5,258035,90,284,5.7,157,164,52,154,23,0.6,144,4.2,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Sharma,Blood Test
+R0214,P1214,Arjun Kumar,58,Male,2026-04-30,12.5,9114,4.9,348886,126,230,8.9,217,137,40,158,41,0.7,137,4.4,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0215,P1215,Neha Kumar,26,Male,2026-01-20,12.9,7233,3.9,120493,81,278,6.8,251,119,52,268,49,1.5,132,3.2,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0216,P1216,Pooja Kumar,48,Female,2026-03-22,13.3,11073,4.1,177420,138,174,7.9,275,113,30,295,43,1.1,133,3.8,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Gupta,Blood Test
+R0217,P1217,Neha Kumar,20,Female,2026-04-06,11.7,4197,3.8,268225,115,162,6.3,248,80,33,227,46,0.8,133,4.5,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Gupta,Blood Test
+R0218,P1218,Vikas Kumar,23,Female,2026-04-29,15.2,11335,3.5,215369,114,121,4.8,285,180,59,206,59,1.6,139,4,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Rao,Blood Test
+R0219,P1219,Rohan Kumar,68,Female,2026-01-20,12.3,7048,5.5,346337,122,139,6.6,202,146,44,240,45,1.9,140,4.4,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Rao,Blood Test
+R0220,P1220,Rohan Kumar,71,Female,2026-04-10,12.5,6716,3.9,383852,80,244,6,235,105,31,223,46,1.4,141,4.1,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Rao,Blood Test
+R0221,P1221,Amit Kumar,21,Female,2026-03-09,12.8,6012,5,207685,146,124,8.3,184,88,31,153,20,0.8,136,3.8,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Gupta,Blood Test
+R0222,P1222,Anjali Kumar,49,Female,2026-01-26,15,5414,4.7,361132,170,176,7.5,279,172,56,177,60,1,147,3.1,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Mehta,Blood Test
+R0223,P1223,Priya Kumar,44,Male,2026-03-12,14,9608,4.8,127907,179,228,8.4,234,101,44,298,46,1.2,141,5.2,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Rao,Blood Test
+R0224,P1224,Rohan Kumar,57,Male,2026-01-06,9.6,10965,4.2,156099,93,234,6.4,240,177,53,277,49,0.7,139,4,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Gupta,Blood Test
+R0225,P1225,Rahul Kumar,58,Female,2026-03-25,14.7,10565,4.2,180027,129,280,5.6,233,179,43,272,52,1.1,147,4,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Rao,Blood Test
+R0226,P1226,Rohan Kumar,25,Male,2026-02-23,15.5,9458,4.9,202823,83,192,6.3,249,105,38,197,57,1.7,134,4.8,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Sharma,Blood Test
+R0227,P1227,Priya Kumar,46,Male,2026-03-21,10.9,11712,4.8,394470,158,210,6.4,214,165,47,167,42,1.4,147,5.3,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Sharma,Blood Test
+R0228,P1228,Vikas Kumar,19,Female,2026-03-03,14,4439,4,291806,94,263,9,209,177,60,258,50,1.5,148,4.3,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Sharma,Blood Test
+R0229,P1229,Rohan Kumar,55,Female,2026-01-11,9.1,8848,5.3,172034,115,274,5.7,242,161,59,227,25,1.7,136,3.7,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0230,P1230,Sneha Kumar,51,Female,2026-02-22,14.4,10872,4.2,340575,121,191,8.2,201,123,58,207,33,1.3,138,3.9,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Rao,Blood Test
+R0231,P1231,Arjun Kumar,18,Female,2026-03-18,15.9,10589,4,323193,113,127,7.2,174,176,41,257,48,1.2,142,5.4,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Mehta,Blood Test
+R0232,P1232,Sneha Kumar,63,Male,2026-03-31,12.3,7622,4.9,337910,163,155,7,250,123,36,231,36,0.9,132,3.6,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0233,P1233,Priya Kumar,73,Female,2026-03-03,12,5317,4.1,159667,97,161,5.6,239,121,56,259,36,1.2,135,4.3,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Gupta,Blood Test
+R0234,P1234,Pooja Kumar,50,Male,2026-02-20,13.6,10897,5.4,290402,135,285,5.9,170,90,46,266,49,1.9,132,5.2,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Mehta,Blood Test
+R0235,P1235,Vikas Kumar,47,Female,2026-04-26,15.3,11192,3.7,200488,136,135,8.8,290,81,53,174,23,1.7,136,4.7,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Rao,Blood Test
+R0236,P1236,Pooja Kumar,19,Female,2026-01-11,11.9,4402,3.8,277911,175,299,4.7,253,168,57,285,41,1.6,131,4.6,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Gupta,Blood Test
+R0237,P1237,Vikas Kumar,61,Female,2026-04-02,15.8,6338,3.9,298407,87,129,4.8,219,114,54,182,26,1.1,133,3.1,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Sharma,Blood Test
+R0238,P1238,Rahul Kumar,66,Male,2026-04-14,12.6,8464,3.6,256726,124,164,5.1,266,175,43,300,55,1.5,150,5.5,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0239,P1239,Rahul Kumar,43,Male,2026-03-11,10.6,8566,4.9,264342,101,200,7.2,262,164,36,202,36,1.6,146,4.7,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Gupta,Blood Test
+R0240,P1240,Amit Kumar,50,Female,2026-03-01,12.6,8606,3.8,178587,132,131,8.3,161,178,43,185,28,1.7,150,3.8,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0241,P1241,Neha Kumar,32,Male,2026-01-29,10.5,6933,4.3,203066,162,292,8.8,279,140,46,180,58,1.3,149,3.1,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0242,P1242,Amit Kumar,37,Female,2026-03-16,9.7,4263,5.3,187021,156,258,8.1,296,154,34,202,43,1.7,149,4.4,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Mehta,Blood Test
+R0243,P1243,Rohan Kumar,48,Male,2026-04-17,12.8,11045,3.7,325475,171,289,8.8,286,175,43,203,25,1.7,134,4.3,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Gupta,Blood Test
+R0244,P1244,Vikas Kumar,32,Male,2026-02-03,10.2,4338,3.9,254000,97,265,6.8,221,167,50,201,46,1.2,140,5.2,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Rao,Blood Test
+R0245,P1245,Sneha Kumar,58,Female,2026-02-08,11.2,10097,4.3,171919,146,176,6.3,298,85,59,250,50,1,132,5.3,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0246,P1246,Neha Kumar,36,Male,2026-04-19,9,10592,4.5,229642,93,153,5.9,202,113,52,161,35,1.4,140,4.6,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Sharma,Blood Test
+R0247,P1247,Neha Kumar,41,Female,2026-03-02,10,10074,5.2,199856,132,149,7.6,216,160,37,178,30,0.7,138,4.3,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Mehta,Blood Test
+R0248,P1248,Rohan Kumar,48,Male,2026-04-06,11,7992,5.1,390591,84,300,7.4,180,127,36,252,58,0.9,143,3.9,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0249,P1249,Arjun Kumar,34,Male,2026-04-05,11,9210,4,137647,111,161,6.5,168,118,52,277,36,1.7,132,3.4,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Mehta,Blood Test
+R0250,P1250,Rahul Kumar,44,Female,2026-02-25,14.6,10854,4.7,339293,180,242,5,226,106,33,272,31,1.5,149,4.9,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Gupta,Blood Test
+R0251,P1251,Priya Kumar,67,Female,2026-02-07,15.8,5084,3.6,177360,127,192,4.9,203,124,44,230,41,1.3,136,4.5,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Gupta,Blood Test
+R0252,P1252,Rohan Kumar,53,Female,2026-03-08,14.1,7438,4.6,240392,125,249,6.4,173,84,60,215,51,1.2,132,4,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Mehta,Blood Test
+R0253,P1253,Pooja Kumar,65,Male,2026-01-09,12.8,7278,5.3,194861,95,281,5.3,290,91,50,274,24,1.2,147,5.3,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0254,P1254,Anjali Kumar,42,Female,2026-04-12,15.1,9202,4.3,356735,112,271,7.3,237,175,58,158,55,1.9,141,3.3,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Sharma,Blood Test
+R0255,P1255,Priya Kumar,42,Female,2026-02-07,10.2,9439,4.1,227944,82,287,6,152,180,42,299,46,2,140,4.6,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0256,P1256,Pooja Kumar,49,Male,2026-03-17,12,11491,5.1,323057,151,169,7.1,188,168,34,191,32,2,146,3.5,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Mehta,Blood Test
+R0257,P1257,Sneha Kumar,59,Male,2026-04-04,15.5,5476,4.7,343203,90,282,5.5,175,127,38,265,31,0.7,131,4.1,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0258,P1258,Neha Kumar,56,Male,2026-02-21,12.9,7703,5.2,151851,175,239,8.5,241,84,40,200,29,1.8,147,4.6,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0259,P1259,Pooja Kumar,23,Female,2026-03-10,9.2,10011,4.9,318994,177,268,5.6,257,121,59,157,55,1.5,133,5.3,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Rao,Blood Test
+R0260,P1260,Arjun Kumar,74,Female,2026-01-13,10.1,8206,4,134012,156,192,8.7,212,130,33,194,21,1.9,150,4.8,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Gupta,Blood Test
+R0261,P1261,Sneha Kumar,39,Female,2026-03-04,10.1,8138,5.4,187963,148,177,8.6,192,131,60,253,44,1.9,143,3.5,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Gupta,Blood Test
+R0262,P1262,Rohan Kumar,55,Male,2026-03-07,13,10118,4,381465,146,269,8.8,187,170,51,187,38,1.6,143,4.2,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0263,P1263,Arjun Kumar,48,Female,2026-02-15,13,4065,4,384807,140,162,6.3,211,167,41,202,57,1.1,142,3.7,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0264,P1264,Sneha Kumar,45,Female,2026-03-11,15.4,11070,5.3,319391,92,271,6.1,278,87,45,170,30,1.4,135,4.3,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0265,P1265,Priya Kumar,43,Male,2026-04-06,14.4,11598,4.9,368541,103,156,4.9,233,118,39,236,30,1.3,130,4.1,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0266,P1266,Amit Kumar,41,Female,2026-04-02,12.5,5085,5.2,373754,113,170,7.5,231,109,35,284,43,1.4,136,4.6,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0267,P1267,Sneha Kumar,31,Male,2026-01-25,15.4,4454,4.9,387799,164,177,8.1,163,116,60,274,41,0.8,141,4.2,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Rao,Blood Test
+R0268,P1268,Anjali Kumar,43,Male,2026-01-02,9.5,10817,4.2,153833,132,256,6.7,251,137,46,156,26,1.4,145,3.9,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0269,P1269,Amit Kumar,56,Female,2026-01-25,12.6,9616,4.6,264339,143,160,5.4,255,138,50,200,53,1.4,147,5,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0270,P1270,Neha Kumar,27,Male,2026-02-14,9.2,9793,3.9,210399,97,232,4.6,257,159,31,208,58,0.9,133,3.5,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0271,P1271,Pooja Kumar,33,Male,2026-01-22,10.9,9052,4.2,281752,88,225,8.2,195,97,46,286,43,0.7,131,4.2,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0272,P1272,Arjun Kumar,72,Male,2026-03-23,14.4,9128,4.9,293567,92,163,5.2,268,169,47,250,51,1.2,145,4.9,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0273,P1273,Priya Kumar,42,Female,2026-01-10,10.8,9393,4.4,312697,109,208,6.3,192,118,45,285,45,0.9,149,4.7,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Mehta,Blood Test
+R0274,P1274,Amit Kumar,60,Female,2026-02-03,9.1,4370,4.8,270036,164,228,4.8,284,111,53,153,30,1.8,143,5.4,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0275,P1275,Rahul Kumar,50,Male,2026-01-23,10.2,4993,3.6,392207,179,225,7.3,261,89,36,188,30,1.7,141,4.5,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0276,P1276,Anjali Kumar,63,Female,2026-02-08,11.1,5092,3.8,277124,146,247,4.7,262,159,51,241,60,1.8,147,3.9,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Gupta,Blood Test
+R0277,P1277,Vikas Kumar,28,Female,2026-02-25,10.9,10444,4.5,149281,161,232,8.6,276,97,44,158,39,1.7,130,5.1,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Gupta,Blood Test
+R0278,P1278,Arjun Kumar,28,Male,2026-04-04,11.4,4516,4.5,250516,94,158,7.7,267,178,36,214,55,0.8,141,5.4,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Rao,Blood Test
+R0279,P1279,Pooja Kumar,48,Male,2026-04-26,13.4,6540,3.7,127459,129,205,7.9,161,104,57,288,55,1.2,141,5.4,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Sharma,Blood Test
+R0280,P1280,Priya Kumar,32,Male,2026-04-05,15.5,7494,5,170269,149,199,7.1,222,150,38,201,50,1.6,148,4.1,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Sharma,Blood Test
+R0281,P1281,Sneha Kumar,29,Male,2026-01-04,9.9,7682,4,338664,101,295,8.9,255,154,45,214,27,1.3,130,4.2,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Gupta,Blood Test
+R0282,P1282,Rohan Kumar,68,Male,2026-02-07,11.9,10034,3.8,332178,89,272,8.9,160,166,56,279,20,0.9,135,3.6,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0283,P1283,Sneha Kumar,59,Male,2026-02-19,14.2,4469,3.6,221931,157,257,4.9,228,177,49,287,46,1,139,4.1,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0284,P1284,Arjun Kumar,54,Female,2026-04-05,9.8,8122,4.7,232689,82,289,9,222,152,52,293,24,0.9,150,4.5,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0285,P1285,Pooja Kumar,23,Female,2026-04-01,10.9,11881,5.1,210175,84,152,6.3,278,96,50,236,22,1.4,132,5.2,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0286,P1286,Anjali Kumar,27,Male,2026-01-13,11.9,5187,3.6,291168,164,193,5.5,166,81,37,273,24,1.5,146,5.4,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Gupta,Blood Test
+R0287,P1287,Sneha Kumar,29,Female,2026-02-01,13.9,6767,4.8,361324,136,236,6,198,137,58,225,48,0.7,131,4.4,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Gupta,Blood Test
+R0288,P1288,Sneha Kumar,22,Female,2026-02-24,9.4,4563,4.6,204577,163,254,4.6,237,162,36,161,30,1.5,146,3.5,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0289,P1289,Vikas Kumar,45,Male,2026-03-15,11.2,9767,3.6,369106,169,160,8.1,162,164,41,151,32,1.3,131,3.2,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Mehta,Blood Test
+R0290,P1290,Rohan Kumar,69,Female,2026-04-14,9.3,6327,4.3,377243,160,227,4.7,209,113,47,183,26,0.6,136,4.5,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0291,P1291,Arjun Kumar,59,Male,2026-01-25,15.7,7595,3.9,363737,120,169,7.8,234,179,46,221,20,0.8,134,4.5,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Gupta,Blood Test
+R0292,P1292,Arjun Kumar,24,Female,2026-01-08,10,7232,5,368314,140,248,5,217,90,39,236,24,1.7,137,3.9,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Sharma,Blood Test
+R0293,P1293,Rahul Kumar,60,Female,2026-01-16,13.5,7435,4.3,280098,179,264,9,150,104,60,276,53,0.8,143,4.9,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0294,P1294,Neha Kumar,57,Male,2026-05-01,13,10663,4.5,370878,131,211,7.2,294,177,34,259,29,1.8,138,3.9,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Sharma,Blood Test
+R0295,P1295,Sneha Kumar,36,Male,2026-01-23,12.9,7421,4.7,168623,148,298,5.7,241,85,59,224,24,0.6,138,3.1,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0296,P1296,Vikas Kumar,40,Male,2026-01-14,11.6,10364,4.9,156135,83,249,8.1,181,140,48,286,35,1.9,134,4,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Rao,Blood Test
+R0297,P1297,Sneha Kumar,66,Male,2026-02-13,11.7,8244,3.8,325974,171,286,6,216,90,42,217,41,1.7,150,4.1,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0298,P1298,Neha Kumar,61,Male,2026-02-17,13.4,4258,4.4,369142,133,193,6.3,290,134,39,200,48,1.6,146,5.4,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0299,P1299,Amit Kumar,26,Male,2026-03-21,12.1,4560,5.3,338805,153,260,6.8,248,145,46,222,44,1.4,149,4.4,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Sharma,Blood Test
+R0300,P1300,Rohan Kumar,45,Female,2026-01-14,14.2,5804,4.4,265142,127,141,7,239,144,37,152,31,1.8,148,4.3,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Sharma,Blood Test
+R0301,P1301,Sneha Kumar,41,Male,2026-03-04,10,4307,4.3,183919,164,207,5.1,171,142,36,254,32,0.7,146,5.2,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Sharma,Blood Test
+R0302,P1302,Sneha Kumar,44,Female,2026-03-06,12.5,4242,4.9,313128,178,223,5.9,185,177,32,258,34,1.5,135,3.9,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0303,P1303,Arjun Kumar,39,Male,2026-04-08,11.1,7000,5.5,383096,173,209,4.9,253,91,34,260,29,1.1,140,3.7,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0304,P1304,Arjun Kumar,25,Female,2026-03-21,14.3,7770,4.5,268155,100,239,8.1,281,93,30,293,33,1.1,138,3.8,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0305,P1305,Rahul Kumar,53,Male,2026-02-18,9.5,11563,4.6,322794,165,272,5,191,166,38,184,37,1.8,132,3.3,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Sharma,Blood Test
+R0306,P1306,Vikas Kumar,57,Female,2026-03-05,10.4,8342,4.5,123991,125,149,8.9,235,156,32,273,56,1,130,3.3,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0307,P1307,Pooja Kumar,46,Male,2026-03-11,9.6,6008,5,211465,80,124,5.4,161,120,53,239,28,1.2,139,3.6,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0308,P1308,Vikas Kumar,23,Female,2026-03-09,11.7,10007,5.4,323827,130,157,8.5,266,95,50,212,60,0.7,148,5,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Mehta,Blood Test
+R0309,P1309,Anjali Kumar,54,Male,2026-04-12,15.3,5335,5,290414,87,202,5,215,141,44,198,24,1.2,138,3,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Rao,Blood Test
+R0310,P1310,Pooja Kumar,52,Male,2026-03-30,11.9,5609,3.9,128067,116,220,6.6,275,169,53,223,22,1.8,141,3.7,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0311,P1311,Anjali Kumar,26,Male,2026-03-05,13,9992,4,285427,112,162,7.6,268,150,48,234,56,1.8,133,3.3,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Rao,Blood Test
+R0312,P1312,Rohan Kumar,21,Male,2026-04-02,11.8,11064,4.4,395602,103,255,8.3,197,124,57,273,46,1.8,142,4.7,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Gupta,Blood Test
+R0313,P1313,Priya Kumar,25,Female,2026-03-24,12.7,6629,4.7,304889,89,295,7.8,235,102,40,220,43,1.9,148,3.5,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Gupta,Blood Test
+R0314,P1314,Priya Kumar,23,Male,2026-02-20,15.7,8622,3.6,380232,132,221,5.7,182,117,30,240,59,2,141,3.2,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Rao,Blood Test
+R0315,P1315,Arjun Kumar,53,Male,2026-03-26,11.7,8709,4.3,380827,113,141,8.6,279,99,54,167,50,1.5,143,3.6,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0316,P1316,Vikas Kumar,71,Male,2026-01-19,9.5,6636,4.4,242681,175,159,6.5,184,136,59,282,56,1.6,134,4.8,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Mehta,Blood Test
+R0317,P1317,Priya Kumar,60,Male,2026-03-07,11.9,4804,3.9,212387,117,122,7.1,282,130,47,162,58,2,144,4.9,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Mehta,Blood Test
+R0318,P1318,Vikas Kumar,25,Female,2026-04-15,9.2,5810,4.4,200360,140,294,8.3,247,127,53,231,54,1,140,4.6,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0319,P1319,Arjun Kumar,57,Male,2026-03-09,10.3,8617,4.1,355649,116,150,7,155,115,41,283,20,1,147,3.8,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Gupta,Blood Test
+R0320,P1320,Amit Kumar,35,Male,2026-02-19,15.4,5429,4.3,190873,179,203,7.4,281,87,54,230,36,1.6,138,5.1,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Sharma,Blood Test
+R0321,P1321,Rahul Kumar,40,Female,2026-03-04,13.2,6381,3.7,209364,99,287,5.1,169,167,48,295,49,1.9,143,4.2,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Sharma,Blood Test
+R0322,P1322,Rahul Kumar,22,Male,2026-01-15,9.7,8857,5.1,284311,172,228,4.7,176,91,58,165,55,0.7,145,4.5,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Mehta,Blood Test
+R0323,P1323,Rahul Kumar,59,Male,2026-04-14,13.3,5375,4.1,248249,146,135,4.9,171,160,57,260,53,0.7,148,4.3,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Sharma,Blood Test
+R0324,P1324,Rohan Kumar,33,Female,2026-01-31,13.9,4515,5.1,217640,92,262,6.5,291,144,48,163,31,1.2,143,4.4,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Sharma,Blood Test
+R0325,P1325,Neha Kumar,66,Male,2026-04-18,10.2,4048,4.9,361804,127,226,7,278,99,46,225,51,1.2,137,3.8,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Mehta,Blood Test
+R0326,P1326,Rahul Kumar,18,Female,2026-03-06,13.8,6331,4.4,320550,106,175,5.3,237,177,40,179,48,0.6,149,3.5,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0327,P1327,Rohan Kumar,55,Male,2026-04-13,12,9851,4.2,157680,148,277,5.4,278,96,47,150,24,1.2,133,5.4,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0328,P1328,Pooja Kumar,61,Female,2026-03-29,15.9,11290,4.2,146206,155,158,8.4,261,173,51,288,29,1.8,133,5.1,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Gupta,Blood Test
+R0329,P1329,Priya Kumar,52,Male,2026-03-06,9.1,7736,5.4,276302,120,148,7.5,221,120,36,238,43,1.7,141,4.8,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Rao,Blood Test
+R0330,P1330,Rahul Kumar,75,Female,2026-01-06,10.1,9511,5.2,257836,84,255,4.6,276,157,35,279,29,1.8,135,3.8,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0331,P1331,Vikas Kumar,25,Male,2026-04-25,13.7,5203,5.4,163624,106,211,9,261,89,59,283,26,1.4,147,5.2,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0332,P1332,Sneha Kumar,23,Female,2026-03-30,11.9,10748,4.7,149397,137,218,5.2,168,137,42,297,21,0.8,138,3.4,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Gupta,Blood Test
+R0333,P1333,Priya Kumar,30,Female,2026-02-09,12.8,7700,4.5,188209,97,130,6.3,162,157,49,291,57,1.4,138,5.1,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Sharma,Blood Test
+R0334,P1334,Arjun Kumar,64,Male,2026-01-19,11.4,11979,4.8,347669,99,220,7.8,223,180,37,274,21,0.6,144,3,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Sharma,Blood Test
+R0335,P1335,Arjun Kumar,18,Female,2026-04-12,12.2,6184,4.7,168367,107,187,8.9,294,157,55,283,45,1.7,136,4.7,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Sharma,Blood Test
+R0336,P1336,Rohan Kumar,60,Female,2026-02-07,15.5,7391,4,384450,159,130,7,235,95,30,195,24,0.9,138,4.6,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Sharma,Blood Test
+R0337,P1337,Arjun Kumar,69,Male,2026-02-15,12.5,8361,5.4,319744,109,124,5.9,239,175,45,244,45,1,145,5.2,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0338,P1338,Pooja Kumar,22,Male,2026-02-12,13.9,5771,4.4,329384,175,199,6.3,264,144,58,207,27,1.7,145,4.1,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Gupta,Blood Test
+R0339,P1339,Arjun Kumar,67,Female,2026-02-25,14.7,10496,4.7,143320,100,288,4.5,178,93,38,225,34,0.7,138,4.1,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Mehta,Blood Test
+R0340,P1340,Priya Kumar,43,Male,2026-04-21,14.1,11787,5.4,212889,109,291,5.9,170,171,46,258,43,1.4,148,3.6,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Rao,Blood Test
+R0341,P1341,Amit Kumar,65,Female,2026-04-16,10.7,8333,3.7,135567,112,143,6.9,179,137,33,289,50,0.9,133,3.8,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0342,P1342,Sneha Kumar,19,Male,2026-01-29,11.2,11618,5.3,363435,153,148,9,200,179,37,247,50,0.6,137,5.1,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Sharma,Blood Test
+R0343,P1343,Neha Kumar,54,Male,2026-02-10,9.8,7386,3.7,170319,139,243,4.8,284,172,51,276,31,1.4,135,4.3,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Rao,Blood Test
+R0344,P1344,Priya Kumar,49,Male,2026-03-05,11.2,6776,4.8,252471,175,255,4.7,157,121,31,161,50,2,142,4.5,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Mehta,Blood Test
+R0345,P1345,Rahul Kumar,43,Male,2026-01-27,10.1,11992,3.7,225395,85,171,7.8,255,94,54,171,60,0.9,136,5.5,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0346,P1346,Sneha Kumar,22,Female,2026-02-05,11.1,6090,4.7,361123,153,275,6.8,288,101,48,192,20,0.9,148,3.5,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Mehta,Blood Test
+R0347,P1347,Rahul Kumar,37,Male,2026-04-30,9.9,5162,3.9,139756,83,273,5.9,222,148,31,259,56,1,149,3.7,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Mehta,Blood Test
+R0348,P1348,Vikas Kumar,48,Male,2026-01-17,15.9,10992,4.4,265211,107,237,6.1,228,104,35,293,37,0.8,137,5.4,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Gupta,Blood Test
+R0349,P1349,Sneha Kumar,69,Male,2026-01-17,11,11751,4.7,327663,127,297,5.2,276,135,58,166,42,1.1,147,5.4,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0350,P1350,Rahul Kumar,66,Female,2026-01-19,15.6,9411,5.4,299391,158,217,5.9,153,128,39,156,39,1.5,139,3.1,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Mehta,Blood Test
+R0351,P1351,Anjali Kumar,34,Male,2026-01-09,10.3,9671,3.6,243169,83,244,7.9,291,140,32,236,41,1,146,4,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0352,P1352,Anjali Kumar,56,Male,2026-01-30,10.8,7605,3.8,370886,174,190,5.5,245,134,30,211,50,1.9,140,5.2,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Sharma,Blood Test
+R0353,P1353,Arjun Kumar,45,Female,2026-03-27,9.8,4213,3.6,389805,92,170,7.7,156,147,60,162,41,0.9,141,4.2,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Sharma,Blood Test
+R0354,P1354,Rahul Kumar,65,Female,2026-03-31,12.2,11617,4.4,379300,173,267,8.5,245,159,37,256,48,1.9,142,3.1,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Sharma,Blood Test
+R0355,P1355,Vikas Kumar,66,Female,2026-02-24,11.1,8440,5.4,317227,148,168,8.7,154,128,49,175,32,1.3,142,5.1,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Mehta,Blood Test
+R0356,P1356,Sneha Kumar,56,Male,2026-03-17,13.9,4696,3.6,220253,98,148,6.3,151,148,58,182,46,1,136,5.2,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Mehta,Blood Test
+R0357,P1357,Rahul Kumar,46,Female,2026-02-23,15.3,5470,4.9,170531,111,227,5.8,255,91,52,195,37,1.5,143,4.3,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Sharma,Blood Test
+R0358,P1358,Rohan Kumar,20,Male,2026-02-23,9.4,9872,4.1,159779,146,261,8.9,211,111,31,199,21,1.1,136,4.8,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Gupta,Blood Test
+R0359,P1359,Sneha Kumar,23,Female,2026-03-23,11.2,10218,4.7,397778,173,241,8.7,150,101,59,228,58,0.9,140,5.1,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Mehta,Blood Test
+R0360,P1360,Rahul Kumar,35,Male,2026-02-01,9,4587,5.4,158606,152,261,5,235,96,43,248,20,1.4,134,5.4,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Gupta,Blood Test
+R0361,P1361,Priya Kumar,51,Male,2026-02-18,9,6229,4.5,342748,143,215,5.5,279,111,58,231,23,2,144,3.5,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0362,P1362,Neha Kumar,40,Male,2026-01-27,11.1,5636,5.1,291745,107,286,5.6,198,150,38,239,50,1.4,144,4.6,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Mehta,Blood Test
+R0363,P1363,Rahul Kumar,26,Male,2026-01-19,15.4,11205,3.8,121734,142,254,8,244,131,35,195,26,1.5,130,4.8,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Mehta,Blood Test
+R0364,P1364,Neha Kumar,46,Male,2026-03-10,13.7,5401,4.1,120871,180,253,6.4,207,148,60,204,52,1.1,139,3.5,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Rao,Blood Test
+R0365,P1365,Neha Kumar,62,Male,2026-04-20,11.4,9453,3.7,331036,109,154,8.1,193,86,41,183,33,1,133,5.2,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Sharma,Blood Test
+R0366,P1366,Rahul Kumar,60,Female,2026-03-04,15.4,10807,4.5,258189,139,234,7,212,170,34,151,60,1.5,150,5.2,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Sharma,Blood Test
+R0367,P1367,Amit Kumar,70,Male,2026-03-09,14.5,7560,4.8,212948,136,230,6.7,243,110,31,205,55,1,144,3.6,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0368,P1368,Sneha Kumar,23,Female,2026-03-09,14,11660,4.6,350598,172,256,7,199,116,43,219,49,0.6,131,3.2,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0369,P1369,Priya Kumar,39,Female,2026-03-30,15.5,10947,4.3,282057,100,199,6.2,286,125,33,288,27,1,131,3.7,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0370,P1370,Anjali Kumar,61,Female,2026-02-26,13,7272,4.9,166009,122,238,5.1,198,174,44,269,37,1.9,142,4.3,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0371,P1371,Pooja Kumar,27,Female,2026-04-14,11.3,10503,5,306809,114,130,5.6,218,85,42,168,44,1.4,138,3.5,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0372,P1372,Neha Kumar,45,Male,2026-01-12,9.2,10805,5.5,335687,121,186,5.4,224,103,45,192,39,1,143,5.3,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0373,P1373,Neha Kumar,31,Male,2026-01-09,11.7,4580,5.4,340263,111,299,5.9,237,167,44,183,44,0.9,145,4.7,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0374,P1374,Anjali Kumar,67,Male,2026-04-18,10.3,5266,4.6,136044,140,157,6.2,220,143,58,158,59,1,144,4,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0375,P1375,Sneha Kumar,61,Female,2026-02-11,13.7,11108,4.5,197245,132,135,6,172,91,56,278,41,1.5,149,5.3,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Mehta,Blood Test
+R0376,P1376,Amit Kumar,41,Male,2026-03-22,9.8,5799,4.8,383049,168,136,5.5,291,92,59,175,46,0.7,136,4.9,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0377,P1377,Pooja Kumar,57,Male,2026-03-09,12.4,6721,4.6,260417,178,143,8.9,273,88,33,205,41,1.7,150,4.4,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0378,P1378,Sneha Kumar,41,Female,2026-01-08,13.6,11629,5.4,209954,167,232,8.3,209,176,53,221,34,1.8,146,4.5,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Rao,Blood Test
+R0379,P1379,Pooja Kumar,52,Male,2026-03-04,15.5,9090,3.6,346235,125,289,8.2,179,102,36,171,38,1.1,142,3.8,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Rao,Blood Test
+R0380,P1380,Amit Kumar,37,Female,2026-02-06,11.8,10885,4.2,254110,158,257,6.9,275,118,38,171,59,1.5,141,4.7,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Sharma,Blood Test
+R0381,P1381,Neha Kumar,61,Male,2026-03-09,15,8379,3.7,295810,164,247,8.6,196,113,47,244,37,1.6,144,4.8,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Gupta,Blood Test
+R0382,P1382,Sneha Kumar,48,Female,2026-02-15,9.9,9697,4.2,212843,174,273,5.1,175,112,49,218,48,1.4,141,4.9,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0383,P1383,Vikas Kumar,38,Male,2026-01-09,10.2,5001,4.5,193502,153,258,6.7,280,173,31,270,37,1.2,134,3.5,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Mehta,Blood Test
+R0384,P1384,Pooja Kumar,49,Male,2026-01-22,10,9204,4.9,323503,165,232,7.9,176,140,35,282,44,1.3,142,3.2,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0385,P1385,Arjun Kumar,52,Male,2026-02-11,10.9,4833,4.8,359286,149,185,8.2,152,111,32,250,42,1.9,137,4.5,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Mehta,Blood Test
+R0386,P1386,Rohan Kumar,20,Male,2026-01-18,9.3,9179,4.2,365341,105,184,6.2,194,158,56,222,49,1.1,133,3.1,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Sharma,Blood Test
+R0387,P1387,Neha Kumar,33,Male,2026-03-24,12.7,5831,3.7,390215,143,195,6,260,161,42,236,27,0.6,147,4.4,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0388,P1388,Rahul Kumar,30,Male,2026-03-22,9.8,9838,3.8,351341,155,129,4.8,293,80,46,266,21,0.9,130,4.3,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0389,P1389,Arjun Kumar,45,Female,2026-01-13,9.1,7845,4.5,321849,104,255,7.8,271,123,49,263,24,1.8,150,5.2,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Mehta,Blood Test
+R0390,P1390,Neha Kumar,69,Male,2026-01-27,11.1,6383,5.1,263970,103,159,5.5,232,177,32,300,38,1.4,147,3.7,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Gupta,Blood Test
+R0391,P1391,Arjun Kumar,45,Male,2026-04-17,13,10419,4.6,205860,155,178,8.9,300,117,42,265,32,0.8,142,3.1,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Rao,Blood Test
+R0392,P1392,Vikas Kumar,36,Female,2026-02-13,12.1,11896,5.5,238856,180,210,6.1,156,133,31,234,22,1,140,5.5,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0393,P1393,Vikas Kumar,48,Female,2026-01-11,11.9,5246,4.2,367067,86,261,8,246,141,55,238,20,1.6,146,4.5,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0394,P1394,Amit Kumar,25,Male,2026-03-07,16,5143,4.6,173946,151,121,5.5,156,180,47,237,47,1.5,135,4,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Gupta,Blood Test
+R0395,P1395,Priya Kumar,44,Female,2026-03-15,12.4,9161,4.2,300421,127,164,7.9,174,130,38,238,28,1.7,144,4.7,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0396,P1396,Rohan Kumar,53,Female,2026-04-22,11.8,9609,5.5,140647,106,215,7.3,244,108,30,215,53,1,134,3.3,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Sharma,Blood Test
+R0397,P1397,Priya Kumar,71,Male,2026-02-07,13.4,4622,3.7,154963,142,148,8.4,260,158,50,162,54,1.7,135,3.4,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Sharma,Blood Test
+R0398,P1398,Pooja Kumar,28,Female,2026-04-14,11,4496,4.9,386993,142,211,7.2,248,176,32,160,34,1.9,148,5,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0399,P1399,Amit Kumar,40,Male,2026-02-04,12.3,11278,5.3,194924,121,299,6.6,234,80,51,220,58,1.3,136,3.5,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0400,P1400,Priya Kumar,24,Female,2026-04-04,11.9,8829,5.4,196260,82,230,7.5,266,121,31,239,50,1.5,134,3.2,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Sharma,Blood Test
+R0401,P1401,Anjali Kumar,34,Male,2026-02-04,9.2,4620,3.6,180895,114,207,4.8,295,97,46,181,56,1,135,4.9,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Rao,Blood Test
+R0402,P1402,Vikas Kumar,39,Female,2026-01-07,14.6,10998,4.4,310493,92,236,4.7,234,154,47,285,35,1.5,132,3.3,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0403,P1403,Pooja Kumar,57,Male,2026-02-12,11.5,11004,4.3,199281,144,270,5,184,176,42,197,48,0.7,139,4,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Mehta,Blood Test
+R0404,P1404,Rahul Kumar,67,Male,2026-04-26,12.3,10686,3.9,216752,108,230,4.5,187,128,54,173,32,1,148,4,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Rao,Blood Test
+R0405,P1405,Amit Kumar,65,Male,2026-03-11,11.7,10701,4.3,272377,138,158,7.1,181,89,49,237,24,1.6,133,3.4,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Sharma,Blood Test
+R0406,P1406,Anjali Kumar,38,Male,2026-04-29,15.7,4655,3.5,364520,80,163,7.9,229,175,37,282,34,2,146,5.2,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0407,P1407,Vikas Kumar,45,Male,2026-01-19,12.5,4494,4.6,267846,168,205,8.6,234,176,56,193,58,0.6,131,4.5,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0408,P1408,Priya Kumar,23,Female,2026-03-28,9.2,11675,4,150406,80,149,7.4,244,168,60,187,41,0.8,136,5.4,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Sharma,Blood Test
+R0409,P1409,Sneha Kumar,56,Female,2026-02-17,10.7,7780,5,130348,82,299,6.2,247,94,50,288,35,0.9,144,5,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Rao,Blood Test
+R0410,P1410,Rohan Kumar,30,Female,2026-01-30,10.3,6420,4,385009,145,166,5.7,209,150,58,189,33,1.4,142,5,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Rao,Blood Test
+R0411,P1411,Neha Kumar,62,Male,2026-01-07,9.7,8634,3.6,328795,104,267,4.5,163,127,34,264,21,1.2,141,4.6,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0412,P1412,Pooja Kumar,23,Female,2026-01-24,12.5,10828,5.1,132657,151,151,8.3,268,104,56,250,48,0.7,130,5,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Gupta,Blood Test
+R0413,P1413,Arjun Kumar,36,Male,2026-04-21,12.6,8849,4,332024,96,158,7.1,156,111,51,294,30,1.7,140,4.2,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0414,P1414,Arjun Kumar,24,Female,2026-03-03,15.4,11601,3.8,281390,150,293,6.3,205,153,49,222,50,1.4,147,3.3,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Gupta,Blood Test
+R0415,P1415,Vikas Kumar,54,Male,2026-02-28,9.9,9817,5.4,272440,106,136,8.3,254,81,45,157,47,0.9,149,4.2,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0416,P1416,Pooja Kumar,37,Female,2026-04-25,10.3,4724,4.6,330929,139,300,7.8,160,95,45,283,50,1.9,148,3.8,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0417,P1417,Amit Kumar,43,Male,2026-04-23,12.4,11141,5.1,235627,174,130,5.8,188,117,33,177,49,1.9,135,5.2,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Sharma,Blood Test
+R0418,P1418,Vikas Kumar,49,Female,2026-04-11,14.3,11939,4.3,380626,108,191,5.1,189,87,51,210,54,1.7,146,3.4,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Mehta,Blood Test
+R0419,P1419,Sneha Kumar,71,Female,2026-02-26,12.1,6622,4.5,331075,117,121,8.8,195,172,55,298,60,1.1,138,4.4,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Rao,Blood Test
+R0420,P1420,Rohan Kumar,53,Male,2026-03-12,14.7,11976,3.9,276056,167,244,4.7,231,130,48,238,46,1.9,144,4.1,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Gupta,Blood Test
+R0421,P1421,Vikas Kumar,64,Male,2026-02-19,12.4,11102,4.9,344701,149,238,8.1,171,108,59,242,58,1.9,138,4.3,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Sharma,Blood Test
+R0422,P1422,Vikas Kumar,45,Male,2026-04-18,10.5,5533,5.3,386724,150,167,5.7,204,130,52,215,56,0.7,131,4.8,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0423,P1423,Neha Kumar,19,Female,2026-04-20,13.1,8559,4.2,175498,148,286,8.5,198,162,53,268,46,1.7,130,4.7,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0424,P1424,Rahul Kumar,42,Male,2026-04-24,15,5439,4,249212,136,293,6.3,182,173,35,168,58,1.8,136,5.4,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Sharma,Blood Test
+R0425,P1425,Sneha Kumar,72,Male,2026-01-15,10.5,7426,4.2,220132,175,289,4.9,268,139,47,291,25,1.9,130,4,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Sharma,Blood Test
+R0426,P1426,Rahul Kumar,68,Female,2026-03-03,9.2,8753,4.9,133531,119,270,7.9,286,85,31,221,37,0.8,145,4.5,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Sharma,Blood Test
+R0427,P1427,Arjun Kumar,32,Male,2026-01-13,12,9901,5.4,183159,85,278,4.6,265,139,38,236,24,1.7,143,5.2,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Gupta,Blood Test
+R0428,P1428,Sneha Kumar,46,Male,2026-04-20,14.6,4140,5.2,330602,128,283,6,172,148,41,206,42,1.9,148,5.1,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Gupta,Blood Test
+R0429,P1429,Vikas Kumar,27,Female,2026-03-15,13.6,5396,4,138367,86,177,7.4,291,147,60,178,43,0.9,130,4.7,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0430,P1430,Amit Kumar,27,Male,2026-04-01,11.7,7936,4.1,381281,168,221,6.3,157,111,49,243,35,0.9,142,3.6,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Mehta,Blood Test
+R0431,P1431,Anjali Kumar,44,Female,2026-04-03,11.9,8596,5.1,331237,96,242,5.4,272,118,32,291,33,1.7,138,3.4,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Mehta,Blood Test
+R0432,P1432,Sneha Kumar,73,Female,2026-02-11,9.2,10616,4.8,228572,134,171,6.4,212,124,50,251,25,0.9,148,5.4,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0433,P1433,Neha Kumar,48,Male,2026-03-13,10.6,10763,5.2,227560,121,159,5.9,281,163,45,276,46,1,140,3.1,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0434,P1434,Neha Kumar,68,Female,2026-04-25,13.4,8559,3.9,215422,107,129,4.6,199,134,40,270,44,0.9,145,5.4,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0435,P1435,Anjali Kumar,40,Male,2026-01-05,13.7,7721,3.6,287567,125,200,5.3,187,176,30,242,52,1.9,134,4.8,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Gupta,Blood Test
+R0436,P1436,Arjun Kumar,56,Female,2026-05-01,14.2,11813,5.4,361220,108,152,8.4,215,152,31,170,59,1.1,136,3.3,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Sharma,Blood Test
+R0437,P1437,Sneha Kumar,23,Female,2026-03-15,14.8,7724,4.7,159908,142,216,7.8,171,124,56,267,33,0.9,145,5.4,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Gupta,Blood Test
+R0438,P1438,Pooja Kumar,18,Male,2026-03-23,14.7,6378,5.2,135931,175,230,7.2,187,165,42,216,21,0.7,136,5.1,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Sharma,Blood Test
+R0439,P1439,Amit Kumar,20,Male,2026-04-07,10.6,9345,4.5,225249,95,274,8.3,245,168,53,239,26,1.1,143,5.1,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0440,P1440,Rahul Kumar,68,Female,2026-01-26,13.3,5935,3.9,326564,169,230,5.4,195,153,48,253,57,1.4,131,3.5,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Gupta,Blood Test
+R0441,P1441,Rohan Kumar,64,Female,2026-04-23,13,4754,5.3,172237,144,247,9,171,171,36,195,36,1.3,139,5,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0442,P1442,Priya Kumar,31,Male,2026-01-24,10.3,5084,4.3,213370,85,140,4.6,160,89,54,268,37,0.7,146,4.3,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Rao,Blood Test
+R0443,P1443,Rohan Kumar,50,Female,2026-01-13,13.5,10250,3.8,349006,154,199,6.2,242,144,38,233,37,1.1,139,4.3,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Mehta,Blood Test
+R0444,P1444,Rahul Kumar,43,Female,2026-03-29,14.3,11096,4,151162,167,185,7.8,239,170,54,209,24,0.7,145,4,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Rao,Blood Test
+R0445,P1445,Rohan Kumar,66,Female,2026-04-02,15.6,9813,4.8,176734,168,216,7.4,265,174,51,252,51,1.2,132,3.8,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Sharma,Blood Test
+R0446,P1446,Sneha Kumar,60,Female,2026-04-08,12.7,5694,5.5,158439,174,158,7.1,177,129,51,266,20,1.2,138,5.2,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0447,P1447,Amit Kumar,22,Male,2026-04-08,12.3,10610,3.6,176186,140,211,4.8,220,145,59,275,54,0.8,133,3,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0448,P1448,Rohan Kumar,43,Female,2026-03-18,13.9,5376,4.8,348015,176,150,8.7,297,130,47,272,27,1.6,142,4.8,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Gupta,Blood Test
+R0449,P1449,Neha Kumar,22,Female,2026-02-23,13.1,8897,4.5,230031,165,159,8,283,151,56,157,47,1,140,3.6,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0450,P1450,Neha Kumar,29,Male,2026-01-28,14.4,4887,3.8,219618,156,129,6.1,182,95,53,193,52,1,132,5.2,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Rao,Blood Test
+R0451,P1451,Sneha Kumar,64,Female,2026-01-17,15.8,8176,4.1,296593,131,151,4.5,273,150,44,256,54,1.8,134,3.2,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Sharma,Blood Test
+R0452,P1452,Rahul Kumar,53,Female,2026-01-07,12.5,8380,4.1,153930,86,281,5.8,197,180,49,268,56,1.6,131,4.4,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0453,P1453,Neha Kumar,75,Female,2026-03-04,11.3,4162,5,349983,156,261,7.3,275,102,48,250,52,0.8,148,4.2,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Sharma,Blood Test
+R0454,P1454,Pooja Kumar,51,Female,2026-02-21,13.6,7920,4.2,184567,106,220,5.4,175,134,37,217,26,0.9,143,3.7,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Rao,Blood Test
+R0455,P1455,Rahul Kumar,19,Female,2026-03-30,12.6,5904,5.3,201685,102,142,7,180,145,46,218,57,1.7,147,3.7,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Rao,Blood Test
+R0456,P1456,Anjali Kumar,29,Female,2026-01-04,13.1,4075,5.3,225858,146,297,8.1,296,118,59,187,41,1.1,148,4.4,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0457,P1457,Rahul Kumar,20,Male,2026-01-07,15.5,10476,5.1,269500,171,142,8.2,223,89,52,201,48,1.7,140,4.1,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Gupta,Blood Test
+R0458,P1458,Amit Kumar,37,Male,2026-04-03,10.1,4272,4.8,181367,83,273,6,208,130,37,156,28,1.1,133,4.6,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0459,P1459,Rahul Kumar,62,Female,2026-04-11,10.7,10879,4,238714,175,121,7,150,129,44,213,22,1.4,132,4.5,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Rao,Blood Test
+R0460,P1460,Priya Kumar,26,Male,2026-03-02,9.2,10103,5,345701,146,254,6.1,254,163,52,151,29,1.3,144,5.3,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0461,P1461,Amit Kumar,41,Male,2026-04-10,10,8482,5.3,157717,102,145,7.7,214,89,43,175,27,1,150,3.2,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0462,P1462,Priya Kumar,21,Female,2026-01-29,10.2,9289,5.2,268508,165,293,7.9,248,80,40,271,39,0.8,137,4.2,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Sharma,Blood Test
+R0463,P1463,Rohan Kumar,60,Female,2026-03-30,14.8,8435,4.8,328705,93,168,8.3,192,161,36,243,57,1.2,148,4.3,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0464,P1464,Amit Kumar,20,Female,2026-01-19,13.8,6550,3.6,130881,107,180,6.1,153,179,40,241,25,2,144,4.5,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Gupta,Blood Test
+R0465,P1465,Pooja Kumar,56,Male,2026-02-21,13.5,10107,4.9,164834,115,246,7.1,284,123,35,230,50,1.9,138,3.6,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Sharma,Blood Test
+R0466,P1466,Sneha Kumar,22,Female,2026-03-13,13.3,5958,5.1,293963,127,276,6.8,297,132,43,179,50,1.4,130,4.8,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Sharma,Blood Test
+R0467,P1467,Vikas Kumar,65,Female,2026-02-20,15.7,7115,4.3,257147,99,285,8.9,173,105,53,195,25,0.6,135,4.7,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0468,P1468,Amit Kumar,38,Female,2026-02-14,13.8,5296,4,393704,157,285,5.6,250,140,54,156,50,0.9,139,3.5,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Sharma,Blood Test
+R0469,P1469,Pooja Kumar,39,Male,2026-02-03,11.4,6369,3.6,188505,147,275,8.9,267,131,47,265,27,1.2,142,4.2,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Mehta,Blood Test
+R0470,P1470,Anjali Kumar,42,Female,2026-04-08,12.9,6356,4.9,217024,123,196,4.7,239,161,31,248,31,1.8,130,4,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Sharma,Blood Test
+R0471,P1471,Rohan Kumar,32,Female,2026-02-02,11.6,8833,3.9,342301,103,188,8.9,210,152,46,266,52,0.7,146,3.3,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Sharma,Blood Test
+R0472,P1472,Priya Kumar,67,Female,2026-04-14,13.7,10207,4.7,278981,139,136,5.6,299,132,34,172,29,1.7,131,3.9,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Rao,Blood Test
+R0473,P1473,Vikas Kumar,48,Male,2026-01-14,14.3,4409,5.3,131559,141,129,8.3,176,145,57,159,45,1.8,140,3.3,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Rao,Blood Test
+R0474,P1474,Pooja Kumar,75,Female,2026-04-01,9.2,7724,3.7,348961,82,224,5.8,270,140,47,158,54,1.4,141,5.2,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Mehta,Blood Test
+R0475,P1475,Anjali Kumar,40,Female,2026-03-07,10.2,11531,3.6,206187,155,259,7.6,282,157,30,158,45,0.8,138,5.4,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Rao,Blood Test
+R0476,P1476,Rahul Kumar,73,Male,2026-02-27,14,11195,3.9,316559,137,162,8.5,254,162,30,176,30,1.6,134,4.4,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0477,P1477,Arjun Kumar,18,Male,2026-02-15,9.3,4919,4.3,143885,134,259,5.7,273,121,55,280,26,1.4,147,4.3,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0478,P1478,Vikas Kumar,42,Female,2026-01-01,15.2,11421,4.5,375270,121,148,6.2,221,96,55,265,37,1.8,138,4.4,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Sharma,Blood Test
+R0479,P1479,Neha Kumar,70,Male,2026-03-14,9.3,8816,3.9,158305,134,299,7.7,168,82,45,284,59,1.4,137,3.2,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Rao,Blood Test
+R0480,P1480,Rohan Kumar,54,Male,2026-02-06,9.3,8121,3.7,286357,94,133,7.6,243,151,37,286,28,1.1,145,5.1,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Sharma,Blood Test
+R0481,P1481,Amit Kumar,44,Male,2026-02-19,14.2,6517,4.2,374962,142,153,8.3,240,119,47,160,34,1.8,134,4.3,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Sharma,Blood Test
+R0482,P1482,Anjali Kumar,45,Male,2026-01-21,10.5,5255,5.3,313679,144,223,6.2,170,112,49,224,28,1.8,147,4.3,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Rao,Blood Test
+R0483,P1483,Rohan Kumar,75,Female,2026-04-15,14.7,10212,5,178603,113,250,6.7,280,107,35,252,40,1.8,149,4,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0484,P1484,Vikas Kumar,36,Male,2026-01-13,15.7,4796,4,193651,95,238,6.4,235,175,52,274,34,1.8,134,4,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0485,P1485,Priya Kumar,62,Female,2026-03-10,14.3,5679,3.9,127058,83,232,5.8,209,168,57,272,50,1.1,150,4.2,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Sharma,Blood Test
+R0486,P1486,Pooja Kumar,47,Male,2026-04-07,15.3,10261,4.3,241950,96,202,4.9,293,93,38,229,21,1.6,149,3.9,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Rao,Blood Test
+R0487,P1487,Priya Kumar,54,Female,2026-01-22,9.2,4194,5.3,254677,167,248,8.4,271,173,48,232,59,1.3,145,3.3,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Sharma,Blood Test
+R0488,P1488,Rohan Kumar,65,Female,2026-03-04,11.2,6897,5.1,325923,145,225,7.4,176,167,43,205,25,1.4,131,3.2,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0489,P1489,Vikas Kumar,47,Female,2026-03-16,13.9,5206,5,317928,141,176,4.7,170,90,30,198,43,0.7,135,3.5,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Rao,Blood Test
+R0490,P1490,Amit Kumar,31,Female,2026-02-17,13.5,4426,4.9,277904,83,216,6.1,200,135,44,237,59,1,142,3.1,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0491,P1491,Sneha Kumar,50,Female,2026-04-09,15.6,4131,4.9,331856,89,174,5.7,186,85,47,184,37,1.5,140,5.1,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Rao,Blood Test
+R0492,P1492,Pooja Kumar,38,Female,2026-03-05,15.9,9768,3.7,310566,81,207,5.4,296,116,41,183,44,0.9,147,4.9,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0493,P1493,Rahul Kumar,45,Female,2026-01-22,15.9,9608,4.1,357815,145,170,5.4,253,121,44,239,46,1.5,136,4.5,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Mehta,Blood Test
+R0494,P1494,Amit Kumar,48,Female,2026-04-06,11.6,5086,3.6,326432,135,219,7.6,170,116,56,229,27,1.3,137,3,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Gupta,Blood Test
+R0495,P1495,Vikas Kumar,38,Female,2026-03-08,10,8066,4.3,313725,113,147,8.6,294,128,35,291,55,1.3,139,5.5,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Rao,Blood Test
+R0496,P1496,Arjun Kumar,56,Male,2026-03-20,11.1,6320,4.8,227332,143,251,5.1,172,130,45,160,54,2,132,4.7,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Gupta,Blood Test
+R0497,P1497,Vikas Kumar,67,Male,2026-01-06,9.2,7368,5.4,242290,109,240,5.2,164,113,57,234,32,0.8,133,4,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Gupta,Blood Test
+R0498,P1498,Rahul Kumar,53,Female,2026-01-04,14.7,10177,4.6,284662,82,279,6,220,168,59,238,28,0.9,137,5.4,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0499,P1499,Neha Kumar,36,Male,2026-03-24,15.2,9994,4,176001,179,136,7.7,288,174,46,275,30,1.8,136,3.3,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Gupta,Blood Test
+R0500,P1500,Rohan Kumar,29,Female,2026-01-28,15.6,9472,4.1,151677,153,249,7.7,288,178,34,212,60,1.4,138,3.8,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Gupta,Blood Test
+R0501,P1501,Sneha Kumar,59,Female,2026-02-15,9.8,5761,5.2,235694,98,134,6.3,211,173,45,171,43,1.5,137,4.7,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Rao,Blood Test
+R0502,P1502,Amit Kumar,39,Male,2026-03-21,11.1,4527,4.2,155398,118,199,9,224,151,44,225,41,1.7,149,3.9,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0503,P1503,Arjun Kumar,47,Male,2026-03-12,11.6,5362,3.9,122204,170,157,7.5,248,96,58,254,27,0.7,130,3.1,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Sharma,Blood Test
+R0504,P1504,Arjun Kumar,73,Male,2026-04-11,13,5587,4.6,377123,81,235,5.3,289,82,43,192,53,0.7,138,3.4,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Mehta,Blood Test
+R0505,P1505,Anjali Kumar,23,Female,2026-01-26,12.6,10502,4.7,197213,129,267,5.9,211,132,31,227,60,1.1,137,3.4,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Sharma,Blood Test
+R0506,P1506,Vikas Kumar,64,Male,2026-01-20,11.6,5270,3.8,271920,106,271,8,269,143,45,192,51,1.6,131,5.2,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0507,P1507,Arjun Kumar,65,Male,2026-02-08,13.2,11725,3.7,341052,170,208,7.1,162,175,30,172,38,1.2,141,3.4,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0508,P1508,Amit Kumar,47,Male,2026-02-14,16,7136,5.3,176446,106,197,6,272,128,57,237,53,1.4,148,4.6,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Gupta,Blood Test
+R0509,P1509,Vikas Kumar,51,Male,2026-04-23,10.4,8902,4,307689,82,272,6.9,299,139,42,172,35,1.9,149,5.3,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Gupta,Blood Test
+R0510,P1510,Priya Kumar,72,Male,2026-01-30,13.6,7363,4.7,333316,119,182,7.6,216,102,43,255,50,1.8,141,4,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0511,P1511,Rohan Kumar,53,Male,2026-03-07,12.7,9713,5.3,133947,109,263,7,265,177,43,218,38,1.1,148,3.1,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0512,P1512,Priya Kumar,44,Male,2026-04-19,9.9,5065,5.2,135587,93,178,7.6,187,153,54,249,40,1.9,146,3.2,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0513,P1513,Pooja Kumar,57,Female,2026-04-16,12.1,8496,3.5,240299,155,249,5.9,278,92,40,205,47,1.4,138,3.1,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Gupta,Blood Test
+R0514,P1514,Priya Kumar,27,Female,2026-02-12,10.7,7566,4.2,197262,81,182,8.3,186,105,58,219,37,0.9,135,4.8,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Mehta,Blood Test
+R0515,P1515,Vikas Kumar,71,Male,2026-02-13,12.4,4747,5,191565,116,261,7.7,283,117,56,161,30,1.5,146,3.8,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0516,P1516,Anjali Kumar,66,Male,2026-01-21,14.3,8081,4.8,292086,86,163,9,294,164,33,265,54,1.5,137,5,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Gupta,Blood Test
+R0517,P1517,Arjun Kumar,21,Male,2026-03-12,15.6,4696,3.8,314410,163,238,5.7,286,177,46,201,26,2,147,4.4,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0518,P1518,Anjali Kumar,58,Male,2026-02-19,15.6,10858,4.1,300510,95,172,5.8,174,130,56,213,23,0.7,141,3,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Gupta,Blood Test
+R0519,P1519,Pooja Kumar,35,Male,2026-04-22,14.6,8865,5,173126,116,184,7.3,152,139,44,270,35,1.8,134,3.8,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0520,P1520,Sneha Kumar,53,Female,2026-01-02,9,11564,5.1,387234,81,240,8.5,228,146,43,272,50,0.9,135,3.1,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Sharma,Blood Test
+R0521,P1521,Anjali Kumar,24,Female,2026-03-24,9.4,4149,3.9,323639,114,257,6.1,203,119,35,247,44,1.1,150,3.7,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0522,P1522,Pooja Kumar,50,Male,2026-02-26,11.6,9458,5.4,161106,146,157,8.6,222,160,55,181,23,0.8,132,4.8,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Gupta,Blood Test
+R0523,P1523,Anjali Kumar,75,Female,2026-02-08,12.6,6556,5.4,350528,98,147,6,166,177,40,160,33,1.5,148,4.9,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Mehta,Blood Test
+R0524,P1524,Amit Kumar,56,Female,2026-03-25,13.7,9039,4.4,326771,166,263,5.6,169,104,36,256,46,1.2,132,3.4,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Sharma,Blood Test
+R0525,P1525,Priya Kumar,67,Male,2026-03-03,12.6,4137,5.4,143516,125,201,7.7,289,112,53,196,27,1.6,130,3.7,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Sharma,Blood Test
+R0526,P1526,Amit Kumar,27,Female,2026-03-28,11.9,5843,5.2,313279,116,237,8,191,141,37,219,43,1.3,137,3.4,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0527,P1527,Neha Kumar,43,Male,2026-01-21,11.3,6594,4.6,295714,86,182,8.2,170,84,49,244,24,1.1,145,4.8,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0528,P1528,Arjun Kumar,64,Female,2026-02-02,13.3,9909,4.6,398651,161,219,7.2,175,85,51,296,51,1.6,134,3.1,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Rao,Blood Test
+R0529,P1529,Rohan Kumar,25,Male,2026-02-03,10.4,10062,4.9,365980,121,165,4.9,169,150,32,211,42,1.9,143,4.6,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0530,P1530,Rahul Kumar,55,Male,2026-01-15,9.2,8058,4.4,237356,83,137,8.7,277,180,36,268,28,1.5,133,4.3,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Sharma,Blood Test
+R0531,P1531,Priya Kumar,30,Male,2026-01-22,9.4,6451,3.7,296131,117,135,8.1,293,179,41,226,55,0.9,134,5,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0532,P1532,Anjali Kumar,37,Male,2026-03-12,10.4,4968,4.2,237705,159,282,8.9,228,89,38,220,40,0.8,150,5,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Sharma,Blood Test
+R0533,P1533,Rohan Kumar,33,Male,2026-02-08,12.6,11651,4.3,152886,159,202,7.4,267,156,49,271,60,1.9,134,4.3,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Rao,Blood Test
+R0534,P1534,Anjali Kumar,25,Female,2026-01-13,15.9,4368,4,261259,169,199,7.3,225,126,33,256,57,0.8,134,3.8,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Gupta,Blood Test
+R0535,P1535,Priya Kumar,19,Female,2026-01-29,13.2,4479,3.8,291351,106,178,5.3,202,108,51,272,31,1.9,135,4.8,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0536,P1536,Amit Kumar,20,Female,2026-02-18,15.1,7216,4.3,220343,125,240,6.1,260,136,41,214,28,1.7,132,3.9,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0537,P1537,Anjali Kumar,64,Male,2026-03-17,12.8,4289,4.2,169487,122,247,7.5,257,96,53,232,60,1.1,140,4,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0538,P1538,Anjali Kumar,25,Female,2026-04-13,12.9,8124,5.4,339411,82,278,5.6,171,179,47,261,33,1.1,138,5.2,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Gupta,Blood Test
+R0539,P1539,Priya Kumar,27,Female,2026-01-26,15.8,7964,4.4,181847,162,187,5.1,229,166,41,210,51,1.1,138,5.2,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0540,P1540,Arjun Kumar,65,Female,2026-04-06,11.3,5824,3.5,329197,162,204,4.7,263,95,34,209,32,1.2,142,4.7,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Sharma,Blood Test
+R0541,P1541,Amit Kumar,57,Male,2026-02-18,15,5827,4.6,373672,97,260,5.7,225,139,55,267,29,0.9,143,3.8,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Gupta,Blood Test
+R0542,P1542,Rahul Kumar,60,Female,2026-03-23,15.5,5168,4.1,378192,92,143,5.5,206,123,38,279,38,1.8,145,5.3,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0543,P1543,Sneha Kumar,42,Female,2026-01-02,13.6,5373,5.4,253709,145,137,8,218,138,45,279,31,1.9,146,4.5,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Rao,Blood Test
+R0544,P1544,Pooja Kumar,67,Female,2026-01-27,15.2,9268,3.8,161614,130,143,7,276,150,30,210,41,1.1,132,3.5,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0545,P1545,Amit Kumar,45,Male,2026-01-17,11.6,6741,5.1,221790,155,250,7.9,259,80,30,237,51,0.7,141,3.3,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Gupta,Blood Test
+R0546,P1546,Arjun Kumar,39,Male,2026-03-15,11.2,6663,4.6,275720,136,128,8.1,280,121,50,287,56,1.4,134,3.2,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Mehta,Blood Test
+R0547,P1547,Sneha Kumar,18,Male,2026-02-23,10,7842,4.2,187307,129,265,8.6,220,144,48,217,57,1,137,5.4,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Rao,Blood Test
+R0548,P1548,Priya Kumar,71,Male,2026-01-25,9.8,11900,3.8,193043,102,191,8.4,178,147,60,175,57,1.8,131,3.9,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Mehta,Blood Test
+R0549,P1549,Rahul Kumar,23,Female,2026-01-29,10.3,6973,4.4,162965,96,181,7.5,275,104,45,222,23,1.3,138,3.9,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0550,P1550,Anjali Kumar,20,Male,2026-03-16,11.7,7249,4.3,265492,103,276,5.1,264,143,33,298,25,0.9,148,3.3,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Mehta,Blood Test
+R0551,P1551,Priya Kumar,61,Female,2026-04-06,15.9,11678,5.4,297399,107,189,7.6,185,86,49,288,22,0.7,137,3.5,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0552,P1552,Rohan Kumar,19,Male,2026-02-08,15.9,9020,5.3,326053,106,254,4.6,262,110,47,249,40,1.9,131,3.5,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Gupta,Blood Test
+R0553,P1553,Pooja Kumar,32,Female,2026-02-08,12.1,10214,3.8,339522,175,279,7.2,163,89,34,163,20,1.5,141,4.9,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Rao,Blood Test
+R0554,P1554,Rohan Kumar,71,Female,2026-02-08,13.3,6702,4,252526,107,283,7.5,295,119,41,299,38,1.3,131,5.2,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Sharma,Blood Test
+R0555,P1555,Rohan Kumar,62,Male,2026-01-02,13.3,5876,4.2,155354,128,290,8.1,209,83,48,291,44,1.3,132,4.5,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Rao,Blood Test
+R0556,P1556,Anjali Kumar,47,Female,2026-02-27,14.6,7729,4.9,203062,138,141,5.9,174,153,38,217,40,1.6,142,4.3,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Mehta,Blood Test
+R0557,P1557,Anjali Kumar,20,Female,2026-02-02,15.6,5578,5.5,265976,100,254,6.8,182,93,40,206,36,1.9,145,4.2,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0558,P1558,Sneha Kumar,49,Female,2026-01-31,9.3,8950,4.1,202686,87,201,7,238,142,48,270,60,1.1,141,5,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0559,P1559,Priya Kumar,51,Female,2026-02-10,11.9,5792,5.3,151826,101,154,7.5,282,108,32,205,56,0.7,136,3.4,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Rao,Blood Test
+R0560,P1560,Rohan Kumar,69,Female,2026-04-10,10.7,6492,3.7,131121,86,272,7.4,293,143,30,258,21,1.3,137,5.3,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Gupta,Blood Test
+R0561,P1561,Vikas Kumar,72,Female,2026-03-30,14.8,10692,3.6,318505,113,218,7.5,183,172,36,239,33,1.8,149,4.6,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0562,P1562,Arjun Kumar,60,Female,2026-02-09,16,8741,5.5,304534,109,244,8.3,160,159,60,258,59,1.7,141,3.5,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Mehta,Blood Test
+R0563,P1563,Amit Kumar,64,Female,2026-04-14,15,10602,5.1,152559,153,182,7.2,215,123,49,239,27,0.7,139,3.9,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0564,P1564,Vikas Kumar,32,Female,2026-01-24,15,5807,4.7,216997,163,177,4.7,252,105,60,189,57,1.4,130,4.8,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0565,P1565,Arjun Kumar,31,Female,2026-02-24,13,7368,4.7,282592,145,240,8.8,162,92,55,228,38,1.2,141,5.1,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Rao,Blood Test
+R0566,P1566,Rahul Kumar,66,Female,2026-04-23,14.1,7668,5,163599,111,171,4.7,232,84,42,295,21,1.9,141,4.2,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0567,P1567,Neha Kumar,29,Female,2026-02-13,15.9,8045,4.9,227997,168,147,5.2,203,137,39,232,35,1.2,147,4.5,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Rao,Blood Test
+R0568,P1568,Arjun Kumar,64,Female,2026-01-04,11.4,9525,3.8,384569,140,199,6.4,233,126,60,213,56,1.4,146,4.1,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0569,P1569,Anjali Kumar,74,Male,2026-01-18,14.6,6771,4.9,263004,86,215,6.4,231,109,58,160,46,1.3,148,3.6,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Mehta,Blood Test
+R0570,P1570,Arjun Kumar,70,Male,2026-03-12,10.1,10748,3.6,272323,115,298,6,188,158,34,266,22,1.2,148,4,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Mehta,Blood Test
+R0571,P1571,Sneha Kumar,66,Female,2026-01-05,9.3,8419,4.6,227112,143,195,8.3,228,90,41,215,27,0.6,147,3.1,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Sharma,Blood Test
+R0572,P1572,Arjun Kumar,44,Female,2026-04-22,9.4,7068,5.2,390679,104,251,4.9,256,115,31,254,45,1.6,145,3.1,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0573,P1573,Amit Kumar,44,Male,2026-01-27,14,11882,3.7,169940,174,141,7.4,196,156,31,165,23,1.1,135,4.7,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Gupta,Blood Test
+R0574,P1574,Rahul Kumar,63,Female,2026-01-24,9.4,6923,4.1,152659,101,260,5.8,162,113,59,192,38,1.7,136,4.4,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Mehta,Blood Test
+R0575,P1575,Vikas Kumar,51,Female,2026-01-01,9.2,8471,4.4,194534,150,152,8,161,103,51,214,45,0.9,150,5.3,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Mehta,Blood Test
+R0576,P1576,Rahul Kumar,32,Female,2026-01-11,12.9,4523,5.2,190881,100,237,6.9,222,117,44,289,40,1.7,139,4.7,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Mehta,Blood Test
+R0577,P1577,Rohan Kumar,29,Male,2026-01-05,11.8,6624,3.9,236135,116,245,5.7,215,101,38,152,39,2,143,4.5,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Sharma,Blood Test
+R0578,P1578,Pooja Kumar,66,Male,2026-04-13,15.5,5806,4.9,297463,171,263,5.6,245,83,58,289,56,1.6,135,4.3,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0579,P1579,Sneha Kumar,66,Female,2026-02-02,9.4,11297,3.8,245683,82,207,6.6,152,97,50,208,24,1.5,147,5.4,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Sharma,Blood Test
+R0580,P1580,Priya Kumar,40,Female,2026-01-15,11.1,9941,3.5,283475,94,178,5.3,263,147,32,200,21,0.9,148,5.4,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Sharma,Blood Test
+R0581,P1581,Vikas Kumar,57,Male,2026-04-24,15,9906,4.1,209870,178,232,7,174,162,52,196,28,1.1,133,4.1,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Rao,Blood Test
+R0582,P1582,Rohan Kumar,20,Male,2026-04-06,10.7,5724,5.4,149363,100,185,4.6,158,122,36,277,20,1.9,139,4.2,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0583,P1583,Anjali Kumar,18,Female,2026-04-09,10.6,4301,4.1,366003,142,248,4.7,296,132,34,247,24,0.7,144,5.4,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0584,P1584,Vikas Kumar,20,Female,2026-04-23,11.2,7461,4.1,302955,178,208,6.7,256,128,38,257,22,0.8,137,4.9,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Rao,Blood Test
+R0585,P1585,Rohan Kumar,23,Male,2026-03-01,11.7,11709,3.6,357601,158,270,5.1,288,120,45,206,23,2,134,5.4,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Mehta,Blood Test
+R0586,P1586,Pooja Kumar,52,Male,2026-04-20,15.8,8281,3.6,196020,83,183,7.5,178,133,30,300,60,0.9,141,3.4,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0587,P1587,Vikas Kumar,47,Male,2026-02-21,13.8,10006,4.1,124985,132,196,4.8,205,88,33,261,52,1.5,137,5,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0588,P1588,Pooja Kumar,44,Female,2026-04-13,9.6,5391,4.2,309157,118,168,7,237,109,35,177,26,1.5,147,4.9,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Sharma,Blood Test
+R0589,P1589,Priya Kumar,36,Female,2026-03-13,10.7,9307,5.4,392986,170,222,4.5,293,89,46,232,37,1.8,147,3.1,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Gupta,Blood Test
+R0590,P1590,Arjun Kumar,41,Female,2026-04-14,15.7,10044,5,195778,180,256,7.8,160,96,40,188,40,1.2,132,4.3,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0591,P1591,Rohan Kumar,30,Female,2026-02-18,14.6,9210,4.2,356165,131,125,5.8,270,153,39,169,53,1.7,135,4.2,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Rao,Blood Test
+R0592,P1592,Neha Kumar,67,Male,2026-02-27,11.8,5510,3.7,215452,180,178,5,237,110,43,185,55,1.2,140,4.4,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Gupta,Blood Test
+R0593,P1593,Vikas Kumar,35,Female,2026-03-12,11.8,11355,3.6,223134,161,168,8.6,236,169,52,248,52,1.7,145,3.8,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0594,P1594,Rohan Kumar,63,Female,2026-02-14,11.2,5694,4.2,390025,106,293,6,174,92,36,165,36,0.8,148,5,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0595,P1595,Sneha Kumar,36,Male,2026-01-13,16,7665,4,397441,141,197,8.4,240,88,44,213,48,1.3,134,4.2,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Rao,Blood Test
+R0596,P1596,Rohan Kumar,49,Male,2026-01-07,9.7,11051,4.7,378515,147,285,7.4,177,118,44,234,54,1.6,133,3.4,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0597,P1597,Anjali Kumar,67,Female,2026-04-09,12.2,5805,4,347731,128,208,8.6,219,126,56,249,52,1.9,130,4.3,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Rao,Blood Test
+R0598,P1598,Neha Kumar,50,Male,2026-04-19,15,4983,5.4,237169,90,211,7.7,252,149,39,212,38,1.1,142,4.2,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Rao,Blood Test
+R0599,P1599,Sneha Kumar,68,Female,2026-04-04,14.5,11876,5,203635,87,149,5.9,264,95,49,211,48,1.7,138,4.8,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0600,P1600,Rohan Kumar,59,Female,2026-01-19,12.5,6793,3.6,155899,114,262,4.9,272,130,58,156,21,1.7,150,3.8,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Gupta,Blood Test
+R0601,P1601,Rahul Kumar,52,Female,2026-04-26,9,4084,4.4,308416,177,288,5.4,205,138,52,263,54,1.3,138,3.5,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0602,P1602,Priya Kumar,53,Male,2026-04-08,9.6,8596,5,310198,118,260,5.4,180,145,39,240,43,1.5,131,4.9,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0603,P1603,Priya Kumar,38,Female,2026-03-16,11.9,10850,5,287273,128,187,6.9,247,121,47,239,56,1.3,136,4,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Gupta,Blood Test
+R0604,P1604,Vikas Kumar,70,Male,2026-04-17,13.2,4436,4.6,306611,149,244,5.3,274,144,37,264,54,1.6,131,4.6,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0605,P1605,Pooja Kumar,40,Female,2026-02-13,12.6,7092,4.6,157194,94,267,6.9,177,85,60,240,54,1.1,136,3.6,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0606,P1606,Rahul Kumar,69,Female,2026-04-14,13.1,6110,4.6,282930,129,125,5.3,198,132,46,230,59,2,150,5.2,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Gupta,Blood Test
+R0607,P1607,Priya Kumar,30,Female,2026-02-24,12.3,7102,3.5,240023,180,280,8.1,255,158,31,159,46,1.5,147,3.1,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Mehta,Blood Test
+R0608,P1608,Arjun Kumar,28,Female,2026-01-23,12.1,6446,5.2,202393,115,204,7.3,261,80,52,164,38,1.8,133,4,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Mehta,Blood Test
+R0609,P1609,Vikas Kumar,24,Male,2026-01-05,12.2,9631,5.4,180584,137,268,6.9,202,171,35,294,34,1.4,136,4.3,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Rao,Blood Test
+R0610,P1610,Rohan Kumar,62,Female,2026-04-14,9.4,8536,4.1,223694,113,218,8.8,168,149,59,195,33,0.7,141,5.5,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Sharma,Blood Test
+R0611,P1611,Rohan Kumar,68,Female,2026-02-06,10.2,8878,4.3,392125,125,281,5.9,192,134,58,268,41,1.8,135,4.4,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Mehta,Blood Test
+R0612,P1612,Arjun Kumar,26,Female,2026-04-18,12.8,10210,4.9,243614,106,167,5.8,221,96,57,181,26,1,139,4.1,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0613,P1613,Priya Kumar,45,Male,2026-04-19,10,10957,5.3,302386,94,213,6.1,196,173,60,192,28,0.9,137,4.2,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0614,P1614,Vikas Kumar,57,Male,2026-03-25,9.2,5589,3.9,351085,120,245,6.8,252,93,47,283,57,1.1,138,3.6,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Mehta,Blood Test
+R0615,P1615,Rohan Kumar,66,Male,2026-03-27,10,5900,4.3,285445,92,134,8.5,299,160,48,192,56,0.9,150,3.7,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Rao,Blood Test
+R0616,P1616,Amit Kumar,73,Female,2026-01-14,12.2,4386,3.8,316975,85,169,7.4,177,103,33,289,49,1.3,130,3,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0617,P1617,Rohan Kumar,57,Male,2026-02-22,15.1,11953,5.2,316665,100,299,6.9,167,113,58,152,34,1.5,142,5.5,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0618,P1618,Priya Kumar,57,Female,2026-03-20,13.3,11805,5.4,292679,163,184,7.6,239,160,53,236,32,0.6,141,4.2,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0619,P1619,Pooja Kumar,37,Male,2026-03-12,15.6,11874,5.1,274667,142,121,5.9,295,159,49,187,47,0.8,131,5.5,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Mehta,Blood Test
+R0620,P1620,Vikas Kumar,37,Female,2026-04-14,9.7,8091,4.1,229848,99,286,5.5,206,122,58,248,56,1.1,148,4.1,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Gupta,Blood Test
+R0621,P1621,Pooja Kumar,34,Male,2026-03-29,13.6,10604,5.4,150335,89,222,7.6,288,136,33,170,58,1.4,133,3.2,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Mehta,Blood Test
+R0622,P1622,Arjun Kumar,40,Male,2026-03-18,9.5,9488,4.2,379945,132,269,5.7,232,110,47,299,34,1.4,144,5.2,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0623,P1623,Pooja Kumar,69,Female,2026-04-06,14.4,10990,4.9,370993,81,196,8,236,138,46,208,41,1.5,149,5.3,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Mehta,Blood Test
+R0624,P1624,Rohan Kumar,42,Female,2026-04-27,15.4,4080,4.2,162172,137,261,5.1,262,159,31,150,49,1,136,5,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0625,P1625,Pooja Kumar,25,Female,2026-01-01,12.2,11862,4.8,295499,94,121,6.1,276,89,43,235,20,1.2,135,3.4,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Sharma,Blood Test
+R0626,P1626,Rohan Kumar,75,Female,2026-01-24,9.4,5101,4.3,317974,168,204,6.2,294,120,54,198,31,0.6,142,3.8,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Sharma,Blood Test
+R0627,P1627,Vikas Kumar,48,Male,2026-01-11,15.9,8638,3.5,126240,177,300,5.3,229,87,56,183,33,1.2,147,3.4,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Mehta,Blood Test
+R0628,P1628,Amit Kumar,70,Male,2026-03-09,10.8,11479,5.2,289136,118,175,8.5,177,103,51,177,35,0.8,135,5.2,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0629,P1629,Sneha Kumar,40,Male,2026-03-30,13.8,8927,4.5,366929,120,158,7.2,279,95,33,220,52,1.5,135,4.2,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Sharma,Blood Test
+R0630,P1630,Priya Kumar,63,Male,2026-04-08,15,6677,5.1,145149,142,299,8,199,150,59,290,56,1.1,149,3.1,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Mehta,Blood Test
+R0631,P1631,Priya Kumar,46,Female,2026-01-01,14.2,8876,5.1,294944,120,168,4.7,199,135,48,186,22,1.3,135,4.8,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Gupta,Blood Test
+R0632,P1632,Sneha Kumar,20,Male,2026-02-04,9.8,7368,4.6,386566,162,238,4.8,251,107,57,180,42,1.1,134,5.2,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Rao,Blood Test
+R0633,P1633,Sneha Kumar,60,Male,2026-04-17,9.1,5608,4.4,281511,96,234,7.9,295,119,35,224,50,0.8,135,5.2,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Mehta,Blood Test
+R0634,P1634,Rohan Kumar,55,Male,2026-03-20,14,4285,4.3,182169,94,191,8.1,208,127,47,155,43,1.2,131,3.3,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Sharma,Blood Test
+R0635,P1635,Neha Kumar,71,Female,2026-01-02,10.8,10493,5.4,285195,169,164,8,170,170,52,265,58,1.2,131,4,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0636,P1636,Anjali Kumar,29,Male,2026-01-04,15.4,5187,3.9,268070,129,159,5.9,199,112,45,181,40,1.6,135,3.6,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0637,P1637,Neha Kumar,36,Female,2026-01-14,9.4,11980,4.8,246657,133,186,7.4,198,133,44,196,27,0.8,137,4.9,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Mehta,Blood Test
+R0638,P1638,Amit Kumar,64,Male,2026-04-26,14.1,9355,5.2,376545,85,222,8.7,292,145,58,298,29,1.1,137,3,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0639,P1639,Rahul Kumar,48,Female,2026-04-16,11.3,10042,3.7,207211,92,207,8.8,236,160,40,270,22,1.2,141,5.4,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Mehta,Blood Test
+R0640,P1640,Vikas Kumar,39,Female,2026-01-28,9.4,9659,5.4,279398,123,201,8.1,269,97,48,174,50,1.7,149,5,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Gupta,Blood Test
+R0641,P1641,Rohan Kumar,69,Female,2026-04-20,12,6272,4.6,289807,91,263,5.2,287,159,33,191,35,0.9,148,3.9,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Rao,Blood Test
+R0642,P1642,Neha Kumar,18,Female,2026-02-05,13.6,6443,3.7,177107,122,263,7.6,205,144,38,289,25,1.2,137,4.8,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0643,P1643,Amit Kumar,34,Male,2026-02-09,12.3,9613,4.5,174775,160,137,8.4,274,179,36,279,47,1.8,131,5.3,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0644,P1644,Arjun Kumar,42,Female,2026-02-03,11,7783,4.5,201479,150,297,6.5,228,95,57,289,39,1.7,135,4.8,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Rao,Blood Test
+R0645,P1645,Vikas Kumar,52,Female,2026-05-01,9.7,4076,4.7,371765,145,243,5.3,176,90,56,265,40,0.8,145,4.7,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0646,P1646,Anjali Kumar,31,Male,2026-04-01,11.7,10779,3.6,209249,99,165,8.1,241,103,39,150,60,1.1,131,3.1,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0647,P1647,Anjali Kumar,59,Male,2026-01-25,12.3,9136,3.5,127646,144,269,8.9,223,174,52,229,60,1,147,4.2,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Mehta,Blood Test
+R0648,P1648,Rohan Kumar,61,Female,2026-02-02,12,9976,4.7,359740,94,245,7.2,215,155,40,265,36,1.9,139,3.8,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Rao,Blood Test
+R0649,P1649,Pooja Kumar,21,Female,2026-04-01,12.1,5500,4.4,371758,111,171,7.9,162,180,34,253,59,1.3,145,3.6,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0650,P1650,Arjun Kumar,37,Male,2026-03-01,10,10305,4.1,243932,97,186,8.1,200,100,46,233,28,1,146,3.9,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Mehta,Blood Test
+R0651,P1651,Rahul Kumar,25,Female,2026-01-08,10.3,6509,5.4,376830,167,135,5.2,203,95,30,203,36,1.9,139,5.1,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Mehta,Blood Test
+R0652,P1652,Amit Kumar,75,Female,2026-01-22,13,8136,4.6,281662,148,186,5.1,246,123,32,295,46,2,136,5.2,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Mehta,Blood Test
+R0653,P1653,Rahul Kumar,21,Female,2026-04-08,11.5,4225,5.2,334016,109,124,4.6,158,81,58,234,41,1.7,139,3.5,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Sharma,Blood Test
+R0654,P1654,Neha Kumar,52,Male,2026-03-23,14.9,4070,4.3,329333,171,149,6.2,284,128,34,296,34,1.2,141,4,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Sharma,Blood Test
+R0655,P1655,Priya Kumar,33,Female,2026-01-11,13.5,9068,4.3,301850,167,191,5.3,246,134,39,175,21,1.7,136,4.2,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Sharma,Blood Test
+R0656,P1656,Sneha Kumar,71,Male,2026-05-01,11.9,5014,4.6,267943,105,251,6.9,241,105,37,286,21,1.6,141,3.7,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0657,P1657,Neha Kumar,32,Female,2026-04-03,12.8,8103,5.1,321353,136,121,6.9,296,169,58,174,28,1,137,4.7,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0658,P1658,Sneha Kumar,70,Female,2026-01-17,13.5,8952,4,321233,84,245,7.2,287,98,34,237,44,0.7,131,4.9,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Sharma,Blood Test
+R0659,P1659,Rahul Kumar,73,Female,2026-03-07,9,6722,5.2,242565,157,125,5.5,258,100,48,272,58,1.6,143,3.9,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0660,P1660,Amit Kumar,20,Female,2026-02-20,12,11994,5,384198,172,169,7,203,168,52,239,44,1.5,131,4,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0661,P1661,Rohan Kumar,23,Male,2026-04-10,13.9,9611,5.3,234416,87,177,7.2,207,145,37,184,50,1.4,134,3.8,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Rao,Blood Test
+R0662,P1662,Priya Kumar,65,Male,2026-04-05,10,10724,4.7,348775,113,159,5,213,113,42,194,45,1.5,138,3.8,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Mehta,Blood Test
+R0663,P1663,Priya Kumar,43,Female,2026-04-02,11.4,8092,4.8,327665,149,226,7.5,245,164,52,288,59,1,134,3.2,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Mehta,Blood Test
+R0664,P1664,Rohan Kumar,72,Male,2026-04-21,13.5,7733,4,219776,143,263,7.6,173,125,52,201,26,0.8,150,5.1,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0665,P1665,Rohan Kumar,36,Male,2026-02-08,10.5,5753,5,312870,118,141,7,205,94,41,235,26,1,143,4.1,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Mehta,Blood Test
+R0666,P1666,Rahul Kumar,70,Female,2026-04-29,14.3,5668,4.9,228188,90,212,8,180,118,35,261,35,0.6,145,3,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Gupta,Blood Test
+R0667,P1667,Arjun Kumar,40,Female,2026-03-11,12.4,5347,4.6,288390,83,181,7.4,164,122,49,224,32,1.7,144,3.8,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0668,P1668,Priya Kumar,25,Female,2026-03-22,13.3,4122,4.1,384254,81,243,7,284,163,57,280,56,2,139,4.3,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Sharma,Blood Test
+R0669,P1669,Amit Kumar,41,Female,2026-03-18,10,4790,5.4,322468,83,141,7.8,160,81,39,268,20,1,141,3.6,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0670,P1670,Vikas Kumar,38,Male,2026-04-17,13.9,10193,5.1,396843,165,205,5.2,238,158,50,188,32,0.9,142,4.4,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0671,P1671,Neha Kumar,68,Male,2026-03-26,15.5,9218,5,174963,174,163,7.3,229,109,51,165,25,1.6,138,4.1,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Mehta,Blood Test
+R0672,P1672,Rohan Kumar,25,Male,2026-03-06,9.2,9192,3.5,141369,155,258,8.7,223,170,43,230,40,2,143,5.2,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0673,P1673,Neha Kumar,55,Female,2026-03-11,10,7133,4.6,329881,120,177,7,185,152,33,300,59,1.3,150,4.1,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Gupta,Blood Test
+R0674,P1674,Priya Kumar,49,Female,2026-02-08,14.6,4740,5.1,158264,165,156,7.2,191,139,50,161,57,0.6,137,4.6,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Sharma,Blood Test
+R0675,P1675,Rohan Kumar,63,Female,2026-01-11,14.7,6458,5.2,375608,141,224,7.2,215,94,51,208,54,1,142,3.7,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0676,P1676,Pooja Kumar,52,Female,2026-02-08,10.5,9740,4.6,145239,146,264,8.7,271,108,56,194,53,1,140,4.3,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Sharma,Blood Test
+R0677,P1677,Rahul Kumar,63,Male,2026-02-02,14.8,6415,3.5,219247,86,234,6.3,277,90,44,236,60,1.9,138,5.2,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0678,P1678,Neha Kumar,62,Male,2026-02-03,12.6,5547,5.4,287694,178,235,5.1,217,111,36,294,37,0.6,150,3.9,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0679,P1679,Vikas Kumar,60,Female,2026-04-18,11.9,8224,4.2,278107,92,240,8.1,246,136,30,234,32,1.6,132,4,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0680,P1680,Pooja Kumar,65,Male,2026-04-06,10.8,5260,5.1,206846,179,134,5.2,162,126,31,290,57,1.3,137,4.4,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Mehta,Blood Test
+R0681,P1681,Priya Kumar,56,Female,2026-02-11,14,5189,3.6,325534,109,278,8.8,197,104,30,174,48,1.2,130,5.2,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Sharma,Blood Test
+R0682,P1682,Amit Kumar,41,Male,2026-04-26,13.6,6117,3.5,171213,153,283,8.1,173,102,44,224,42,1.5,132,5.5,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Rao,Blood Test
+R0683,P1683,Pooja Kumar,52,Female,2026-02-22,13.7,8986,5.2,124292,82,138,6.4,186,84,60,269,26,0.8,130,4.1,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0684,P1684,Neha Kumar,53,Female,2026-01-09,9.2,5554,5.1,319050,122,296,7.3,235,159,60,300,58,1.5,134,5.4,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Sharma,Blood Test
+R0685,P1685,Pooja Kumar,73,Female,2026-02-09,9.5,4366,4.6,211894,101,141,8.9,204,94,45,150,33,2,135,3,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Gupta,Blood Test
+R0686,P1686,Rohan Kumar,66,Male,2026-03-16,12,8973,4.7,213871,95,150,7.5,268,88,53,156,27,1.6,148,3.8,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0687,P1687,Arjun Kumar,36,Male,2026-04-24,11.7,4021,5.2,173528,129,202,8,193,168,60,172,51,1.5,140,4.1,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0688,P1688,Pooja Kumar,18,Male,2026-01-10,12.7,8102,4.3,169632,144,129,5.7,197,114,41,187,22,1,136,4.2,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Mehta,Blood Test
+R0689,P1689,Sneha Kumar,43,Female,2026-04-08,12.8,8661,4.5,384905,135,171,5.5,269,174,38,222,47,0.7,138,4.7,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Sharma,Blood Test
+R0690,P1690,Neha Kumar,29,Male,2026-01-23,12.6,8810,4.6,308143,86,273,8.3,190,84,54,254,38,1.8,150,3.6,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Mehta,Blood Test
+R0691,P1691,Priya Kumar,22,Female,2026-03-08,11.9,10038,5.4,122886,137,234,6.1,216,118,49,216,46,0.6,140,4.5,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Sharma,Blood Test
+R0692,P1692,Rahul Kumar,46,Male,2026-04-15,15.7,4374,3.6,319614,148,153,4.7,270,140,30,266,22,1.5,144,4.7,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Rao,Blood Test
+R0693,P1693,Vikas Kumar,37,Male,2026-04-25,13.2,9139,4.1,338383,158,123,7.9,181,151,38,191,55,1.7,136,3.2,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Mehta,Blood Test
+R0694,P1694,Rahul Kumar,22,Male,2026-02-26,14.6,11546,3.6,377752,90,299,5.5,199,140,44,185,52,0.9,145,4.1,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0695,P1695,Amit Kumar,19,Female,2026-02-26,14.3,6464,5.4,185817,103,282,8.7,189,125,56,285,51,1.7,147,3.2,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0696,P1696,Arjun Kumar,38,Male,2026-04-14,15.6,11719,3.9,338961,85,138,6.8,183,123,55,277,23,0.9,148,4.3,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Sharma,Blood Test
+R0697,P1697,Arjun Kumar,27,Male,2026-03-27,9.4,5543,3.8,378971,161,176,5,229,125,42,172,20,1.1,137,3.5,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Sharma,Blood Test
+R0698,P1698,Anjali Kumar,53,Female,2026-01-08,15,9416,3.7,316811,111,181,7.6,263,168,38,262,26,1.5,139,5.2,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Rao,Blood Test
+R0699,P1699,Arjun Kumar,48,Female,2026-01-03,9.8,7235,4.1,139167,145,149,5.9,294,113,60,296,26,2,139,5.2,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Gupta,Blood Test
+R0700,P1700,Amit Kumar,70,Female,2026-05-01,10.3,5194,4.9,157096,127,210,6,212,177,53,295,57,0.7,149,4.7,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Gupta,Blood Test
+R0701,P1701,Priya Kumar,51,Female,2026-02-13,11.3,9622,5.4,264000,130,284,6.3,160,92,40,234,60,1.9,136,3.3,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Gupta,Blood Test
+R0702,P1702,Neha Kumar,26,Male,2026-03-01,11.9,10256,4.7,391198,139,158,8.4,163,144,31,244,29,1.9,130,3.5,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0703,P1703,Rahul Kumar,56,Male,2026-01-21,15.9,4089,4.8,323027,123,228,7.4,244,153,53,203,42,1,143,3.8,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0704,P1704,Pooja Kumar,51,Female,2026-02-24,13.7,4071,5,208173,82,191,8,298,98,44,265,43,1.4,135,4.6,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0705,P1705,Rahul Kumar,25,Male,2026-02-24,9.9,9319,4.4,176410,142,219,7.8,260,163,48,177,55,1,149,4.6,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0706,P1706,Vikas Kumar,20,Female,2026-04-28,12.9,5075,5,339686,166,240,5.4,196,146,33,170,51,1.1,147,4.9,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0707,P1707,Vikas Kumar,58,Female,2026-01-30,15.5,4207,3.7,183212,101,210,6.9,278,99,54,170,53,0.9,143,3.9,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Rao,Blood Test
+R0708,P1708,Pooja Kumar,39,Female,2026-04-25,10.6,5214,3.7,311172,179,270,5.2,183,168,58,260,20,1.5,149,3.5,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0709,P1709,Priya Kumar,53,Female,2026-01-19,11.5,8305,5,329111,89,219,8.1,260,122,35,180,57,1.3,136,4.7,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Rao,Blood Test
+R0710,P1710,Rohan Kumar,22,Male,2026-01-19,14.6,11362,4.5,390393,86,191,6.6,181,124,45,167,22,2,142,4.1,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Sharma,Blood Test
+R0711,P1711,Rohan Kumar,27,Female,2026-02-08,9.8,11919,3.6,386985,93,257,6.6,212,125,42,176,20,1.4,131,4.8,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0712,P1712,Sneha Kumar,24,Male,2026-04-23,13.4,10924,5.2,324491,132,257,8.5,273,98,60,260,45,1.2,138,3.1,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0713,P1713,Sneha Kumar,52,Male,2026-01-02,9.1,11258,4.1,268731,156,211,8.9,210,102,48,261,49,1.9,134,4.1,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Mehta,Blood Test
+R0714,P1714,Rohan Kumar,43,Male,2026-02-10,10.2,11751,5.5,135125,112,204,5,293,152,46,172,21,0.6,150,4.1,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Mehta,Blood Test
+R0715,P1715,Anjali Kumar,35,Male,2026-02-04,12.8,11220,4,235215,160,189,6.9,270,171,38,228,36,1.3,131,4.2,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Mehta,Blood Test
+R0716,P1716,Priya Kumar,25,Female,2026-04-18,9,4578,4.6,126203,123,226,7.5,274,139,52,237,58,1.6,130,4.5,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Sharma,Blood Test
+R0717,P1717,Amit Kumar,21,Female,2026-02-27,15.7,10095,4.1,385472,126,245,6.6,276,173,55,220,23,1.7,144,4,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0718,P1718,Anjali Kumar,59,Male,2026-01-10,11.9,11923,4,292101,96,289,4.8,178,170,51,260,25,1.3,141,3.5,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Rao,Blood Test
+R0719,P1719,Priya Kumar,47,Female,2026-02-04,12.7,11667,3.5,144207,115,291,6.4,158,171,58,203,41,1.5,136,3.7,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Rao,Blood Test
+R0720,P1720,Sneha Kumar,48,Male,2026-01-16,14.7,10929,5,336192,100,227,7.4,224,84,49,178,55,1.3,134,4.8,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Rao,Blood Test
+R0721,P1721,Anjali Kumar,24,Female,2026-02-09,11.7,9935,4.8,334200,170,121,7.8,194,138,39,297,26,0.8,142,4,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Gupta,Blood Test
+R0722,P1722,Vikas Kumar,50,Female,2026-03-29,13.2,10943,4.1,192874,172,144,8.2,184,121,48,245,27,1.4,150,4.8,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0723,P1723,Amit Kumar,73,Male,2026-04-09,12.7,6472,4,188761,142,195,8.2,216,134,51,287,46,1.8,150,3,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0724,P1724,Priya Kumar,21,Female,2026-04-02,12.2,8322,3.7,254669,132,272,8.3,249,147,47,274,27,0.7,138,4.3,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Rao,Blood Test
+R0725,P1725,Rohan Kumar,74,Female,2026-02-23,14.8,6470,4.9,348434,94,217,8.9,170,82,41,159,60,2,133,3.7,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Gupta,Blood Test
+R0726,P1726,Priya Kumar,52,Female,2026-02-18,9.7,8002,4.1,250714,103,154,8.9,190,157,34,151,45,1.8,139,3.8,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Mehta,Blood Test
+R0727,P1727,Anjali Kumar,40,Female,2026-03-08,10.6,7746,4.9,329639,142,225,6,173,81,41,163,36,0.6,135,4.3,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0728,P1728,Neha Kumar,26,Male,2026-01-24,13,4964,3.6,219540,102,232,4.9,279,108,51,199,20,1.7,144,4.7,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0729,P1729,Rohan Kumar,36,Male,2026-04-12,14.5,11931,5.4,260521,100,207,7.2,280,126,50,195,57,1.2,148,5.2,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Sharma,Blood Test
+R0730,P1730,Sneha Kumar,62,Female,2026-01-10,12.1,9381,4.2,376698,129,127,6.9,273,149,48,192,48,1.7,136,4.6,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0731,P1731,Vikas Kumar,32,Female,2026-02-17,14.7,9813,5,294960,164,172,8.2,257,94,57,220,46,0.7,142,3,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0732,P1732,Amit Kumar,52,Female,2026-03-10,9.7,6889,5.3,300756,139,267,5,277,162,40,249,26,1.6,137,5.1,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Gupta,Blood Test
+R0733,P1733,Vikas Kumar,66,Male,2026-02-15,10.8,11182,5.4,185672,117,293,6.1,164,129,44,259,54,1.3,136,5.2,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0734,P1734,Rahul Kumar,56,Female,2026-03-11,15.7,4897,4.1,266653,156,183,8,196,99,33,163,55,1.1,150,3.1,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0735,P1735,Vikas Kumar,50,Female,2026-01-07,10.7,4066,4.7,324294,169,183,7.1,181,148,50,266,51,1.3,143,5.3,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0736,P1736,Rohan Kumar,21,Male,2026-01-13,10.9,8175,4.7,250684,96,284,7.9,284,123,60,279,32,0.9,145,3.5,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0737,P1737,Priya Kumar,65,Male,2026-04-14,9.4,7970,4.2,299899,172,264,8.4,164,171,34,197,30,1.9,145,3.4,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Sharma,Blood Test
+R0738,P1738,Sneha Kumar,59,Male,2026-01-03,9.4,5181,3.8,162648,80,210,5.2,150,137,60,257,25,1.4,146,4.1,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Gupta,Blood Test
+R0739,P1739,Anjali Kumar,49,Male,2026-03-10,13,5000,4.6,351385,146,225,7.6,250,127,54,281,53,1.8,135,3.1,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0740,P1740,Rahul Kumar,64,Male,2026-03-09,9,10740,3.5,306034,99,276,4.7,238,132,42,281,60,2,138,5.3,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Sharma,Blood Test
+R0741,P1741,Vikas Kumar,63,Female,2026-02-21,12.1,4295,4.2,231459,87,264,8.4,200,158,32,230,55,1,136,5.1,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0742,P1742,Priya Kumar,38,Male,2026-01-16,14.2,5366,4.2,216303,115,281,5.5,167,94,56,272,44,0.7,135,3.2,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0743,P1743,Arjun Kumar,42,Female,2026-02-16,12.6,6196,4.3,239193,117,144,7.3,216,145,35,216,39,1.9,146,4.8,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0744,P1744,Vikas Kumar,30,Female,2026-01-25,13.2,11408,5.2,311710,90,134,6.2,155,130,57,235,21,1.2,141,3.2,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Gupta,Blood Test
+R0745,P1745,Anjali Kumar,30,Male,2026-03-10,11.9,5678,4.7,191802,102,204,8,152,98,46,229,46,1.7,141,4,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0746,P1746,Rahul Kumar,58,Female,2026-03-02,15.8,4834,5.3,160514,83,177,9,275,87,53,169,24,1.1,137,3.2,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Rao,Blood Test
+R0747,P1747,Priya Kumar,24,Female,2026-04-16,13.5,4132,5.3,370399,179,171,5.1,193,155,56,170,42,1.2,139,4.5,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Rao,Blood Test
+R0748,P1748,Sneha Kumar,52,Male,2026-01-18,13,7764,4.1,142695,87,299,6.5,225,172,51,282,37,1.2,134,5.2,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Mehta,Blood Test
+R0749,P1749,Rohan Kumar,53,Male,2026-03-01,13.7,4995,5.4,316143,141,128,6,227,114,58,178,46,1.9,138,4.6,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0750,P1750,Rahul Kumar,69,Male,2026-02-27,10.3,6250,4.6,263196,86,282,5.9,151,115,48,210,51,1.6,138,4.4,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0751,P1751,Arjun Kumar,34,Female,2026-03-11,10.7,6232,4.8,167954,152,197,5.4,160,111,54,158,59,1.7,139,4.4,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Mehta,Blood Test
+R0752,P1752,Vikas Kumar,73,Male,2026-03-15,16,9325,5.1,163170,157,154,8.8,211,93,54,263,41,1.3,136,3.1,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Gupta,Blood Test
+R0753,P1753,Sneha Kumar,56,Female,2026-03-23,15.3,5238,4.4,387948,154,189,5.5,255,166,58,283,26,1.2,140,4.4,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Mehta,Blood Test
+R0754,P1754,Anjali Kumar,36,Female,2026-01-05,10,9531,3.8,297448,130,298,5.4,194,168,58,159,27,1.7,136,3.7,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Mehta,Blood Test
+R0755,P1755,Sneha Kumar,30,Female,2026-02-18,9.3,5223,3.7,395566,124,282,8.5,237,121,53,204,48,0.9,150,3.3,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Rao,Blood Test
+R0756,P1756,Rohan Kumar,22,Male,2026-03-27,14.4,9159,5.4,219643,111,184,8.8,182,105,51,182,34,1.1,135,3.1,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Rao,Blood Test
+R0757,P1757,Arjun Kumar,38,Female,2026-01-30,12.5,6917,3.9,308435,178,284,8.9,163,172,54,224,24,1.6,145,3,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Mehta,Blood Test
+R0758,P1758,Arjun Kumar,46,Male,2026-01-24,9,7604,5,287614,165,253,6.8,216,122,38,204,52,1.3,147,4.8,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Rao,Blood Test
+R0759,P1759,Vikas Kumar,27,Female,2026-04-22,10.1,11676,5.1,291599,169,204,5.4,193,86,51,157,48,1.8,142,5.3,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Sharma,Blood Test
+R0760,P1760,Priya Kumar,27,Female,2026-04-25,9.6,6705,3.6,325022,158,269,7.6,234,163,52,237,51,1.2,136,3.4,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0761,P1761,Vikas Kumar,66,Male,2026-03-12,13.9,7972,4.4,308842,92,280,6.5,263,160,40,276,32,1.5,136,4.1,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Sharma,Blood Test
+R0762,P1762,Neha Kumar,51,Male,2026-01-18,15.1,4456,4.3,391531,131,154,9,278,150,44,188,55,1.5,150,4.8,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0763,P1763,Vikas Kumar,54,Female,2026-03-09,15.9,6213,5,246657,121,121,8.9,206,82,32,257,53,1.7,145,4.6,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0764,P1764,Sneha Kumar,30,Male,2026-02-21,13.3,5026,4.7,352278,119,243,6.2,161,95,48,168,50,0.9,146,3.8,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Gupta,Blood Test
+R0765,P1765,Neha Kumar,20,Male,2026-03-19,9.9,10087,4.8,239832,137,144,6.7,276,166,33,161,51,1.4,131,3.3,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Sharma,Blood Test
+R0766,P1766,Neha Kumar,39,Male,2026-03-10,11.1,9660,4.3,323121,83,124,4.9,178,142,51,176,60,0.8,137,3.2,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Mehta,Blood Test
+R0767,P1767,Vikas Kumar,24,Male,2026-03-19,15.6,4591,5,247931,122,248,8,289,139,40,163,43,1.1,139,4.3,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0768,P1768,Amit Kumar,27,Female,2026-03-17,13.2,4635,3.7,280333,121,151,7.8,210,129,59,205,47,1.7,150,4.7,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0769,P1769,Anjali Kumar,62,Female,2026-04-17,13.1,6425,4.5,284431,176,143,7.3,265,110,31,216,34,1.9,137,4.7,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0770,P1770,Rohan Kumar,62,Male,2026-01-09,13,10568,4.6,200975,163,233,7.8,200,140,51,264,38,0.8,141,5.4,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0771,P1771,Priya Kumar,62,Male,2026-01-25,9.9,11572,5,155096,150,188,7.4,233,158,44,200,26,2,133,5.1,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Gupta,Blood Test
+R0772,P1772,Sneha Kumar,31,Female,2026-03-20,13.7,8504,3.7,381509,120,193,8,300,125,48,273,20,1.2,137,4.7,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Rao,Blood Test
+R0773,P1773,Anjali Kumar,23,Female,2026-02-28,14.9,9964,4.6,131802,120,159,5.5,281,130,47,167,47,1.8,130,4.1,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0774,P1774,Vikas Kumar,44,Female,2026-04-15,12,11797,5.2,144188,141,243,4.5,257,170,39,183,42,1,140,4.5,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Sharma,Blood Test
+R0775,P1775,Pooja Kumar,55,Female,2026-04-21,13,5626,4.5,197102,110,185,6.9,279,151,56,225,45,0.8,130,3,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0776,P1776,Sneha Kumar,71,Male,2026-04-15,11.4,11183,3.5,226148,137,262,5,201,163,39,175,49,1.4,136,4.1,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Rao,Blood Test
+R0777,P1777,Rahul Kumar,18,Female,2026-01-02,10.6,7867,3.8,226812,175,207,7,206,101,52,265,45,1.2,133,4,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Sharma,Blood Test
+R0778,P1778,Pooja Kumar,47,Male,2026-03-26,11.8,9108,3.6,164424,131,146,7.5,207,171,39,283,32,1,136,4.6,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Gupta,Blood Test
+R0779,P1779,Priya Kumar,22,Male,2026-04-19,11.5,5602,4.6,305360,155,256,6.4,274,116,57,222,23,1.3,144,3.3,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0780,P1780,Vikas Kumar,18,Female,2026-03-31,9.9,9201,3.5,337909,140,152,4.7,289,140,57,291,42,1.2,132,4.4,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0781,P1781,Rahul Kumar,51,Male,2026-03-28,11.1,7892,4.5,312533,137,215,7.8,269,91,35,153,50,1.9,148,4.4,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0782,P1782,Amit Kumar,27,Female,2026-04-26,11.4,8067,5.1,295349,164,223,7.4,213,148,37,242,58,1.8,135,3.5,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0783,P1783,Pooja Kumar,26,Female,2026-02-09,15.9,7230,4.8,377063,142,280,6.5,260,100,56,295,29,1,131,3.8,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0784,P1784,Sneha Kumar,71,Male,2026-04-16,13.6,9176,5.1,191991,129,149,8.1,177,101,46,297,47,1.7,141,5.5,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0785,P1785,Amit Kumar,51,Male,2026-04-07,10.7,10723,4.2,287715,155,214,5.3,154,128,54,199,21,1.3,147,3.8,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Gupta,Blood Test
+R0786,P1786,Amit Kumar,55,Male,2026-01-10,11.9,4382,4.6,277786,158,209,6.9,176,168,33,237,50,1.1,141,3.1,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Rao,Blood Test
+R0787,P1787,Amit Kumar,58,Male,2026-01-30,14.1,10664,4,360154,126,297,6.7,180,97,30,273,45,1.7,150,4.5,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Rao,Blood Test
+R0788,P1788,Rohan Kumar,63,Female,2026-02-05,11.5,7841,3.7,361328,147,257,6.3,216,97,51,272,20,1.9,140,4.9,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Sharma,Blood Test
+R0789,P1789,Priya Kumar,45,Male,2026-01-09,11.7,10959,3.6,349171,139,222,4.8,277,164,41,218,25,1.4,141,4.6,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0790,P1790,Pooja Kumar,22,Female,2026-03-18,9.4,4179,4.5,234522,87,243,8.7,194,80,30,193,32,0.6,145,3.5,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Gupta,Blood Test
+R0791,P1791,Rahul Kumar,73,Male,2026-04-22,13.3,5229,4.2,214961,180,296,8.8,233,104,34,163,38,1,140,3.8,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0792,P1792,Amit Kumar,20,Male,2026-01-01,15.6,10179,4.6,345279,107,245,4.7,207,113,43,209,42,1.3,150,4.3,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0793,P1793,Priya Kumar,59,Female,2026-01-29,11.1,11210,4.7,193489,175,240,5.9,220,126,56,213,49,0.6,145,4.2,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0794,P1794,Rahul Kumar,42,Female,2026-01-25,10.1,5586,5.3,215004,146,149,4.9,283,159,34,276,48,1.1,146,4,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Gupta,Blood Test
+R0795,P1795,Arjun Kumar,55,Female,2026-04-24,12.4,5328,4.4,333692,163,169,5.5,249,115,31,217,38,1.1,141,4.1,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Mehta,Blood Test
+R0796,P1796,Neha Kumar,48,Male,2026-04-05,13,11227,5.1,120817,140,172,5.6,278,166,56,153,40,1.8,143,3.9,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Sharma,Blood Test
+R0797,P1797,Pooja Kumar,28,Male,2026-02-28,11.3,4549,4.2,215329,84,153,4.8,215,160,35,261,21,1.5,137,5.2,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Sharma,Blood Test
+R0798,P1798,Priya Kumar,75,Male,2026-03-02,10.6,8906,5.2,347729,136,291,7.9,174,107,59,300,37,0.6,132,4.7,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Mehta,Blood Test
+R0799,P1799,Amit Kumar,58,Female,2026-02-22,15.4,10309,4.7,190115,97,274,4.8,222,97,42,288,55,1.9,145,4.8,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0800,P1800,Neha Kumar,47,Male,2026-01-12,13.1,11638,4.4,279914,154,171,4.8,272,84,34,208,20,1.2,131,3.1,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Gupta,Blood Test
+R0801,P1801,Anjali Kumar,29,Male,2026-02-13,14.4,8687,5.3,178073,178,130,8.9,217,178,33,175,23,1.3,134,3.3,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0802,P1802,Rohan Kumar,18,Male,2026-01-08,10.7,7089,5,354141,96,141,6,236,145,51,299,53,0.6,147,4.5,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Gupta,Blood Test
+R0803,P1803,Vikas Kumar,26,Female,2026-03-29,14.9,10758,3.7,177732,168,179,8.4,222,99,59,188,33,0.9,140,5.3,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Gupta,Blood Test
+R0804,P1804,Vikas Kumar,20,Male,2026-01-28,10.2,8257,5.3,223121,161,127,4.8,281,169,45,300,53,1.3,146,4.7,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Gupta,Blood Test
+R0805,P1805,Amit Kumar,22,Male,2026-02-10,12.5,8983,4.1,306708,131,259,5.8,167,100,48,184,24,1.6,150,3.9,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0806,P1806,Rahul Kumar,59,Female,2026-01-15,9.2,9032,3.7,298866,144,299,7.8,172,156,34,279,56,1.3,132,4.2,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Gupta,Blood Test
+R0807,P1807,Rahul Kumar,50,Male,2026-04-21,10.2,6787,5.5,272624,127,297,6.4,282,82,51,165,32,1.6,138,4.8,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Rao,Blood Test
+R0808,P1808,Sneha Kumar,57,Female,2026-01-06,10.8,7551,4.2,224395,133,279,8,252,104,40,210,50,1.4,150,3.8,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Gupta,Blood Test
+R0809,P1809,Vikas Kumar,32,Female,2026-02-04,13.5,9376,3.8,146922,163,275,6.4,263,169,34,286,27,1.9,136,3.2,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0810,P1810,Sneha Kumar,36,Female,2026-02-01,10.1,7346,4.9,385199,123,247,5.1,282,151,38,220,50,1.5,132,4,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0811,P1811,Sneha Kumar,74,Female,2026-02-09,9.1,8942,4.6,134849,94,163,7.5,223,147,38,198,24,0.7,148,3.7,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0812,P1812,Anjali Kumar,45,Male,2026-03-18,9.3,5220,5,283802,117,201,5.2,196,93,59,223,28,1.4,149,3.1,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Sharma,Blood Test
+R0813,P1813,Arjun Kumar,24,Male,2026-01-11,11.1,4894,4.3,138257,165,187,5.5,152,152,35,288,44,2,137,3.4,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Mehta,Blood Test
+R0814,P1814,Neha Kumar,74,Male,2026-03-10,15.2,8846,4.9,184073,119,152,6,165,90,50,262,44,1.4,146,3.7,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0815,P1815,Sneha Kumar,19,Male,2026-01-10,11.1,9349,4.1,197685,172,222,5.5,230,94,55,227,36,1,143,3,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Gupta,Blood Test
+R0816,P1816,Priya Kumar,28,Female,2026-03-22,15.3,8149,4.2,257818,90,149,4.8,203,100,54,266,23,1.1,143,4.8,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0817,P1817,Arjun Kumar,35,Female,2026-01-10,13.2,8999,3.8,158254,137,292,5.4,155,107,54,264,50,1.9,138,5.5,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Sharma,Blood Test
+R0818,P1818,Anjali Kumar,74,Male,2026-04-11,14.8,8320,4.8,216387,126,214,6.6,190,150,46,248,47,1.1,144,4.3,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Rao,Blood Test
+R0819,P1819,Priya Kumar,31,Female,2026-04-10,11.9,8450,5.3,205275,150,151,4.5,201,157,36,291,53,1.9,146,3.2,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Rao,Blood Test
+R0820,P1820,Rahul Kumar,63,Male,2026-02-20,11.1,10502,5.4,278272,155,173,8.6,233,166,59,286,25,1.6,138,3.7,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Rao,Blood Test
+R0821,P1821,Vikas Kumar,26,Female,2026-04-24,11.5,10246,5.1,310563,126,175,8.2,247,178,52,168,40,1.1,145,5,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Gupta,Blood Test
+R0822,P1822,Vikas Kumar,34,Male,2026-03-10,12.6,7686,3.5,335608,133,189,7.1,270,111,39,257,37,1.4,135,3,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Mehta,Blood Test
+R0823,P1823,Neha Kumar,28,Male,2026-01-08,14.3,11098,4.9,371544,113,236,4.8,156,84,33,229,21,1.8,139,3.1,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0824,P1824,Rohan Kumar,65,Female,2026-02-02,13.6,8533,5.1,296508,92,209,8,280,157,49,167,49,1.3,147,3.9,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Sharma,Blood Test
+R0825,P1825,Neha Kumar,37,Male,2026-04-19,14.1,8907,3.9,217148,137,167,4.6,264,115,40,234,42,1.5,130,3.5,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0826,P1826,Neha Kumar,32,Female,2026-03-19,12.6,4664,3.6,337184,96,148,6.4,171,180,46,219,29,1.8,146,5,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Mehta,Blood Test
+R0827,P1827,Rohan Kumar,51,Male,2026-01-24,12.8,7679,4.1,163127,123,239,8.5,250,105,43,164,31,0.9,137,4.7,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Mehta,Blood Test
+R0828,P1828,Sneha Kumar,23,Female,2026-03-12,10.8,11903,3.5,364143,91,290,5.6,268,175,56,263,42,1.7,130,4.4,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0829,P1829,Rahul Kumar,34,Female,2026-03-03,9.1,6071,3.8,295716,114,216,4.9,209,112,48,252,53,0.6,148,4.9,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Gupta,Blood Test
+R0830,P1830,Priya Kumar,60,Male,2026-02-09,13.9,9297,3.8,373989,179,137,5.6,272,154,45,227,23,1,143,3.3,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Rao,Blood Test
+R0831,P1831,Priya Kumar,66,Male,2026-03-08,11,4296,5.2,248289,140,237,5.5,210,121,39,231,45,1.9,135,4.8,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Mehta,Blood Test
+R0832,P1832,Arjun Kumar,58,Male,2026-03-21,14.3,7424,3.8,222807,175,292,6,277,168,57,203,50,1.3,145,3.4,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Mehta,Blood Test
+R0833,P1833,Amit Kumar,25,Female,2026-02-17,14.9,4457,4.4,169982,167,183,8.5,282,136,35,297,22,1,130,4.3,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Gupta,Blood Test
+R0834,P1834,Amit Kumar,56,Male,2026-03-15,11.6,6904,4.9,262427,136,229,4.7,211,101,48,209,55,1.2,146,3.2,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0835,P1835,Priya Kumar,52,Male,2026-04-13,14,6055,4.4,248856,163,144,5.6,263,148,40,155,26,1.3,148,3.3,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Gupta,Blood Test
+R0836,P1836,Arjun Kumar,32,Female,2026-04-15,11,9416,4.4,211156,178,215,8.1,240,94,37,199,23,1.8,130,5.1,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Mehta,Blood Test
+R0837,P1837,Rahul Kumar,56,Male,2026-01-29,14,7792,4.3,152554,147,231,6.5,163,134,55,208,42,1.5,146,4,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Mehta,Blood Test
+R0838,P1838,Amit Kumar,27,Female,2026-04-21,13.9,9411,4.6,316880,158,263,5.6,250,113,38,240,48,1.6,145,3.2,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Rao,Blood Test
+R0839,P1839,Sneha Kumar,70,Male,2026-02-02,13.3,6339,5.1,293665,143,297,7.4,271,120,38,153,50,1,148,4.1,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Rao,Blood Test
+R0840,P1840,Pooja Kumar,37,Female,2026-02-24,13.4,9087,4.8,301512,80,224,7.6,264,148,44,265,55,0.8,139,4.2,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0841,P1841,Arjun Kumar,64,Male,2026-04-29,15,8308,4.3,203173,161,133,9,282,91,59,183,32,1,143,4.2,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0842,P1842,Vikas Kumar,39,Female,2026-03-17,10.2,4835,4,221180,99,154,5,256,133,37,162,40,1.4,138,3.8,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0843,P1843,Vikas Kumar,64,Female,2026-03-21,15.5,9045,4.3,186504,167,221,6.4,260,97,60,295,53,0.9,132,3.2,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0844,P1844,Priya Kumar,62,Female,2026-04-03,10.1,8047,3.5,319431,84,197,6.4,188,134,47,297,38,1.4,135,3.1,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0845,P1845,Priya Kumar,33,Male,2026-04-17,11.8,4025,5.4,326781,89,190,8.4,278,119,47,173,55,1.6,135,3.3,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0846,P1846,Anjali Kumar,51,Male,2026-01-13,14,5026,5,321854,125,238,4.5,254,176,60,219,44,1.5,142,4.2,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Mehta,Blood Test
+R0847,P1847,Pooja Kumar,54,Male,2026-02-10,14,6943,3.6,195846,97,280,7,221,128,59,278,55,1.2,148,4.4,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Mehta,Blood Test
+R0848,P1848,Rohan Kumar,26,Female,2026-04-13,15.6,6150,4.5,260272,109,184,7.2,210,85,35,266,57,1.7,146,5.2,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0849,P1849,Neha Kumar,26,Female,2026-04-29,15.2,5164,3.9,379463,126,237,8.1,296,161,40,181,30,1.4,140,4.5,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0850,P1850,Arjun Kumar,21,Male,2026-02-28,9.2,9741,5.4,175640,94,244,8.4,284,84,37,207,30,1.9,132,3.5,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Sharma,Blood Test
+R0851,P1851,Pooja Kumar,69,Female,2026-04-21,14.7,9760,5.4,342782,101,228,8,287,121,50,235,56,1.3,130,4,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Sharma,Blood Test
+R0852,P1852,Priya Kumar,34,Female,2026-04-10,13,4897,4.4,283510,118,270,8.2,290,167,60,226,32,1.6,130,4.4,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Mehta,Blood Test
+R0853,P1853,Amit Kumar,42,Male,2026-01-21,10.6,9402,5.5,257096,162,248,7.9,245,179,37,182,44,1.8,138,5.3,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Rao,Blood Test
+R0854,P1854,Rohan Kumar,38,Female,2026-02-03,11,5500,4.3,158879,107,207,6,296,94,41,180,47,1.7,132,5.3,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Rao,Blood Test
+R0855,P1855,Rohan Kumar,73,Male,2026-02-25,11.6,8719,4.8,347946,174,293,5.5,214,146,59,153,60,1,131,3.5,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0856,P1856,Arjun Kumar,41,Male,2026-02-11,15.8,11886,3.6,266103,80,263,5.9,173,137,58,220,44,0.7,149,5.5,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Gupta,Blood Test
+R0857,P1857,Anjali Kumar,32,Female,2026-03-04,12.9,5346,4.5,294506,159,188,9,162,143,40,218,40,0.6,133,3.9,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Mehta,Blood Test
+R0858,P1858,Neha Kumar,18,Female,2026-04-30,10.6,9294,5.5,287081,93,167,7.4,299,91,60,262,50,1.6,150,5.3,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0859,P1859,Arjun Kumar,29,Female,2026-02-10,15.5,11650,4.5,174857,117,205,8,221,125,48,276,37,1.6,149,3.8,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Mehta,Blood Test
+R0860,P1860,Rohan Kumar,68,Male,2026-02-01,13.5,9281,4.7,282168,170,239,6,188,135,47,268,34,0.9,134,3.3,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0861,P1861,Arjun Kumar,73,Female,2026-01-03,9.9,6092,3.6,378279,91,245,4.8,256,144,30,193,30,1.5,132,4.5,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0862,P1862,Rohan Kumar,30,Female,2026-04-11,11.6,9162,5.4,189822,133,287,5.8,203,156,54,290,47,0.9,149,3.9,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Sharma,Blood Test
+R0863,P1863,Pooja Kumar,27,Female,2026-04-02,12.4,10922,5.1,343456,119,182,8,171,98,37,167,41,1.5,141,3.9,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Gupta,Blood Test
+R0864,P1864,Vikas Kumar,52,Female,2026-01-29,10.2,7561,5.1,264236,169,226,6.4,263,86,47,245,47,0.8,142,4.4,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Rao,Blood Test
+R0865,P1865,Rahul Kumar,24,Male,2026-04-15,9.8,11077,4,182744,94,162,6.1,293,102,48,296,36,0.9,146,3.3,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0866,P1866,Amit Kumar,29,Female,2026-02-19,11.5,5640,3.7,328805,83,279,6.3,220,135,47,224,59,1.4,143,4,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Gupta,Blood Test
+R0867,P1867,Rohan Kumar,72,Male,2026-01-13,14.3,7585,3.5,280302,164,194,8.4,194,166,36,181,48,1.3,138,4.5,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Mehta,Blood Test
+R0868,P1868,Pooja Kumar,59,Male,2026-03-29,10.3,7928,4.9,367024,152,278,7.2,262,150,59,199,25,1.3,133,3,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0869,P1869,Pooja Kumar,37,Male,2026-02-04,13.8,7974,4.9,145597,80,212,5.4,226,162,53,155,49,0.9,146,3.2,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Sharma,Blood Test
+R0870,P1870,Anjali Kumar,51,Male,2026-02-22,11.8,6400,5.1,171288,109,165,7.6,169,157,39,290,40,1.9,138,4.4,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Rao,Blood Test
+R0871,P1871,Rahul Kumar,70,Female,2026-04-09,14.7,9043,3.6,226634,140,240,8.3,265,159,52,275,50,1.8,141,4.6,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0872,P1872,Priya Kumar,30,Female,2026-02-06,11.5,10929,4.5,130089,153,242,5,151,94,52,202,20,0.7,137,3.2,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Mehta,Blood Test
+R0873,P1873,Anjali Kumar,69,Male,2026-04-15,13.6,9992,5,326271,157,148,7.4,253,104,52,260,51,1.1,149,4.8,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Mehta,Blood Test
+R0874,P1874,Arjun Kumar,27,Female,2026-04-19,15.3,8942,5,256425,154,237,8.2,192,176,33,267,42,1.2,142,4.3,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Mehta,Blood Test
+R0875,P1875,Amit Kumar,28,Female,2026-01-14,15.3,7730,4.7,325150,118,191,6.7,291,171,51,213,24,1.4,145,4.8,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0876,P1876,Rahul Kumar,59,Male,2026-04-04,13,11341,4.2,253417,137,212,8.5,245,104,33,167,26,0.9,138,4.2,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Sharma,Blood Test
+R0877,P1877,Priya Kumar,70,Male,2026-02-05,15.8,6252,3.8,386456,158,154,4.9,234,170,54,199,51,0.7,143,5.4,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Gupta,Blood Test
+R0878,P1878,Anjali Kumar,49,Female,2026-03-10,14,7730,5.2,395016,139,297,6.2,240,162,30,264,49,1.2,145,3.1,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Gupta,Blood Test
+R0879,P1879,Sneha Kumar,54,Male,2026-04-25,15.9,11044,5.3,394868,127,232,4.8,255,98,35,227,46,1.8,142,4.5,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Mehta,Blood Test
+R0880,P1880,Rohan Kumar,40,Female,2026-02-19,14.7,8035,5,277469,126,292,8.9,223,172,38,295,34,1.7,144,3.8,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Gupta,Blood Test
+R0881,P1881,Rohan Kumar,26,Female,2026-04-21,15.5,11817,3.9,271880,103,217,7.2,200,125,30,207,22,1.3,133,4.1,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0882,P1882,Sneha Kumar,18,Female,2026-04-18,11.7,9085,4.2,355202,156,247,7.7,235,146,37,274,25,1.2,132,5.3,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Mehta,Blood Test
+R0883,P1883,Amit Kumar,45,Female,2026-04-14,13,11438,3.7,393036,154,132,5.3,220,81,35,260,54,1.8,139,3.5,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0884,P1884,Pooja Kumar,49,Female,2026-04-26,9.3,11765,4.9,361241,87,197,5.3,174,145,47,224,46,0.8,143,3.4,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Gupta,Blood Test
+R0885,P1885,Sneha Kumar,54,Female,2026-01-02,11.7,4849,4,183184,157,256,4.9,191,139,40,191,43,1.5,137,4.1,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0886,P1886,Rahul Kumar,29,Female,2026-01-31,13.9,6180,4.7,385670,134,190,5.3,175,173,47,164,59,0.9,142,4.9,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Gupta,Blood Test
+R0887,P1887,Rahul Kumar,22,Female,2026-02-20,10.3,6389,3.6,342248,121,190,7.9,163,153,58,251,51,1,131,4.9,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Gupta,Blood Test
+R0888,P1888,Arjun Kumar,32,Female,2026-03-12,11.8,9584,4.4,228055,113,254,8,277,180,50,246,26,0.7,132,5.3,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Gupta,Blood Test
+R0889,P1889,Anjali Kumar,68,Female,2026-01-06,12.6,7867,3.6,397490,93,188,7.6,167,135,56,192,45,1.2,135,3.3,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0890,P1890,Priya Kumar,65,Female,2026-03-30,14.1,7470,5,171222,104,189,8.3,206,85,40,217,33,1.7,131,5,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Gupta,Blood Test
+R0891,P1891,Neha Kumar,47,Male,2026-04-10,9.3,9543,3.6,326545,157,120,6.2,234,151,43,212,22,0.9,148,4.9,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Mehta,Blood Test
+R0892,P1892,Vikas Kumar,65,Male,2026-02-17,9,6686,5.5,264513,175,296,7.1,187,114,59,243,48,1.8,142,3.6,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Gupta,Blood Test
+R0893,P1893,Sneha Kumar,56,Female,2026-04-08,9.7,9629,4,186123,161,263,7.1,236,108,30,175,24,1.8,145,3.5,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Mehta,Blood Test
+R0894,P1894,Vikas Kumar,65,Male,2026-01-21,9,11649,4,314109,159,122,7.2,171,93,48,285,20,1.7,134,4.6,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0895,P1895,Arjun Kumar,56,Male,2026-01-09,14.1,11874,4.4,328760,169,171,6.7,182,148,30,269,47,1.1,144,3.4,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Sharma,Blood Test
+R0896,P1896,Vikas Kumar,28,Female,2026-03-30,10.2,4362,5.4,397668,124,234,6.1,202,127,47,221,37,0.6,138,4,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0897,P1897,Rohan Kumar,54,Female,2026-02-08,10.5,5249,5.2,200832,124,223,7.4,178,161,46,294,60,1.8,142,4.3,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0898,P1898,Vikas Kumar,23,Male,2026-03-19,9.5,10387,4.5,222225,100,233,5.2,210,179,51,196,47,1.9,133,3.1,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0899,P1899,Sneha Kumar,44,Male,2026-04-09,9.5,8428,4.2,364822,122,204,8.7,229,129,38,220,30,1.5,148,4.3,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Gupta,Blood Test
+R0900,P1900,Sneha Kumar,70,Male,2026-02-08,12.8,10577,3.9,368719,179,271,5.1,216,123,34,191,46,1.4,143,3.2,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Rao,Blood Test
+R0901,P1901,Priya Kumar,21,Female,2026-02-19,11.2,5538,4,248762,150,178,8.2,300,174,37,197,36,1,144,4.5,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0902,P1902,Arjun Kumar,48,Male,2026-01-01,12.6,7027,5.4,331665,176,200,8,171,154,42,248,38,0.8,138,5,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Mehta,Blood Test
+R0903,P1903,Priya Kumar,56,Male,2026-01-25,14.7,8055,5.5,145166,141,184,5.7,232,95,56,254,30,0.8,141,4.2,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Mehta,Blood Test
+R0904,P1904,Pooja Kumar,39,Male,2026-01-28,12.3,9847,4.5,340108,113,279,8.3,172,158,60,192,23,1.6,142,5,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0905,P1905,Sneha Kumar,51,Male,2026-04-10,14,5041,5.5,238180,108,209,8.6,185,158,42,233,27,1.2,133,3.2,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Sharma,Blood Test
+R0906,P1906,Arjun Kumar,48,Female,2026-01-22,12.7,6801,5.3,302521,130,273,4.6,228,161,35,262,24,0.8,130,3.6,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Sharma,Blood Test
+R0907,P1907,Priya Kumar,27,Female,2026-04-13,11.4,8040,4.8,200401,106,155,7.6,237,119,43,174,25,0.8,150,4.8,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Gupta,Blood Test
+R0908,P1908,Neha Kumar,58,Male,2026-01-20,9,11333,5.4,213443,141,244,8,242,179,55,212,60,1.6,133,4,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Rao,Blood Test
+R0909,P1909,Priya Kumar,31,Male,2026-03-03,10.5,11799,4.4,207760,112,218,7.7,267,100,49,207,50,0.9,139,4.1,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Mehta,Blood Test
+R0910,P1910,Amit Kumar,64,Male,2026-04-24,13.1,8654,4.2,146089,89,231,5.4,267,120,34,222,60,1,149,5.2,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Mehta,Blood Test
+R0911,P1911,Sneha Kumar,26,Female,2026-03-30,15.7,7197,5,139007,171,210,5.5,198,146,42,237,44,1.7,149,3.2,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Mehta,Blood Test
+R0912,P1912,Anjali Kumar,24,Male,2026-04-17,15.6,9106,5,264032,113,274,6.4,261,123,39,169,34,1.9,140,3.8,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0913,P1913,Rahul Kumar,31,Male,2026-03-17,12,7552,4.3,207750,95,284,6.5,255,112,50,220,50,1.8,147,4,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Mehta,Blood Test
+R0914,P1914,Pooja Kumar,72,Male,2026-03-16,12.2,5504,5,138048,121,278,8.5,260,125,55,255,33,0.9,130,3.8,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Gupta,Blood Test
+R0915,P1915,Priya Kumar,73,Male,2026-03-28,9.2,4107,5.3,208880,114,233,7.8,272,132,52,267,47,1.3,148,3,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Mehta,Blood Test
+R0916,P1916,Rahul Kumar,68,Female,2026-01-25,15.5,5210,5.4,281012,114,141,8.9,227,140,35,291,42,1.7,140,3.8,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Mehta,Blood Test
+R0917,P1917,Arjun Kumar,50,Female,2026-04-22,9.1,10749,4.2,308834,86,247,7.6,155,172,56,227,29,1.9,149,4.4,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Mehta,Blood Test
+R0918,P1918,Sneha Kumar,66,Male,2026-01-18,13.9,8837,5.2,204860,108,218,7.7,293,152,57,168,51,1,139,5.1,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0919,P1919,Arjun Kumar,37,Male,2026-03-22,15,5007,3.7,394711,119,300,5.3,283,142,52,266,55,1.6,142,4.2,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Mehta,Blood Test
+R0920,P1920,Vikas Kumar,38,Male,2026-03-30,14.8,11634,4.2,382209,127,123,8.1,223,128,54,187,30,0.8,145,4.9,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0921,P1921,Neha Kumar,30,Female,2026-03-27,15.4,5218,3.8,148091,97,220,8.2,297,172,43,275,58,2,132,3.1,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Mehta,Blood Test
+R0922,P1922,Rahul Kumar,39,Male,2026-03-02,10.6,6076,4.2,268193,105,280,4.5,175,93,35,193,45,1.1,130,4.4,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Gupta,Blood Test
+R0923,P1923,Amit Kumar,52,Male,2026-05-01,11.1,9161,4.2,255276,95,283,7.6,197,117,34,203,27,1.4,150,4.5,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Rao,Blood Test
+R0924,P1924,Vikas Kumar,21,Male,2026-04-04,13.2,8101,5,376845,173,198,7.7,284,122,53,220,43,1.8,133,4.9,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0925,P1925,Amit Kumar,48,Male,2026-01-29,10.1,8766,4.9,261527,99,264,6.9,245,96,55,165,43,1.4,142,4.8,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0926,P1926,Pooja Kumar,42,Male,2026-02-16,11.2,6292,4.5,124629,115,169,8.7,296,144,53,214,31,2,136,4.7,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Gupta,Blood Test
+R0927,P1927,Sneha Kumar,49,Female,2026-04-28,13,4780,4.3,220930,82,137,5.1,253,140,53,275,29,2,130,4,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0928,P1928,Sneha Kumar,39,Male,2026-01-26,13.8,8690,4.4,220117,108,136,5.1,163,125,52,206,23,1.8,142,4.5,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0929,P1929,Neha Kumar,68,Male,2026-03-06,12.2,5072,4.8,193619,91,127,6.7,259,101,36,187,30,1.3,144,4.1,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Gupta,Blood Test
+R0930,P1930,Rohan Kumar,56,Female,2026-04-27,11.5,5472,4.7,383266,179,142,6.6,277,92,51,216,33,1.5,147,4.5,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0931,P1931,Amit Kumar,59,Male,2026-04-23,10.5,6300,3.6,151434,149,213,4.5,209,121,43,295,53,0.7,140,3.4,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Rao,Blood Test
+R0932,P1932,Amit Kumar,48,Male,2026-03-02,13.7,6222,5.5,148868,121,260,7.4,194,145,46,271,23,1.6,141,3.1,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Sharma,Blood Test
+R0933,P1933,Amit Kumar,58,Male,2026-01-02,12.4,9519,4.8,318735,123,176,5.5,257,97,49,184,25,0.7,141,3.7,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0934,P1934,Pooja Kumar,50,Male,2026-03-23,14.9,10671,4.4,261318,180,292,6.5,265,81,52,255,45,0.8,138,5.3,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0935,P1935,Rahul Kumar,22,Female,2026-02-27,14.8,9763,5,375273,125,209,8.5,297,170,46,229,29,1.3,139,3.3,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Sharma,Blood Test
+R0936,P1936,Amit Kumar,75,Female,2026-02-12,14,6259,4.2,368654,176,252,6.6,259,177,43,212,56,1.2,145,5,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Rao,Blood Test
+R0937,P1937,Neha Kumar,48,Male,2026-04-30,13.5,11520,4.7,313121,80,202,4.7,237,80,32,186,36,1,143,5,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Sharma,Blood Test
+R0938,P1938,Arjun Kumar,24,Female,2026-02-04,12.7,8434,4.2,145217,157,262,4.7,180,154,56,231,39,1.4,150,5,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Gupta,Blood Test
+R0939,P1939,Rohan Kumar,68,Female,2026-01-01,12.8,9695,4.9,348011,139,157,7.9,209,123,34,176,24,1,139,4,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0940,P1940,Anjali Kumar,35,Male,2026-01-15,15.4,11402,5.2,247164,85,279,4.8,244,102,42,282,32,1.9,147,3,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Gupta,Blood Test
+R0941,P1941,Anjali Kumar,49,Female,2026-02-06,9.5,7210,3.9,349495,147,204,8.6,277,100,52,181,38,0.9,144,4.2,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Mehta,Blood Test
+R0942,P1942,Amit Kumar,57,Male,2026-04-05,12.3,8448,3.9,256247,113,224,8.7,273,121,52,277,27,1.9,150,4.8,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Sharma,Blood Test
+R0943,P1943,Neha Kumar,40,Female,2026-01-12,13.3,9255,4,399279,99,173,8.6,278,118,35,165,40,0.7,146,4.5,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0944,P1944,Pooja Kumar,59,Male,2026-02-15,11.8,4332,4.2,369636,80,282,5.4,215,178,34,242,22,1,138,4.2,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0945,P1945,Rahul Kumar,49,Female,2026-04-06,9.8,10414,4.7,318808,171,127,7.9,180,167,47,214,31,1.8,150,3.5,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0946,P1946,Sneha Kumar,51,Male,2026-01-05,10.4,11831,4.3,271949,122,161,5.8,165,146,60,176,38,1.2,141,5.2,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0947,P1947,Vikas Kumar,60,Female,2026-01-31,13.5,5743,3.7,297939,144,208,6.4,185,106,39,233,54,1.9,131,3.1,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0948,P1948,Neha Kumar,52,Male,2026-02-25,16,7218,3.6,337284,83,184,8,159,159,47,284,24,1,142,5.4,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Gupta,Blood Test
+R0949,P1949,Rohan Kumar,39,Male,2026-03-10,11.5,4350,4,367064,160,216,5.3,266,88,46,208,42,1,133,4.4,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Gupta,Blood Test
+R0950,P1950,Neha Kumar,41,Male,2026-02-12,15.2,8296,5.1,301995,114,128,8.3,254,169,32,251,48,1.9,146,4.3,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0951,P1951,Priya Kumar,74,Male,2026-03-26,9.3,7496,4.1,168427,133,170,7.1,216,161,54,300,52,1.3,142,4.8,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0952,P1952,Rahul Kumar,38,Male,2026-04-22,15.5,8263,5,274724,154,262,8.8,217,132,51,297,35,1.8,145,5.4,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0953,P1953,Rohan Kumar,73,Female,2026-04-04,9.5,11380,5.1,311168,177,131,7.8,166,125,30,274,60,1,150,3.8,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Gupta,Blood Test
+R0954,P1954,Rohan Kumar,42,Female,2026-02-09,15.8,4090,5.2,386864,141,157,8,190,84,50,290,34,1.9,142,3.5,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0955,P1955,Neha Kumar,56,Female,2026-04-05,13.3,4711,5.3,359221,98,241,4.9,262,175,47,194,54,1.1,149,4.6,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0956,P1956,Sneha Kumar,35,Male,2026-04-21,11.4,11915,4.2,129788,137,249,4.9,240,133,54,285,57,1.5,135,4.2,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Gupta,Blood Test
+R0957,P1957,Neha Kumar,66,Male,2026-01-17,15.4,9309,5.2,283979,162,249,9,153,103,58,259,57,1.8,131,4.2,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Sharma,Blood Test
+R0958,P1958,Rohan Kumar,28,Male,2026-02-08,9.2,5363,3.9,366162,133,226,8.9,292,148,54,152,48,0.8,132,5.4,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Gupta,Blood Test
+R0959,P1959,Pooja Kumar,68,Male,2026-03-29,12.9,8218,4.9,379379,145,214,5,186,83,40,272,33,0.7,147,3.8,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Sharma,Blood Test
+R0960,P1960,Anjali Kumar,66,Male,2026-03-26,14.5,11311,5.3,180223,119,234,6.5,183,157,39,270,46,0.7,133,4.5,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Mehta,Blood Test
+R0961,P1961,Rohan Kumar,33,Male,2026-01-12,14.9,7983,5.2,157632,83,273,5.9,206,83,39,229,51,0.8,131,3.1,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Mehta,Blood Test
+R0962,P1962,Priya Kumar,37,Male,2026-02-16,12.5,9412,5,205515,125,178,6.9,259,97,50,278,50,1.6,149,3.3,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Mehta,Blood Test
+R0963,P1963,Priya Kumar,57,Female,2026-02-15,13.5,8830,5.3,267487,140,224,6.5,287,134,48,281,50,1.5,145,3.2,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Rao,Blood Test
+R0964,P1964,Anjali Kumar,44,Female,2026-03-21,9.3,10836,3.9,147711,131,227,5.3,175,125,43,255,34,1.4,132,3.4,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Rao,Blood Test
+R0965,P1965,Rahul Kumar,45,Male,2026-03-09,9.8,10380,4,310901,147,299,6.4,273,147,40,243,46,1.7,145,3.6,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Rao,Blood Test
+R0966,P1966,Sneha Kumar,52,Female,2026-01-01,9.1,9931,4.5,258777,135,125,7.4,270,81,40,240,51,1.4,142,5,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Rao,Blood Test
+R0967,P1967,Pooja Kumar,71,Female,2026-02-04,11.8,6757,5.2,283246,114,272,5.1,158,146,34,299,27,0.8,133,3.7,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Rao,Blood Test
+R0968,P1968,Priya Kumar,30,Male,2026-04-30,10.2,9146,5.4,260057,178,299,7.6,213,99,37,230,25,1.5,150,5.2,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0969,P1969,Sneha Kumar,41,Male,2026-01-25,14.1,6401,4.1,215253,151,237,6.2,215,163,56,253,58,1.1,138,4.5,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0970,P1970,Rahul Kumar,44,Female,2026-04-03,13.5,4929,3.6,124042,175,128,5,187,108,54,267,60,1.4,130,4.8,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Sharma,Blood Test
+R0971,P1971,Neha Kumar,69,Male,2026-04-26,10.3,11064,4.1,383590,139,241,7.8,242,174,39,289,20,1.2,149,4.8,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0972,P1972,Rohan Kumar,31,Female,2026-02-13,11.2,9997,4.9,172972,115,189,6.4,164,163,52,253,25,0.7,135,3.6,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Sharma,Blood Test
+R0973,P1973,Rohan Kumar,69,Male,2026-02-08,12,9070,4.7,149735,131,183,8.5,241,98,39,192,23,1.8,139,5.2,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Sharma,Blood Test
+R0974,P1974,Pooja Kumar,24,Male,2026-03-05,9.3,9490,4.6,289989,118,193,7.1,259,159,59,297,27,1.8,131,4.7,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Sharma,Blood Test
+R0975,P1975,Sneha Kumar,66,Male,2026-03-31,9.8,7322,5.2,372196,126,198,6.7,254,124,44,287,60,1.2,144,3.7,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0976,P1976,Arjun Kumar,23,Female,2026-01-19,9.1,8051,4.4,254976,81,162,8.3,300,105,43,167,30,1.6,142,4,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Mehta,Blood Test
+R0977,P1977,Neha Kumar,49,Female,2026-03-06,10.3,7855,4.5,398489,103,254,5,271,138,30,203,50,1.5,145,4.2,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0978,P1978,Amit Kumar,62,Female,2026-03-29,9.6,6748,4.3,397198,157,133,5.6,238,161,53,241,50,1.4,140,4.9,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Sharma,Blood Test
+R0979,P1979,Priya Kumar,63,Female,2026-03-07,16,5130,5.4,341628,127,133,8.6,248,145,38,204,44,0.8,132,5.2,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R0980,P1980,Neha Kumar,22,Female,2026-02-08,10.5,6860,4,326466,141,191,7.5,250,135,36,202,44,1,131,3.3,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Gupta,Blood Test
+R0981,P1981,Rahul Kumar,31,Male,2026-01-16,10.4,11842,4.5,352014,173,299,5.1,171,166,50,296,60,1.9,149,4.9,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Gupta,Blood Test
+R0982,P1982,Vikas Kumar,24,Female,2026-01-01,14.3,7098,5.2,305552,157,278,6,247,156,56,228,31,1.8,150,4.9,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Mehta,Blood Test
+R0983,P1983,Rahul Kumar,50,Male,2026-04-18,15,7315,5.2,224967,112,184,8.3,169,125,36,295,42,1.1,134,5.1,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Gupta,Blood Test
+R0984,P1984,Rahul Kumar,20,Male,2026-04-13,11.4,10804,4.2,332157,169,257,7.6,208,144,39,236,57,0.9,135,3.3,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0985,P1985,Anjali Kumar,58,Male,2026-01-07,15.5,9451,4.3,312744,94,300,5.6,197,143,32,238,24,1,135,5.5,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Gupta,Blood Test
+R0986,P1986,Sneha Kumar,39,Female,2026-03-17,13.2,6250,4,133950,141,213,6.9,296,115,38,264,29,0.9,144,5.5,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0987,P1987,Sneha Kumar,52,Female,2026-04-21,11.4,4308,4.9,264556,128,130,5,153,102,45,198,33,1.1,140,3.4,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Sharma,Blood Test
+R0988,P1988,Arjun Kumar,54,Female,2026-01-24,10.8,11765,4.1,251718,82,184,8.6,206,146,46,253,40,0.9,133,4.8,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Rao,Blood Test
+R0989,P1989,Neha Kumar,57,Male,2026-04-14,10.1,11297,4.8,280373,150,187,5.8,259,81,47,287,56,0.6,142,3.4,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0990,P1990,Sneha Kumar,68,Male,2026-03-13,12.3,5620,4.4,201438,170,295,5.1,179,80,51,197,26,1.9,137,4.2,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Mehta,Blood Test
+R0991,P1991,Amit Kumar,56,Female,2026-04-24,10,9331,5.4,399858,122,167,4.8,207,82,37,176,45,1.1,130,5.2,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Sharma,Blood Test
+R0992,P1992,Sneha Kumar,18,Female,2026-03-06,13.4,7195,4,363351,110,191,4.5,287,96,48,218,27,1.1,145,5.2,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0993,P1993,Anjali Kumar,64,Male,2026-04-21,14.4,9080,5.2,397344,83,132,6.2,160,88,33,259,36,1.7,135,4.4,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Gupta,Blood Test
+R0994,P1994,Arjun Kumar,23,Male,2026-01-31,15.9,8878,5.5,393470,88,244,8.1,299,105,59,279,60,1.5,144,4,g/dL,cells/mcL,mg/dL,mg/dL,Apollo Lab,Dr. Rao,Blood Test
+R0995,P1995,Priya Kumar,43,Male,2026-02-11,15.2,4956,4.9,189031,109,173,8.6,252,116,42,221,36,1.2,140,4.3,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Mehta,Blood Test
+R0996,P1996,Arjun Kumar,28,Female,2026-01-03,12.4,5425,4.4,228583,164,297,5.8,232,88,56,239,30,1.6,133,5.1,g/dL,cells/mcL,mg/dL,mg/dL,Metropolis,Dr. Sharma,Blood Test
+R0997,P1997,Priya Kumar,51,Male,2026-04-19,11.2,5784,4.6,385340,173,209,5.4,189,121,33,282,54,1.3,150,4.1,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Sharma,Blood Test
+R0998,P1998,Neha Kumar,40,Male,2026-02-13,13.5,10468,5.2,378947,145,175,5,238,179,46,272,49,1.1,142,5.1,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Mehta,Blood Test
+R0999,P1999,Amit Kumar,31,Male,2026-01-31,13,7090,4.1,195350,170,300,6.5,190,126,46,245,28,1.4,137,3.9,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Gupta,Blood Test
+R1000,P2000,Rahul Kumar,37,Female,2026-03-23,12.8,10301,4.7,142370,117,171,7,183,135,48,252,22,1.9,139,4.4,g/dL,cells/mcL,mg/dL,mg/dL,Thyrocare,Dr. Rao,Blood Test

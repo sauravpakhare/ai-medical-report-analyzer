@@ -1,0 +1,1001 @@
+Report_ID,Patient_ID,Age,Gender,Hemoglobin,Hemoglobin_Flag,WBC_Count,WBC_Flag,Platelet_Count,Platelet_Flag,Blood_Sugar_Fasting,Sugar_Flag,Cholesterol_Total,Cholesterol_Flag,Creatinine,Creatinine_Flag,Risk_Score,Risk_Level,Summary_Text
+R0001,P1001,48,Male,14.3,Normal,9893,Normal,279363,Normal,88,Normal,226,Borderline,1.2,Normal,0,Low,Health stable
+R0002,P1002,73,Male,9.5,Low,11969,High,310443,Normal,118,Prediabetic,163,Normal,1.2,Normal,3,Medium,Medical attention recommended
+R0003,P1003,26,Male,14,Normal,9789,Normal,271824,Normal,88,Normal,275,High,0.8,Normal,2,Low,Health stable
+R0004,P1004,68,Female,15.3,Normal,10431,Normal,268033,Normal,82,Normal,263,High,1.2,Normal,2,Low,Health stable
+R0005,P1005,20,Male,13.6,Normal,8045,Normal,178237,Normal,133,High,157,Normal,1.7,High,4,Medium,Medical attention recommended
+R0006,P1006,35,Male,10.7,Low,6866,Normal,332675,Normal,118,Prediabetic,263,High,1.4,High,6,High,Medical attention recommended
+R0007,P1007,73,Female,12,Normal,11652,High,368628,Normal,95,Normal,230,Borderline,1.4,High,3,Medium,Medical attention recommended
+R0008,P1008,29,Male,10.6,Low,11854,High,184902,Normal,157,High,239,Borderline,1.6,High,7,High,Medical attention recommended
+R0009,P1009,67,Male,15.4,Normal,8614,Normal,267414,Normal,82,Normal,201,Borderline,1.6,High,2,Low,Health stable
+R0010,P1010,36,Female,12.6,Normal,8380,Normal,381301,Normal,91,Normal,170,Normal,1,Normal,0,Low,Health stable
+R0011,P1011,32,Female,12.2,Normal,11379,High,270719,Normal,167,High,173,Normal,1.5,High,5,Medium,Medical attention recommended
+R0012,P1012,20,Female,9.1,Low,9245,Normal,203105,Normal,162,High,250,High,1.8,High,8,High,Medical attention recommended
+R0013,P1013,46,Female,11.3,Low,5410,Normal,344660,Normal,117,Prediabetic,229,Borderline,0.7,Normal,2,Low,Health stable
+R0014,P1014,55,Male,13.8,Normal,10758,Normal,294023,Normal,141,High,278,High,1.9,High,6,High,Medical attention recommended
+R0015,P1015,60,Male,12.1,Normal,5843,Normal,262988,Normal,88,Normal,190,Normal,1.5,High,2,Low,Health stable
+R0016,P1016,64,Male,10.6,Low,11624,High,213773,Normal,119,Prediabetic,221,Borderline,2,High,5,Medium,Medical attention recommended
+R0017,P1017,61,Female,14,Normal,4478,Normal,219836,Normal,111,Prediabetic,284,High,1.9,High,4,Medium,Medical attention recommended
+R0018,P1018,63,Female,14.6,Normal,11601,High,158919,Normal,88,Normal,250,High,1.6,High,5,Medium,Medical attention recommended
+R0019,P1019,42,Female,13.6,Normal,8833,Normal,313863,Normal,163,High,228,Borderline,1.4,High,4,Medium,Medical attention recommended
+R0020,P1020,74,Male,11.9,Low,5437,Normal,334342,Normal,129,High,242,High,1.1,Normal,6,High,Medical attention recommended
+R0021,P1021,27,Male,12.6,Normal,11136,High,175974,Normal,117,Prediabetic,156,Normal,0.8,Normal,1,Low,Health stable
+R0022,P1022,75,Male,15.9,Normal,11205,High,131359,Low,180,High,277,High,1.5,High,7,High,Medical attention recommended
+R0023,P1023,39,Female,14.1,Normal,8653,Normal,277725,Normal,99,Normal,166,Normal,1.9,High,2,Low,Health stable
+R0024,P1024,60,Female,14.6,Normal,7719,Normal,240082,Normal,168,High,298,High,0.9,Normal,4,Medium,Medical attention recommended
+R0025,P1025,61,Female,10.2,Low,7593,Normal,399616,Normal,179,High,241,High,1,Normal,6,High,Medical attention recommended
+R0026,P1026,70,Female,15.3,Normal,8587,Normal,279498,Normal,143,High,228,Borderline,1.1,Normal,2,Low,Health stable
+R0027,P1027,65,Male,15,Normal,4260,Normal,220335,Normal,158,High,226,Borderline,1.2,Normal,2,Low,Health stable
+R0028,P1028,22,Male,13.2,Normal,9618,Normal,164945,Normal,133,High,214,Borderline,1,Normal,2,Low,Health stable
+R0029,P1029,65,Female,11.4,Low,6971,Normal,284858,Normal,83,Normal,284,High,1.5,High,6,High,Medical attention recommended
+R0030,P1030,70,Female,13,Normal,4052,Normal,197735,Normal,95,Normal,236,Borderline,0.7,Normal,0,Low,Health stable
+R0031,P1031,52,Female,11.9,Low,10725,Normal,229604,Normal,126,High,218,Borderline,1.9,High,6,High,Medical attention recommended
+R0032,P1032,35,Female,13.6,Normal,8272,Normal,295652,Normal,126,High,186,Normal,1.8,High,4,Medium,Medical attention recommended
+R0033,P1033,37,Female,15.3,Normal,10417,Normal,277470,Normal,142,High,166,Normal,1.2,Normal,2,Low,Health stable
+R0034,P1034,47,Male,14.2,Normal,9468,Normal,230553,Normal,95,Normal,285,High,1.7,High,4,Medium,Medical attention recommended
+R0035,P1035,70,Female,9.5,Low,5909,Normal,282302,Normal,149,High,180,Normal,1.7,High,6,High,Medical attention recommended
+R0036,P1036,36,Female,15.5,Normal,4956,Normal,189789,Normal,89,Normal,202,Borderline,1.7,High,2,Low,Health stable
+R0037,P1037,62,Female,13.6,Normal,8047,Normal,134532,Low,140,High,267,High,1.6,High,6,High,Medical attention recommended
+R0038,P1038,72,Female,9.4,Low,6026,Normal,237227,Normal,139,High,224,Borderline,1.3,Normal,4,Medium,Medical attention recommended
+R0039,P1039,29,Female,13.7,Normal,10383,Normal,360849,Normal,166,High,255,High,1,Normal,4,Medium,Medical attention recommended
+R0040,P1040,52,Male,9.3,Low,6635,Normal,265530,Normal,96,Normal,176,Normal,1.8,High,4,Medium,Medical attention recommended
+R0041,P1041,29,Female,14.6,Normal,6149,Normal,221417,Normal,134,High,264,High,1.5,High,6,High,Medical attention recommended
+R0042,P1042,68,Female,12.1,Normal,9218,Normal,311131,Normal,100,Prediabetic,293,High,1.5,High,4,Medium,Medical attention recommended
+R0043,P1043,43,Male,10.3,Low,11928,High,222161,Normal,160,High,266,High,0.6,Low,7,High,Medical attention recommended
+R0044,P1044,58,Female,12.2,Normal,6234,Normal,176526,Normal,178,High,254,High,0.6,Low,4,Medium,Medical attention recommended
+R0045,P1045,32,Female,13.6,Normal,8719,Normal,253419,Normal,94,Normal,210,Borderline,1.4,High,2,Low,Health stable
+R0046,P1046,40,Female,11.3,Low,4675,Normal,201785,Normal,85,Normal,210,Borderline,1.1,Normal,2,Low,Health stable
+R0047,P1047,48,Female,15.5,Normal,10196,Normal,166140,Normal,103,Prediabetic,297,High,1.1,Normal,2,Low,Health stable
+R0048,P1048,36,Female,11.6,Low,5912,Normal,357094,Normal,149,High,214,Borderline,2,High,6,High,Medical attention recommended
+R0049,P1049,66,Male,14.5,Normal,11405,High,319399,Normal,147,High,196,Normal,1.7,High,5,Medium,Medical attention recommended
+R0050,P1050,66,Female,12.8,Normal,8881,Normal,154813,Normal,83,Normal,162,Normal,1.4,High,2,Low,Health stable
+R0051,P1051,65,Male,11.2,Low,7848,Normal,133780,Low,118,Prediabetic,171,Normal,1.6,High,4,Medium,Medical attention recommended
+R0052,P1052,24,Female,14.1,Normal,6063,Normal,309104,Normal,84,Normal,227,Borderline,0.7,Normal,0,Low,Health stable
+R0053,P1053,37,Female,11.1,Low,9024,Normal,277432,Normal,120,Prediabetic,213,Borderline,1.3,Normal,2,Low,Health stable
+R0054,P1054,50,Female,13.6,Normal,6828,Normal,226356,Normal,152,High,153,Normal,0.8,Normal,2,Low,Health stable
+R0055,P1055,20,Male,11.8,Low,4616,Normal,139840,Low,90,Normal,236,Borderline,0.9,Normal,2,Low,Health stable
+R0056,P1056,41,Male,16,Normal,10061,Normal,225131,Normal,87,Normal,172,Normal,0.7,Normal,0,Low,Health stable
+R0057,P1057,50,Female,9.8,Low,10230,Normal,313639,Normal,171,High,239,Borderline,0.9,Normal,4,Medium,Medical attention recommended
+R0058,P1058,25,Female,12.9,Normal,7374,Normal,136477,Low,80,Normal,242,High,0.7,Normal,2,Low,Health stable
+R0059,P1059,41,Female,10.5,Low,6797,Normal,270567,Normal,133,High,282,High,1.2,Normal,6,High,Medical attention recommended
+R0060,P1060,18,Female,15,Normal,6349,Normal,208558,Normal,102,Prediabetic,285,High,1.2,Normal,2,Low,Health stable
+R0061,P1061,37,Male,11.1,Low,6284,Normal,197682,Normal,166,High,193,Normal,1.7,High,6,High,Medical attention recommended
+R0062,P1062,42,Female,12.3,Normal,4395,Normal,257492,Normal,130,High,237,Borderline,1.5,High,4,Medium,Medical attention recommended
+R0063,P1063,23,Female,10,Low,5890,Normal,136937,Low,99,Normal,231,Borderline,1.4,High,4,Medium,Medical attention recommended
+R0064,P1064,24,Female,10.9,Low,6427,Normal,200680,Normal,179,High,175,Normal,1,Normal,4,Medium,Medical attention recommended
+R0065,P1065,36,Female,14.9,Normal,10125,Normal,151723,Normal,160,High,287,High,1.2,Normal,4,Medium,Medical attention recommended
+R0066,P1066,68,Male,15.4,Normal,5575,Normal,388714,Normal,174,High,286,High,1,Normal,4,Medium,Medical attention recommended
+R0067,P1067,23,Male,13.9,Normal,8026,Normal,223379,Normal,146,High,202,Borderline,1.4,High,4,Medium,Medical attention recommended
+R0068,P1068,37,Male,9.8,Low,10464,Normal,256096,Normal,121,Prediabetic,231,Borderline,1.6,High,4,Medium,Medical attention recommended
+R0069,P1069,36,Male,14.4,Normal,10447,Normal,170497,Normal,108,Prediabetic,253,High,1.1,Normal,2,Low,Health stable
+R0070,P1070,61,Male,13.1,Normal,11517,High,186515,Normal,109,Prediabetic,165,Normal,0.9,Normal,1,Low,Health stable
+R0071,P1071,37,Male,10.7,Low,4710,Normal,237185,Normal,134,High,252,High,0.7,Normal,6,High,Medical attention recommended
+R0072,P1072,48,Male,14.7,Normal,10428,Normal,211665,Normal,153,High,224,Borderline,1.4,High,4,Medium,Medical attention recommended
+R0073,P1073,56,Male,12.3,Normal,7082,Normal,249168,Normal,137,High,196,Normal,0.7,Normal,2,Low,Health stable
+R0074,P1074,60,Male,15.8,Normal,8335,Normal,377570,Normal,86,Normal,181,Normal,0.7,Normal,0,Low,Health stable
+R0075,P1075,70,Male,15.6,Normal,4989,Normal,289258,Normal,120,Prediabetic,298,High,1.1,Normal,2,Low,Health stable
+R0076,P1076,27,Male,14.3,Normal,7738,Normal,386316,Normal,84,Normal,182,Normal,0.7,Normal,0,Low,Health stable
+R0077,P1077,47,Male,10.9,Low,4456,Normal,174936,Normal,141,High,179,Normal,1.9,High,6,High,Medical attention recommended
+R0078,P1078,48,Male,15.1,Normal,4526,Normal,180830,Normal,106,Prediabetic,191,Normal,1.4,High,2,Low,Health stable
+R0079,P1079,65,Female,9.8,Low,9783,Normal,261132,Normal,173,High,184,Normal,0.7,Normal,4,Medium,Medical attention recommended
+R0080,P1080,75,Male,10,Low,6199,Normal,287670,Normal,164,High,297,High,0.8,Normal,6,High,Medical attention recommended
+R0081,P1081,49,Male,11.5,Low,9322,Normal,128507,Low,136,High,219,Borderline,0.8,Normal,4,Medium,Medical attention recommended
+R0082,P1082,66,Female,14.2,Normal,5212,Normal,161819,Normal,159,High,171,Normal,1.9,High,4,Medium,Medical attention recommended
+R0083,P1083,61,Female,9.8,Low,11611,High,347543,Normal,89,Normal,152,Normal,0.9,Normal,3,Medium,Medical attention recommended
+R0084,P1084,72,Male,14.8,Normal,8068,Normal,373897,Normal,167,High,183,Normal,1.7,High,4,Medium,Medical attention recommended
+R0085,P1085,71,Female,10.5,Low,9025,Normal,339009,Normal,84,Normal,284,High,0.8,Normal,4,Medium,Medical attention recommended
+R0086,P1086,52,Male,11.6,Low,4491,Normal,134618,Low,129,High,211,Borderline,1.9,High,6,High,Medical attention recommended
+R0087,P1087,71,Male,11.1,Low,6906,Normal,272020,Normal,143,High,202,Borderline,1.7,High,6,High,Medical attention recommended
+R0088,P1088,18,Female,12,Normal,9695,Normal,162097,Normal,101,Prediabetic,203,Borderline,1.2,Normal,0,Low,Health stable
+R0089,P1089,19,Female,14.3,Normal,5412,Normal,380687,Normal,175,High,265,High,1.1,Normal,4,Medium,Medical attention recommended
+R0090,P1090,24,Male,11.1,Low,7892,Normal,380918,Normal,82,Normal,208,Borderline,1.2,Normal,2,Low,Health stable
+R0091,P1091,49,Female,9.9,Low,9113,Normal,374818,Normal,95,Normal,211,Borderline,0.6,Low,2,Low,Health stable
+R0092,P1092,50,Female,12.5,Normal,11133,High,362216,Normal,138,High,300,High,1.5,High,7,High,Medical attention recommended
+R0093,P1093,19,Male,12,Normal,4387,Normal,187120,Normal,180,High,291,High,1.5,High,6,High,Medical attention recommended
+R0094,P1094,50,Male,14.3,Normal,6703,Normal,387223,Normal,163,High,235,Borderline,1.6,High,4,Medium,Medical attention recommended
+R0095,P1095,62,Female,15.4,Normal,6584,Normal,363372,Normal,176,High,196,Normal,0.9,Normal,2,Low,Health stable
+R0096,P1096,40,Male,10.1,Low,4865,Normal,127081,Low,101,Prediabetic,274,High,1.1,Normal,4,Medium,Medical attention recommended
+R0097,P1097,72,Male,14.7,Normal,11277,High,310189,Normal,148,High,297,High,0.9,Normal,5,Medium,Medical attention recommended
+R0098,P1098,45,Female,14.8,Normal,5321,Normal,133864,Low,108,Prediabetic,159,Normal,1,Normal,0,Low,Health stable
+R0099,P1099,69,Female,10.2,Low,8907,Normal,307207,Normal,97,Normal,182,Normal,0.7,Normal,2,Low,Health stable
+R0100,P1100,37,Female,9.8,Low,11409,High,141559,Low,98,Normal,236,Borderline,0.7,Normal,3,Medium,Medical attention recommended
+R0101,P1101,20,Female,11.4,Low,6470,Normal,226289,Normal,138,High,238,Borderline,1.3,Normal,4,Medium,Medical attention recommended
+R0102,P1102,18,Female,14.5,Normal,10548,Normal,296031,Normal,161,High,293,High,1.8,High,6,High,Medical attention recommended
+R0103,P1103,37,Male,10,Low,9584,Normal,219880,Normal,123,Prediabetic,192,Normal,0.9,Normal,2,Low,Health stable
+R0104,P1104,28,Female,10.5,Low,10542,Normal,129763,Low,95,Normal,185,Normal,0.6,Low,2,Low,Health stable
+R0105,P1105,37,Male,12.8,Normal,7212,Normal,155200,Normal,157,High,184,Normal,1.4,High,4,Medium,Medical attention recommended
+R0106,P1106,37,Male,13.3,Normal,7499,Normal,290588,Normal,155,High,151,Normal,1.5,High,4,Medium,Medical attention recommended
+R0107,P1107,69,Male,11.5,Low,7789,Normal,360828,Normal,133,High,271,High,0.9,Normal,6,High,Medical attention recommended
+R0108,P1108,56,Female,15.9,Normal,4313,Normal,382386,Normal,155,High,258,High,0.6,Low,4,Medium,Medical attention recommended
+R0109,P1109,52,Male,11,Low,5692,Normal,355830,Normal,167,High,175,Normal,1.3,Normal,4,Medium,Medical attention recommended
+R0110,P1110,58,Male,10.6,Low,11268,High,189713,Normal,131,High,288,High,2,High,9,Critical,Medical attention recommended
+R0111,P1111,20,Female,13.6,Normal,8445,Normal,288724,Normal,168,High,232,Borderline,0.9,Normal,2,Low,Health stable
+R0112,P1112,21,Female,13.9,Normal,11635,High,151117,Normal,178,High,288,High,1.5,High,7,High,Medical attention recommended
+R0113,P1113,50,Female,12.6,Normal,9534,Normal,284864,Normal,120,Prediabetic,234,Borderline,1.6,High,2,Low,Health stable
+R0114,P1114,65,Male,13.7,Normal,7952,Normal,242852,Normal,151,High,219,Borderline,1.7,High,4,Medium,Medical attention recommended
+R0115,P1115,25,Male,10.9,Low,5511,Normal,309038,Normal,81,Normal,298,High,2,High,6,High,Medical attention recommended
+R0116,P1116,71,Female,15.6,Normal,7216,Normal,315915,Normal,130,High,245,High,1,Normal,4,Medium,Medical attention recommended
+R0117,P1117,43,Female,14.2,Normal,7926,Normal,186371,Normal,154,High,173,Normal,1.9,High,4,Medium,Medical attention recommended
+R0118,P1118,18,Male,14.8,Normal,7810,Normal,367307,Normal,124,Prediabetic,268,High,1.9,High,4,Medium,Medical attention recommended
+R0119,P1119,56,Female,13.3,Normal,10856,Normal,311363,Normal,102,Prediabetic,295,High,1,Normal,2,Low,Health stable
+R0120,P1120,50,Female,13.3,Normal,10663,Normal,252214,Normal,173,High,224,Borderline,1.9,High,4,Medium,Medical attention recommended
+R0121,P1121,37,Female,11.4,Low,7106,Normal,133133,Low,114,Prediabetic,199,Normal,0.8,Normal,2,Low,Health stable
+R0122,P1122,19,Male,15.3,Normal,6750,Normal,389434,Normal,155,High,210,Borderline,1.3,Normal,2,Low,Health stable
+R0123,P1123,52,Female,10.6,Low,7405,Normal,120841,Low,137,High,206,Borderline,0.9,Normal,4,Medium,Medical attention recommended
+R0124,P1124,75,Female,14.7,Normal,6908,Normal,278901,Normal,120,Prediabetic,208,Borderline,1.1,Normal,0,Low,Health stable
+R0125,P1125,34,Male,14.9,Normal,9638,Normal,398878,Normal,154,High,283,High,1.5,High,6,High,Medical attention recommended
+R0126,P1126,57,Female,9.4,Low,5754,Normal,184549,Normal,92,Normal,164,Normal,1.5,High,4,Medium,Medical attention recommended
+R0127,P1127,57,Female,10.2,Low,7048,Normal,134246,Low,149,High,238,Borderline,1.4,High,6,High,Medical attention recommended
+R0128,P1128,69,Female,10.2,Low,8716,Normal,295137,Normal,177,High,167,Normal,1.8,High,6,High,Medical attention recommended
+R0129,P1129,62,Female,9.8,Low,8120,Normal,262311,Normal,142,High,204,Borderline,1.7,High,6,High,Medical attention recommended
+R0130,P1130,29,Female,15.4,Normal,11863,High,285776,Normal,158,High,200,Borderline,1.3,Normal,3,Medium,Medical attention recommended
+R0131,P1131,67,Male,12.9,Normal,5450,Normal,160938,Normal,112,Prediabetic,171,Normal,1.6,High,2,Low,Health stable
+R0132,P1132,65,Female,10.8,Low,10824,Normal,265349,Normal,178,High,197,Normal,1.3,Normal,4,Medium,Medical attention recommended
+R0133,P1133,32,Female,9.4,Low,11166,High,243115,Normal,126,High,282,High,0.7,Normal,7,High,Medical attention recommended
+R0134,P1134,54,Female,15.3,Normal,4563,Normal,288274,Normal,128,High,261,High,1,Normal,4,Medium,Medical attention recommended
+R0135,P1135,45,Female,10.5,Low,4978,Normal,377469,Normal,129,High,291,High,1.1,Normal,6,High,Medical attention recommended
+R0136,P1136,32,Female,9.8,Low,10451,Normal,198089,Normal,150,High,289,High,1.9,High,8,High,Medical attention recommended
+R0137,P1137,19,Male,9.7,Low,5152,Normal,373897,Normal,83,Normal,194,Normal,1,Normal,2,Low,Health stable
+R0138,P1138,24,Male,11,Low,4571,Normal,262465,Normal,93,Normal,289,High,0.8,Normal,4,Medium,Medical attention recommended
+R0139,P1139,38,Female,10,Low,5204,Normal,187756,Normal,164,High,164,Normal,1.7,High,6,High,Medical attention recommended
+R0140,P1140,42,Female,13.9,Normal,11634,High,197261,Normal,171,High,295,High,2,High,7,High,Medical attention recommended
+R0141,P1141,57,Male,11.6,Low,8897,Normal,352719,Normal,87,Normal,276,High,0.8,Normal,4,Medium,Medical attention recommended
+R0142,P1142,52,Female,10.7,Low,4599,Normal,378172,Normal,115,Prediabetic,217,Borderline,1.8,High,4,Medium,Medical attention recommended
+R0143,P1143,25,Female,12.9,Normal,10563,Normal,128157,Low,162,High,162,Normal,1.6,High,4,Medium,Medical attention recommended
+R0144,P1144,43,Male,14.3,Normal,10114,Normal,276586,Normal,157,High,253,High,1.3,Normal,4,Medium,Medical attention recommended
+R0145,P1145,33,Male,12.6,Normal,9263,Normal,306406,Normal,154,High,227,Borderline,1.6,High,4,Medium,Medical attention recommended
+R0146,P1146,48,Female,9.5,Low,6921,Normal,186727,Normal,97,Normal,245,High,1,Normal,4,Medium,Medical attention recommended
+R0147,P1147,49,Male,11,Low,5492,Normal,174027,Normal,136,High,160,Normal,1.4,High,6,High,Medical attention recommended
+R0148,P1148,53,Male,11.3,Low,10073,Normal,173556,Normal,141,High,232,Borderline,1,Normal,4,Medium,Medical attention recommended
+R0149,P1149,57,Female,11.1,Low,7366,Normal,190192,Normal,88,Normal,281,High,1.3,Normal,4,Medium,Medical attention recommended
+R0150,P1150,59,Female,15.5,Normal,11545,High,141409,Low,174,High,288,High,1.9,High,7,High,Medical attention recommended
+R0151,P1151,51,Female,10.4,Low,10504,Normal,384605,Normal,159,High,182,Normal,1.1,Normal,4,Medium,Medical attention recommended
+R0152,P1152,71,Female,11.6,Low,11882,High,228932,Normal,107,Prediabetic,238,Borderline,1.2,Normal,3,Medium,Medical attention recommended
+R0153,P1153,63,Female,10.3,Low,5941,Normal,274874,Normal,110,Prediabetic,245,High,1.8,High,6,High,Medical attention recommended
+R0154,P1154,48,Male,13.3,Normal,9892,Normal,198250,Normal,153,High,204,Borderline,1.2,Normal,2,Low,Health stable
+R0155,P1155,64,Female,12.6,Normal,10256,Normal,365715,Normal,98,Normal,171,Normal,1.6,High,2,Low,Health stable
+R0156,P1156,31,Female,10.8,Low,5599,Normal,179518,Normal,93,Normal,161,Normal,0.6,Low,2,Low,Health stable
+R0157,P1157,67,Female,13.7,Normal,5003,Normal,381977,Normal,124,Prediabetic,264,High,1.5,High,4,Medium,Medical attention recommended
+R0158,P1158,64,Female,10.8,Low,6865,Normal,257561,Normal,96,Normal,298,High,1.5,High,6,High,Medical attention recommended
+R0159,P1159,73,Male,10.4,Low,11031,High,283975,Normal,148,High,271,High,1.1,Normal,7,High,Medical attention recommended
+R0160,P1160,62,Female,12.2,Normal,7668,Normal,380382,Normal,90,Normal,265,High,0.9,Normal,2,Low,Health stable
+R0161,P1161,33,Male,10.6,Low,9918,Normal,169563,Normal,162,High,160,Normal,1.9,High,6,High,Medical attention recommended
+R0162,P1162,30,Male,12.2,Normal,4340,Normal,328746,Normal,174,High,158,Normal,1.1,Normal,2,Low,Health stable
+R0163,P1163,72,Male,12.1,Normal,10573,Normal,355150,Normal,84,Normal,179,Normal,0.8,Normal,0,Low,Health stable
+R0164,P1164,40,Female,12.3,Normal,4767,Normal,377376,Normal,85,Normal,173,Normal,1.5,High,2,Low,Health stable
+R0165,P1165,63,Male,12,Normal,8778,Normal,212656,Normal,121,Prediabetic,181,Normal,0.7,Normal,0,Low,Health stable
+R0166,P1166,74,Male,14.4,Normal,11837,High,125673,Low,144,High,197,Normal,1.4,High,5,Medium,Medical attention recommended
+R0167,P1167,43,Female,13.4,Normal,5856,Normal,383653,Normal,145,High,151,Normal,1.8,High,4,Medium,Medical attention recommended
+R0168,P1168,70,Female,11.8,Low,11093,High,347884,Normal,116,Prediabetic,285,High,1.1,Normal,5,Medium,Medical attention recommended
+R0169,P1169,75,Female,14.8,Normal,11875,High,357361,Normal,88,Normal,249,High,0.6,Low,3,Medium,Medical attention recommended
+R0170,P1170,25,Male,15,Normal,10889,Normal,266529,Normal,80,Normal,233,Borderline,2,High,2,Low,Health stable
+R0171,P1171,57,Female,13.3,Normal,7370,Normal,308887,Normal,156,High,289,High,1.5,High,6,High,Medical attention recommended
+R0172,P1172,74,Female,15.8,Normal,11305,High,379871,Normal,85,Normal,182,Normal,1.8,High,3,Medium,Medical attention recommended
+R0173,P1173,73,Female,11.9,Low,5181,Normal,298251,Normal,116,Prediabetic,193,Normal,1.2,Normal,2,Low,Health stable
+R0174,P1174,57,Male,10.4,Low,10544,Normal,278403,Normal,95,Normal,278,High,1,Normal,4,Medium,Medical attention recommended
+R0175,P1175,54,Male,13.6,Normal,5100,Normal,244303,Normal,168,High,268,High,0.7,Normal,4,Medium,Medical attention recommended
+R0176,P1176,65,Male,14,Normal,10307,Normal,162774,Normal,160,High,204,Borderline,1.5,High,4,Medium,Medical attention recommended
+R0177,P1177,53,Male,11.8,Low,4296,Normal,266983,Normal,140,High,299,High,1.5,High,8,High,Medical attention recommended
+R0178,P1178,56,Female,13.6,Normal,9444,Normal,138980,Low,88,Normal,282,High,0.7,Normal,2,Low,Health stable
+R0179,P1179,56,Male,10.7,Low,5048,Normal,239782,Normal,105,Prediabetic,253,High,1.6,High,6,High,Medical attention recommended
+R0180,P1180,52,Male,9.8,Low,7074,Normal,308347,Normal,138,High,222,Borderline,1.6,High,6,High,Medical attention recommended
+R0181,P1181,40,Male,15.7,Normal,4547,Normal,166715,Normal,156,High,214,Borderline,1.5,High,4,Medium,Medical attention recommended
+R0182,P1182,49,Female,12.7,Normal,11151,High,164632,Normal,162,High,260,High,1.3,Normal,5,Medium,Medical attention recommended
+R0183,P1183,67,Female,11.5,Low,5745,Normal,182772,Normal,125,Prediabetic,256,High,0.7,Normal,4,Medium,Medical attention recommended
+R0184,P1184,43,Male,9.5,Low,4705,Normal,327038,Normal,148,High,201,Borderline,1.9,High,6,High,Medical attention recommended
+R0185,P1185,35,Female,10.9,Low,7978,Normal,242490,Normal,114,Prediabetic,165,Normal,1.3,Normal,2,Low,Health stable
+R0186,P1186,49,Male,15.5,Normal,11401,High,249324,Normal,107,Prediabetic,285,High,0.9,Normal,3,Medium,Medical attention recommended
+R0187,P1187,33,Male,11.3,Low,9767,Normal,185510,Normal,91,Normal,169,Normal,0.9,Normal,2,Low,Health stable
+R0188,P1188,34,Male,13.6,Normal,10919,Normal,335083,Normal,132,High,219,Borderline,1.3,Normal,2,Low,Health stable
+R0189,P1189,63,Female,15.8,Normal,6379,Normal,363941,Normal,150,High,159,Normal,1.8,High,4,Medium,Medical attention recommended
+R0190,P1190,30,Male,12.5,Normal,10271,Normal,358440,Normal,87,Normal,290,High,1.1,Normal,2,Low,Health stable
+R0191,P1191,41,Female,13.1,Normal,10912,Normal,364679,Normal,113,Prediabetic,257,High,1.4,High,4,Medium,Medical attention recommended
+R0192,P1192,32,Male,14.5,Normal,9738,Normal,360807,Normal,117,Prediabetic,249,High,0.9,Normal,2,Low,Health stable
+R0193,P1193,67,Female,10.5,Low,11720,High,356626,Normal,170,High,204,Borderline,0.9,Normal,5,Medium,Medical attention recommended
+R0194,P1194,72,Female,14.3,Normal,4659,Normal,222126,Normal,81,Normal,208,Borderline,1.7,High,2,Low,Health stable
+R0195,P1195,58,Female,10.5,Low,9251,Normal,295854,Normal,104,Prediabetic,179,Normal,0.7,Normal,2,Low,Health stable
+R0196,P1196,70,Male,15.9,Normal,7963,Normal,342996,Normal,142,High,153,Normal,1.5,High,4,Medium,Medical attention recommended
+R0197,P1197,41,Female,12.4,Normal,4844,Normal,293596,Normal,179,High,285,High,0.9,Normal,4,Medium,Medical attention recommended
+R0198,P1198,30,Male,11.2,Low,8968,Normal,344553,Normal,111,Prediabetic,269,High,0.8,Normal,4,Medium,Medical attention recommended
+R0199,P1199,31,Male,9.6,Low,9897,Normal,344121,Normal,116,Prediabetic,163,Normal,0.7,Normal,2,Low,Health stable
+R0200,P1200,18,Female,10.8,Low,8475,Normal,196177,Normal,152,High,208,Borderline,1.6,High,6,High,Medical attention recommended
+R0201,P1201,61,Male,10.6,Low,11450,High,144872,Low,121,Prediabetic,223,Borderline,1.2,Normal,3,Medium,Medical attention recommended
+R0202,P1202,71,Male,12.9,Normal,4336,Normal,258212,Normal,148,High,250,High,1.5,High,6,High,Medical attention recommended
+R0203,P1203,59,Male,10.9,Low,4304,Normal,347672,Normal,126,High,184,Normal,1.4,High,6,High,Medical attention recommended
+R0204,P1204,19,Male,13.6,Normal,8017,Normal,273575,Normal,144,High,259,High,1,Normal,4,Medium,Medical attention recommended
+R0205,P1205,31,Male,11,Low,5750,Normal,239485,Normal,125,Prediabetic,191,Normal,1.6,High,4,Medium,Medical attention recommended
+R0206,P1206,41,Female,10.2,Low,7433,Normal,243486,Normal,169,High,286,High,0.7,Normal,6,High,Medical attention recommended
+R0207,P1207,56,Female,12.2,Normal,7371,Normal,140918,Low,146,High,222,Borderline,0.8,Normal,2,Low,Health stable
+R0208,P1208,58,Female,13.6,Normal,4080,Normal,238117,Normal,135,High,202,Borderline,1.7,High,4,Medium,Medical attention recommended
+R0209,P1209,30,Male,13.1,Normal,7974,Normal,285374,Normal,100,Prediabetic,226,Borderline,0.9,Normal,0,Low,Health stable
+R0210,P1210,27,Male,13.4,Normal,9363,Normal,157706,Normal,124,Prediabetic,171,Normal,0.6,Low,0,Low,Health stable
+R0211,P1211,75,Female,10.9,Low,8784,Normal,341938,Normal,127,High,203,Borderline,1.4,High,6,High,Medical attention recommended
+R0212,P1212,72,Male,12.2,Normal,4908,Normal,174246,Normal,142,High,204,Borderline,1.7,High,4,Medium,Medical attention recommended
+R0213,P1213,62,Male,13.5,Normal,9004,Normal,258035,Normal,90,Normal,157,Normal,0.6,Low,0,Low,Health stable
+R0214,P1214,58,Male,12.5,Normal,9114,Normal,348886,Normal,126,High,217,Borderline,0.7,Normal,2,Low,Health stable
+R0215,P1215,26,Male,12.9,Normal,7233,Normal,120493,Low,81,Normal,251,High,1.5,High,4,Medium,Medical attention recommended
+R0216,P1216,48,Female,13.3,Normal,11073,High,177420,Normal,138,High,275,High,1.1,Normal,5,Medium,Medical attention recommended
+R0217,P1217,20,Female,11.7,Low,4197,Normal,268225,Normal,115,Prediabetic,248,High,0.8,Normal,4,Medium,Medical attention recommended
+R0218,P1218,23,Female,15.2,Normal,11335,High,215369,Normal,114,Prediabetic,285,High,1.6,High,5,Medium,Medical attention recommended
+R0219,P1219,68,Female,12.3,Normal,7048,Normal,346337,Normal,122,Prediabetic,202,Borderline,1.9,High,2,Low,Health stable
+R0220,P1220,71,Female,12.5,Normal,6716,Normal,383852,Normal,80,Normal,235,Borderline,1.4,High,2,Low,Health stable
+R0221,P1221,21,Female,12.8,Normal,6012,Normal,207685,Normal,146,High,184,Normal,0.8,Normal,2,Low,Health stable
+R0222,P1222,49,Female,15,Normal,5414,Normal,361132,Normal,170,High,279,High,1,Normal,4,Medium,Medical attention recommended
+R0223,P1223,44,Male,14,Normal,9608,Normal,127907,Low,179,High,234,Borderline,1.2,Normal,2,Low,Health stable
+R0224,P1224,57,Male,9.6,Low,10965,Normal,156099,Normal,93,Normal,240,High,0.7,Normal,4,Medium,Medical attention recommended
+R0225,P1225,58,Female,14.7,Normal,10565,Normal,180027,Normal,129,High,233,Borderline,1.1,Normal,2,Low,Health stable
+R0226,P1226,25,Male,15.5,Normal,9458,Normal,202823,Normal,83,Normal,249,High,1.7,High,4,Medium,Medical attention recommended
+R0227,P1227,46,Male,10.9,Low,11712,High,394470,Normal,158,High,214,Borderline,1.4,High,7,High,Medical attention recommended
+R0228,P1228,19,Female,14,Normal,4439,Normal,291806,Normal,94,Normal,209,Borderline,1.5,High,2,Low,Health stable
+R0229,P1229,55,Female,9.1,Low,8848,Normal,172034,Normal,115,Prediabetic,242,High,1.7,High,6,High,Medical attention recommended
+R0230,P1230,51,Female,14.4,Normal,10872,Normal,340575,Normal,121,Prediabetic,201,Borderline,1.3,Normal,0,Low,Health stable
+R0231,P1231,18,Female,15.9,Normal,10589,Normal,323193,Normal,113,Prediabetic,174,Normal,1.2,Normal,0,Low,Health stable
+R0232,P1232,63,Male,12.3,Normal,7622,Normal,337910,Normal,163,High,250,High,0.9,Normal,4,Medium,Medical attention recommended
+R0233,P1233,73,Female,12,Normal,5317,Normal,159667,Normal,97,Normal,239,Borderline,1.2,Normal,0,Low,Health stable
+R0234,P1234,50,Male,13.6,Normal,10897,Normal,290402,Normal,135,High,170,Normal,1.9,High,4,Medium,Medical attention recommended
+R0235,P1235,47,Female,15.3,Normal,11192,High,200488,Normal,136,High,290,High,1.7,High,7,High,Medical attention recommended
+R0236,P1236,19,Female,11.9,Low,4402,Normal,277911,Normal,175,High,253,High,1.6,High,8,High,Medical attention recommended
+R0237,P1237,61,Female,15.8,Normal,6338,Normal,298407,Normal,87,Normal,219,Borderline,1.1,Normal,0,Low,Health stable
+R0238,P1238,66,Male,12.6,Normal,8464,Normal,256726,Normal,124,Prediabetic,266,High,1.5,High,4,Medium,Medical attention recommended
+R0239,P1239,43,Male,10.6,Low,8566,Normal,264342,Normal,101,Prediabetic,262,High,1.6,High,6,High,Medical attention recommended
+R0240,P1240,50,Female,12.6,Normal,8606,Normal,178587,Normal,132,High,161,Normal,1.7,High,4,Medium,Medical attention recommended
+R0241,P1241,32,Male,10.5,Low,6933,Normal,203066,Normal,162,High,279,High,1.3,Normal,6,High,Medical attention recommended
+R0242,P1242,37,Female,9.7,Low,4263,Normal,187021,Normal,156,High,296,High,1.7,High,8,High,Medical attention recommended
+R0243,P1243,48,Male,12.8,Normal,11045,High,325475,Normal,171,High,286,High,1.7,High,7,High,Medical attention recommended
+R0244,P1244,32,Male,10.2,Low,4338,Normal,254000,Normal,97,Normal,221,Borderline,1.2,Normal,2,Low,Health stable
+R0245,P1245,58,Female,11.2,Low,10097,Normal,171919,Normal,146,High,298,High,1,Normal,6,High,Medical attention recommended
+R0246,P1246,36,Male,9,Low,10592,Normal,229642,Normal,93,Normal,202,Borderline,1.4,High,4,Medium,Medical attention recommended
+R0247,P1247,41,Female,10,Low,10074,Normal,199856,Normal,132,High,216,Borderline,0.7,Normal,4,Medium,Medical attention recommended
+R0248,P1248,48,Male,11,Low,7992,Normal,390591,Normal,84,Normal,180,Normal,0.9,Normal,2,Low,Health stable
+R0249,P1249,34,Male,11,Low,9210,Normal,137647,Low,111,Prediabetic,168,Normal,1.7,High,4,Medium,Medical attention recommended
+R0250,P1250,44,Female,14.6,Normal,10854,Normal,339293,Normal,180,High,226,Borderline,1.5,High,4,Medium,Medical attention recommended
+R0251,P1251,67,Female,15.8,Normal,5084,Normal,177360,Normal,127,High,203,Borderline,1.3,Normal,2,Low,Health stable
+R0252,P1252,53,Female,14.1,Normal,7438,Normal,240392,Normal,125,Prediabetic,173,Normal,1.2,Normal,0,Low,Health stable
+R0253,P1253,65,Male,12.8,Normal,7278,Normal,194861,Normal,95,Normal,290,High,1.2,Normal,2,Low,Health stable
+R0254,P1254,42,Female,15.1,Normal,9202,Normal,356735,Normal,112,Prediabetic,237,Borderline,1.9,High,2,Low,Health stable
+R0255,P1255,42,Female,10.2,Low,9439,Normal,227944,Normal,82,Normal,152,Normal,2,High,4,Medium,Medical attention recommended
+R0256,P1256,49,Male,12,Normal,11491,High,323057,Normal,151,High,188,Normal,2,High,5,Medium,Medical attention recommended
+R0257,P1257,59,Male,15.5,Normal,5476,Normal,343203,Normal,90,Normal,175,Normal,0.7,Normal,0,Low,Health stable
+R0258,P1258,56,Male,12.9,Normal,7703,Normal,151851,Normal,175,High,241,High,1.8,High,6,High,Medical attention recommended
+R0259,P1259,23,Female,9.2,Low,10011,Normal,318994,Normal,177,High,257,High,1.5,High,8,High,Medical attention recommended
+R0260,P1260,74,Female,10.1,Low,8206,Normal,134012,Low,156,High,212,Borderline,1.9,High,6,High,Medical attention recommended
+R0261,P1261,39,Female,10.1,Low,8138,Normal,187963,Normal,148,High,192,Normal,1.9,High,6,High,Medical attention recommended
+R0262,P1262,55,Male,13,Normal,10118,Normal,381465,Normal,146,High,187,Normal,1.6,High,4,Medium,Medical attention recommended
+R0263,P1263,48,Female,13,Normal,4065,Normal,384807,Normal,140,High,211,Borderline,1.1,Normal,2,Low,Health stable
+R0264,P1264,45,Female,15.4,Normal,11070,High,319391,Normal,92,Normal,278,High,1.4,High,5,Medium,Medical attention recommended
+R0265,P1265,43,Male,14.4,Normal,11598,High,368541,Normal,103,Prediabetic,233,Borderline,1.3,Normal,1,Low,Health stable
+R0266,P1266,41,Female,12.5,Normal,5085,Normal,373754,Normal,113,Prediabetic,231,Borderline,1.4,High,2,Low,Health stable
+R0267,P1267,31,Male,15.4,Normal,4454,Normal,387799,Normal,164,High,163,Normal,0.8,Normal,2,Low,Health stable
+R0268,P1268,43,Male,9.5,Low,10817,Normal,153833,Normal,132,High,251,High,1.4,High,8,High,Medical attention recommended
+R0269,P1269,56,Female,12.6,Normal,9616,Normal,264339,Normal,143,High,255,High,1.4,High,6,High,Medical attention recommended
+R0270,P1270,27,Male,9.2,Low,9793,Normal,210399,Normal,97,Normal,257,High,0.9,Normal,4,Medium,Medical attention recommended
+R0271,P1271,33,Male,10.9,Low,9052,Normal,281752,Normal,88,Normal,195,Normal,0.7,Normal,2,Low,Health stable
+R0272,P1272,72,Male,14.4,Normal,9128,Normal,293567,Normal,92,Normal,268,High,1.2,Normal,2,Low,Health stable
+R0273,P1273,42,Female,10.8,Low,9393,Normal,312697,Normal,109,Prediabetic,192,Normal,0.9,Normal,2,Low,Health stable
+R0274,P1274,60,Female,9.1,Low,4370,Normal,270036,Normal,164,High,284,High,1.8,High,8,High,Medical attention recommended
+R0275,P1275,50,Male,10.2,Low,4993,Normal,392207,Normal,179,High,261,High,1.7,High,8,High,Medical attention recommended
+R0276,P1276,63,Female,11.1,Low,5092,Normal,277124,Normal,146,High,262,High,1.8,High,8,High,Medical attention recommended
+R0277,P1277,28,Female,10.9,Low,10444,Normal,149281,Low,161,High,276,High,1.7,High,8,High,Medical attention recommended
+R0278,P1278,28,Male,11.4,Low,4516,Normal,250516,Normal,94,Normal,267,High,0.8,Normal,4,Medium,Medical attention recommended
+R0279,P1279,48,Male,13.4,Normal,6540,Normal,127459,Low,129,High,161,Normal,1.2,Normal,2,Low,Health stable
+R0280,P1280,32,Male,15.5,Normal,7494,Normal,170269,Normal,149,High,222,Borderline,1.6,High,4,Medium,Medical attention recommended
+R0281,P1281,29,Male,9.9,Low,7682,Normal,338664,Normal,101,Prediabetic,255,High,1.3,Normal,4,Medium,Medical attention recommended
+R0282,P1282,68,Male,11.9,Low,10034,Normal,332178,Normal,89,Normal,160,Normal,0.9,Normal,2,Low,Health stable
+R0283,P1283,59,Male,14.2,Normal,4469,Normal,221931,Normal,157,High,228,Borderline,1,Normal,2,Low,Health stable
+R0284,P1284,54,Female,9.8,Low,8122,Normal,232689,Normal,82,Normal,222,Borderline,0.9,Normal,2,Low,Health stable
+R0285,P1285,23,Female,10.9,Low,11881,High,210175,Normal,84,Normal,278,High,1.4,High,7,High,Medical attention recommended
+R0286,P1286,27,Male,11.9,Low,5187,Normal,291168,Normal,164,High,166,Normal,1.5,High,6,High,Medical attention recommended
+R0287,P1287,29,Female,13.9,Normal,6767,Normal,361324,Normal,136,High,198,Normal,0.7,Normal,2,Low,Health stable
+R0288,P1288,22,Female,9.4,Low,4563,Normal,204577,Normal,163,High,237,Borderline,1.5,High,6,High,Medical attention recommended
+R0289,P1289,45,Male,11.2,Low,9767,Normal,369106,Normal,169,High,162,Normal,1.3,Normal,4,Medium,Medical attention recommended
+R0290,P1290,69,Female,9.3,Low,6327,Normal,377243,Normal,160,High,209,Borderline,0.6,Low,4,Medium,Medical attention recommended
+R0291,P1291,59,Male,15.7,Normal,7595,Normal,363737,Normal,120,Prediabetic,234,Borderline,0.8,Normal,0,Low,Health stable
+R0292,P1292,24,Female,10,Low,7232,Normal,368314,Normal,140,High,217,Borderline,1.7,High,6,High,Medical attention recommended
+R0293,P1293,60,Female,13.5,Normal,7435,Normal,280098,Normal,179,High,150,Normal,0.8,Normal,2,Low,Health stable
+R0294,P1294,57,Male,13,Normal,10663,Normal,370878,Normal,131,High,294,High,1.8,High,6,High,Medical attention recommended
+R0295,P1295,36,Male,12.9,Normal,7421,Normal,168623,Normal,148,High,241,High,0.6,Low,4,Medium,Medical attention recommended
+R0296,P1296,40,Male,11.6,Low,10364,Normal,156135,Normal,83,Normal,181,Normal,1.9,High,4,Medium,Medical attention recommended
+R0297,P1297,66,Male,11.7,Low,8244,Normal,325974,Normal,171,High,216,Borderline,1.7,High,6,High,Medical attention recommended
+R0298,P1298,61,Male,13.4,Normal,4258,Normal,369142,Normal,133,High,290,High,1.6,High,6,High,Medical attention recommended
+R0299,P1299,26,Male,12.1,Normal,4560,Normal,338805,Normal,153,High,248,High,1.4,High,6,High,Medical attention recommended
+R0300,P1300,45,Female,14.2,Normal,5804,Normal,265142,Normal,127,High,239,Borderline,1.8,High,4,Medium,Medical attention recommended
+R0301,P1301,41,Male,10,Low,4307,Normal,183919,Normal,164,High,171,Normal,0.7,Normal,4,Medium,Medical attention recommended
+R0302,P1302,44,Female,12.5,Normal,4242,Normal,313128,Normal,178,High,185,Normal,1.5,High,4,Medium,Medical attention recommended
+R0303,P1303,39,Male,11.1,Low,7000,Normal,383096,Normal,173,High,253,High,1.1,Normal,6,High,Medical attention recommended
+R0304,P1304,25,Female,14.3,Normal,7770,Normal,268155,Normal,100,Prediabetic,281,High,1.1,Normal,2,Low,Health stable
+R0305,P1305,53,Male,9.5,Low,11563,High,322794,Normal,165,High,191,Normal,1.8,High,7,High,Medical attention recommended
+R0306,P1306,57,Female,10.4,Low,8342,Normal,123991,Low,125,Prediabetic,235,Borderline,1,Normal,2,Low,Health stable
+R0307,P1307,46,Male,9.6,Low,6008,Normal,211465,Normal,80,Normal,161,Normal,1.2,Normal,2,Low,Health stable
+R0308,P1308,23,Female,11.7,Low,10007,Normal,323827,Normal,130,High,266,High,0.7,Normal,6,High,Medical attention recommended
+R0309,P1309,54,Male,15.3,Normal,5335,Normal,290414,Normal,87,Normal,215,Borderline,1.2,Normal,0,Low,Health stable
+R0310,P1310,52,Male,11.9,Low,5609,Normal,128067,Low,116,Prediabetic,275,High,1.8,High,6,High,Medical attention recommended
+R0311,P1311,26,Male,13,Normal,9992,Normal,285427,Normal,112,Prediabetic,268,High,1.8,High,4,Medium,Medical attention recommended
+R0312,P1312,21,Male,11.8,Low,11064,High,395602,Normal,103,Prediabetic,197,Normal,1.8,High,5,Medium,Medical attention recommended
+R0313,P1313,25,Female,12.7,Normal,6629,Normal,304889,Normal,89,Normal,235,Borderline,1.9,High,2,Low,Health stable
+R0314,P1314,23,Male,15.7,Normal,8622,Normal,380232,Normal,132,High,182,Normal,2,High,4,Medium,Medical attention recommended
+R0315,P1315,53,Male,11.7,Low,8709,Normal,380827,Normal,113,Prediabetic,279,High,1.5,High,6,High,Medical attention recommended
+R0316,P1316,71,Male,9.5,Low,6636,Normal,242681,Normal,175,High,184,Normal,1.6,High,6,High,Medical attention recommended
+R0317,P1317,60,Male,11.9,Low,4804,Normal,212387,Normal,117,Prediabetic,282,High,2,High,6,High,Medical attention recommended
+R0318,P1318,25,Female,9.2,Low,5810,Normal,200360,Normal,140,High,247,High,1,Normal,6,High,Medical attention recommended
+R0319,P1319,57,Male,10.3,Low,8617,Normal,355649,Normal,116,Prediabetic,155,Normal,1,Normal,2,Low,Health stable
+R0320,P1320,35,Male,15.4,Normal,5429,Normal,190873,Normal,179,High,281,High,1.6,High,6,High,Medical attention recommended
+R0321,P1321,40,Female,13.2,Normal,6381,Normal,209364,Normal,99,Normal,169,Normal,1.9,High,2,Low,Health stable
+R0322,P1322,22,Male,9.7,Low,8857,Normal,284311,Normal,172,High,176,Normal,0.7,Normal,4,Medium,Medical attention recommended
+R0323,P1323,59,Male,13.3,Normal,5375,Normal,248249,Normal,146,High,171,Normal,0.7,Normal,2,Low,Health stable
+R0324,P1324,33,Female,13.9,Normal,4515,Normal,217640,Normal,92,Normal,291,High,1.2,Normal,2,Low,Health stable
+R0325,P1325,66,Male,10.2,Low,4048,Normal,361804,Normal,127,High,278,High,1.2,Normal,6,High,Medical attention recommended
+R0326,P1326,18,Female,13.8,Normal,6331,Normal,320550,Normal,106,Prediabetic,237,Borderline,0.6,Low,0,Low,Health stable
+R0327,P1327,55,Male,12,Normal,9851,Normal,157680,Normal,148,High,278,High,1.2,Normal,4,Medium,Medical attention recommended
+R0328,P1328,61,Female,15.9,Normal,11290,High,146206,Low,155,High,261,High,1.8,High,7,High,Medical attention recommended
+R0329,P1329,52,Male,9.1,Low,7736,Normal,276302,Normal,120,Prediabetic,221,Borderline,1.7,High,4,Medium,Medical attention recommended
+R0330,P1330,75,Female,10.1,Low,9511,Normal,257836,Normal,84,Normal,276,High,1.8,High,6,High,Medical attention recommended
+R0331,P1331,25,Male,13.7,Normal,5203,Normal,163624,Normal,106,Prediabetic,261,High,1.4,High,4,Medium,Medical attention recommended
+R0332,P1332,23,Female,11.9,Low,10748,Normal,149397,Low,137,High,168,Normal,0.8,Normal,4,Medium,Medical attention recommended
+R0333,P1333,30,Female,12.8,Normal,7700,Normal,188209,Normal,97,Normal,162,Normal,1.4,High,2,Low,Health stable
+R0334,P1334,64,Male,11.4,Low,11979,High,347669,Normal,99,Normal,223,Borderline,0.6,Low,3,Medium,Medical attention recommended
+R0335,P1335,18,Female,12.2,Normal,6184,Normal,168367,Normal,107,Prediabetic,294,High,1.7,High,4,Medium,Medical attention recommended
+R0336,P1336,60,Female,15.5,Normal,7391,Normal,384450,Normal,159,High,235,Borderline,0.9,Normal,2,Low,Health stable
+R0337,P1337,69,Male,12.5,Normal,8361,Normal,319744,Normal,109,Prediabetic,239,Borderline,1,Normal,0,Low,Health stable
+R0338,P1338,22,Male,13.9,Normal,5771,Normal,329384,Normal,175,High,264,High,1.7,High,6,High,Medical attention recommended
+R0339,P1339,67,Female,14.7,Normal,10496,Normal,143320,Low,100,Prediabetic,178,Normal,0.7,Normal,0,Low,Health stable
+R0340,P1340,43,Male,14.1,Normal,11787,High,212889,Normal,109,Prediabetic,170,Normal,1.4,High,3,Medium,Medical attention recommended
+R0341,P1341,65,Female,10.7,Low,8333,Normal,135567,Low,112,Prediabetic,179,Normal,0.9,Normal,2,Low,Health stable
+R0342,P1342,19,Male,11.2,Low,11618,High,363435,Normal,153,High,200,Borderline,0.6,Low,5,Medium,Medical attention recommended
+R0343,P1343,54,Male,9.8,Low,7386,Normal,170319,Normal,139,High,284,High,1.4,High,8,High,Medical attention recommended
+R0344,P1344,49,Male,11.2,Low,6776,Normal,252471,Normal,175,High,157,Normal,2,High,6,High,Medical attention recommended
+R0345,P1345,43,Male,10.1,Low,11992,High,225395,Normal,85,Normal,255,High,0.9,Normal,5,Medium,Medical attention recommended
+R0346,P1346,22,Female,11.1,Low,6090,Normal,361123,Normal,153,High,288,High,0.9,Normal,6,High,Medical attention recommended
+R0347,P1347,37,Male,9.9,Low,5162,Normal,139756,Low,83,Normal,222,Borderline,1,Normal,2,Low,Health stable
+R0348,P1348,48,Male,15.9,Normal,10992,Normal,265211,Normal,107,Prediabetic,228,Borderline,0.8,Normal,0,Low,Health stable
+R0349,P1349,69,Male,11,Low,11751,High,327663,Normal,127,High,276,High,1.1,Normal,7,High,Medical attention recommended
+R0350,P1350,66,Female,15.6,Normal,9411,Normal,299391,Normal,158,High,153,Normal,1.5,High,4,Medium,Medical attention recommended
+R0351,P1351,34,Male,10.3,Low,9671,Normal,243169,Normal,83,Normal,291,High,1,Normal,4,Medium,Medical attention recommended
+R0352,P1352,56,Male,10.8,Low,7605,Normal,370886,Normal,174,High,245,High,1.9,High,8,High,Medical attention recommended
+R0353,P1353,45,Female,9.8,Low,4213,Normal,389805,Normal,92,Normal,156,Normal,0.9,Normal,2,Low,Health stable
+R0354,P1354,65,Female,12.2,Normal,11617,High,379300,Normal,173,High,245,High,1.9,High,7,High,Medical attention recommended
+R0355,P1355,66,Female,11.1,Low,8440,Normal,317227,Normal,148,High,154,Normal,1.3,Normal,4,Medium,Medical attention recommended
+R0356,P1356,56,Male,13.9,Normal,4696,Normal,220253,Normal,98,Normal,151,Normal,1,Normal,0,Low,Health stable
+R0357,P1357,46,Female,15.3,Normal,5470,Normal,170531,Normal,111,Prediabetic,255,High,1.5,High,4,Medium,Medical attention recommended
+R0358,P1358,20,Male,9.4,Low,9872,Normal,159779,Normal,146,High,211,Borderline,1.1,Normal,4,Medium,Medical attention recommended
+R0359,P1359,23,Female,11.2,Low,10218,Normal,397778,Normal,173,High,150,Normal,0.9,Normal,4,Medium,Medical attention recommended
+R0360,P1360,35,Male,9,Low,4587,Normal,158606,Normal,152,High,235,Borderline,1.4,High,6,High,Medical attention recommended
+R0361,P1361,51,Male,9,Low,6229,Normal,342748,Normal,143,High,279,High,2,High,8,High,Medical attention recommended
+R0362,P1362,40,Male,11.1,Low,5636,Normal,291745,Normal,107,Prediabetic,198,Normal,1.4,High,4,Medium,Medical attention recommended
+R0363,P1363,26,Male,15.4,Normal,11205,High,121734,Low,142,High,244,High,1.5,High,7,High,Medical attention recommended
+R0364,P1364,46,Male,13.7,Normal,5401,Normal,120871,Low,180,High,207,Borderline,1.1,Normal,2,Low,Health stable
+R0365,P1365,62,Male,11.4,Low,9453,Normal,331036,Normal,109,Prediabetic,193,Normal,1,Normal,2,Low,Health stable
+R0366,P1366,60,Female,15.4,Normal,10807,Normal,258189,Normal,139,High,212,Borderline,1.5,High,4,Medium,Medical attention recommended
+R0367,P1367,70,Male,14.5,Normal,7560,Normal,212948,Normal,136,High,243,High,1,Normal,4,Medium,Medical attention recommended
+R0368,P1368,23,Female,14,Normal,11660,High,350598,Normal,172,High,199,Normal,0.6,Low,3,Medium,Medical attention recommended
+R0369,P1369,39,Female,15.5,Normal,10947,Normal,282057,Normal,100,Prediabetic,286,High,1,Normal,2,Low,Health stable
+R0370,P1370,61,Female,13,Normal,7272,Normal,166009,Normal,122,Prediabetic,198,Normal,1.9,High,2,Low,Health stable
+R0371,P1371,27,Female,11.3,Low,10503,Normal,306809,Normal,114,Prediabetic,218,Borderline,1.4,High,4,Medium,Medical attention recommended
+R0372,P1372,45,Male,9.2,Low,10805,Normal,335687,Normal,121,Prediabetic,224,Borderline,1,Normal,2,Low,Health stable
+R0373,P1373,31,Male,11.7,Low,4580,Normal,340263,Normal,111,Prediabetic,237,Borderline,0.9,Normal,2,Low,Health stable
+R0374,P1374,67,Male,10.3,Low,5266,Normal,136044,Low,140,High,220,Borderline,1,Normal,4,Medium,Medical attention recommended
+R0375,P1375,61,Female,13.7,Normal,11108,High,197245,Normal,132,High,172,Normal,1.5,High,5,Medium,Medical attention recommended
+R0376,P1376,41,Male,9.8,Low,5799,Normal,383049,Normal,168,High,291,High,0.7,Normal,6,High,Medical attention recommended
+R0377,P1377,57,Male,12.4,Normal,6721,Normal,260417,Normal,178,High,273,High,1.7,High,6,High,Medical attention recommended
+R0378,P1378,41,Female,13.6,Normal,11629,High,209954,Normal,167,High,209,Borderline,1.8,High,5,Medium,Medical attention recommended
+R0379,P1379,52,Male,15.5,Normal,9090,Normal,346235,Normal,125,Prediabetic,179,Normal,1.1,Normal,0,Low,Health stable
+R0380,P1380,37,Female,11.8,Low,10885,Normal,254110,Normal,158,High,275,High,1.5,High,8,High,Medical attention recommended
+R0381,P1381,61,Male,15,Normal,8379,Normal,295810,Normal,164,High,196,Normal,1.6,High,4,Medium,Medical attention recommended
+R0382,P1382,48,Female,9.9,Low,9697,Normal,212843,Normal,174,High,175,Normal,1.4,High,6,High,Medical attention recommended
+R0383,P1383,38,Male,10.2,Low,5001,Normal,193502,Normal,153,High,280,High,1.2,Normal,6,High,Medical attention recommended
+R0384,P1384,49,Male,10,Low,9204,Normal,323503,Normal,165,High,176,Normal,1.3,Normal,4,Medium,Medical attention recommended
+R0385,P1385,52,Male,10.9,Low,4833,Normal,359286,Normal,149,High,152,Normal,1.9,High,6,High,Medical attention recommended
+R0386,P1386,20,Male,9.3,Low,9179,Normal,365341,Normal,105,Prediabetic,194,Normal,1.1,Normal,2,Low,Health stable
+R0387,P1387,33,Male,12.7,Normal,5831,Normal,390215,Normal,143,High,260,High,0.6,Low,4,Medium,Medical attention recommended
+R0388,P1388,30,Male,9.8,Low,9838,Normal,351341,Normal,155,High,293,High,0.9,Normal,6,High,Medical attention recommended
+R0389,P1389,45,Female,9.1,Low,7845,Normal,321849,Normal,104,Prediabetic,271,High,1.8,High,6,High,Medical attention recommended
+R0390,P1390,69,Male,11.1,Low,6383,Normal,263970,Normal,103,Prediabetic,232,Borderline,1.4,High,4,Medium,Medical attention recommended
+R0391,P1391,45,Male,13,Normal,10419,Normal,205860,Normal,155,High,300,High,0.8,Normal,4,Medium,Medical attention recommended
+R0392,P1392,36,Female,12.1,Normal,11896,High,238856,Normal,180,High,156,Normal,1,Normal,3,Medium,Medical attention recommended
+R0393,P1393,48,Female,11.9,Low,5246,Normal,367067,Normal,86,Normal,246,High,1.6,High,6,High,Medical attention recommended
+R0394,P1394,25,Male,16,Normal,5143,Normal,173946,Normal,151,High,156,Normal,1.5,High,4,Medium,Medical attention recommended
+R0395,P1395,44,Female,12.4,Normal,9161,Normal,300421,Normal,127,High,174,Normal,1.7,High,4,Medium,Medical attention recommended
+R0396,P1396,53,Female,11.8,Low,9609,Normal,140647,Low,106,Prediabetic,244,High,1,Normal,4,Medium,Medical attention recommended
+R0397,P1397,71,Male,13.4,Normal,4622,Normal,154963,Normal,142,High,260,High,1.7,High,6,High,Medical attention recommended
+R0398,P1398,28,Female,11,Low,4496,Normal,386993,Normal,142,High,248,High,1.9,High,8,High,Medical attention recommended
+R0399,P1399,40,Male,12.3,Normal,11278,High,194924,Normal,121,Prediabetic,234,Borderline,1.3,Normal,1,Low,Health stable
+R0400,P1400,24,Female,11.9,Low,8829,Normal,196260,Normal,82,Normal,266,High,1.5,High,6,High,Medical attention recommended
+R0401,P1401,34,Male,9.2,Low,4620,Normal,180895,Normal,114,Prediabetic,295,High,1,Normal,4,Medium,Medical attention recommended
+R0402,P1402,39,Female,14.6,Normal,10998,Normal,310493,Normal,92,Normal,234,Borderline,1.5,High,2,Low,Health stable
+R0403,P1403,57,Male,11.5,Low,11004,High,199281,Normal,144,High,184,Normal,0.7,Normal,5,Medium,Medical attention recommended
+R0404,P1404,67,Male,12.3,Normal,10686,Normal,216752,Normal,108,Prediabetic,187,Normal,1,Normal,0,Low,Health stable
+R0405,P1405,65,Male,11.7,Low,10701,Normal,272377,Normal,138,High,181,Normal,1.6,High,6,High,Medical attention recommended
+R0406,P1406,38,Male,15.7,Normal,4655,Normal,364520,Normal,80,Normal,229,Borderline,2,High,2,Low,Health stable
+R0407,P1407,45,Male,12.5,Normal,4494,Normal,267846,Normal,168,High,234,Borderline,0.6,Low,2,Low,Health stable
+R0408,P1408,23,Female,9.2,Low,11675,High,150406,Normal,80,Normal,244,High,0.8,Normal,5,Medium,Medical attention recommended
+R0409,P1409,56,Female,10.7,Low,7780,Normal,130348,Low,82,Normal,247,High,0.9,Normal,4,Medium,Medical attention recommended
+R0410,P1410,30,Female,10.3,Low,6420,Normal,385009,Normal,145,High,209,Borderline,1.4,High,6,High,Medical attention recommended
+R0411,P1411,62,Male,9.7,Low,8634,Normal,328795,Normal,104,Prediabetic,163,Normal,1.2,Normal,2,Low,Health stable
+R0412,P1412,23,Female,12.5,Normal,10828,Normal,132657,Low,151,High,268,High,0.7,Normal,4,Medium,Medical attention recommended
+R0413,P1413,36,Male,12.6,Normal,8849,Normal,332024,Normal,96,Normal,156,Normal,1.7,High,2,Low,Health stable
+R0414,P1414,24,Female,15.4,Normal,11601,High,281390,Normal,150,High,205,Borderline,1.4,High,5,Medium,Medical attention recommended
+R0415,P1415,54,Male,9.9,Low,9817,Normal,272440,Normal,106,Prediabetic,254,High,0.9,Normal,4,Medium,Medical attention recommended
+R0416,P1416,37,Female,10.3,Low,4724,Normal,330929,Normal,139,High,160,Normal,1.9,High,6,High,Medical attention recommended
+R0417,P1417,43,Male,12.4,Normal,11141,High,235627,Normal,174,High,188,Normal,1.9,High,5,Medium,Medical attention recommended
+R0418,P1418,49,Female,14.3,Normal,11939,High,380626,Normal,108,Prediabetic,189,Normal,1.7,High,3,Medium,Medical attention recommended
+R0419,P1419,71,Female,12.1,Normal,6622,Normal,331075,Normal,117,Prediabetic,195,Normal,1.1,Normal,0,Low,Health stable
+R0420,P1420,53,Male,14.7,Normal,11976,High,276056,Normal,167,High,231,Borderline,1.9,High,5,Medium,Medical attention recommended
+R0421,P1421,64,Male,12.4,Normal,11102,High,344701,Normal,149,High,171,Normal,1.9,High,5,Medium,Medical attention recommended
+R0422,P1422,45,Male,10.5,Low,5533,Normal,386724,Normal,150,High,204,Borderline,0.7,Normal,4,Medium,Medical attention recommended
+R0423,P1423,19,Female,13.1,Normal,8559,Normal,175498,Normal,148,High,198,Normal,1.7,High,4,Medium,Medical attention recommended
+R0424,P1424,42,Male,15,Normal,5439,Normal,249212,Normal,136,High,182,Normal,1.8,High,4,Medium,Medical attention recommended
+R0425,P1425,72,Male,10.5,Low,7426,Normal,220132,Normal,175,High,268,High,1.9,High,8,High,Medical attention recommended
+R0426,P1426,68,Female,9.2,Low,8753,Normal,133531,Low,119,Prediabetic,286,High,0.8,Normal,4,Medium,Medical attention recommended
+R0427,P1427,32,Male,12,Normal,9901,Normal,183159,Normal,85,Normal,265,High,1.7,High,4,Medium,Medical attention recommended
+R0428,P1428,46,Male,14.6,Normal,4140,Normal,330602,Normal,128,High,172,Normal,1.9,High,4,Medium,Medical attention recommended
+R0429,P1429,27,Female,13.6,Normal,5396,Normal,138367,Low,86,Normal,291,High,0.9,Normal,2,Low,Health stable
+R0430,P1430,27,Male,11.7,Low,7936,Normal,381281,Normal,168,High,157,Normal,0.9,Normal,4,Medium,Medical attention recommended
+R0431,P1431,44,Female,11.9,Low,8596,Normal,331237,Normal,96,Normal,272,High,1.7,High,6,High,Medical attention recommended
+R0432,P1432,73,Female,9.2,Low,10616,Normal,228572,Normal,134,High,212,Borderline,0.9,Normal,4,Medium,Medical attention recommended
+R0433,P1433,48,Male,10.6,Low,10763,Normal,227560,Normal,121,Prediabetic,281,High,1,Normal,4,Medium,Medical attention recommended
+R0434,P1434,68,Female,13.4,Normal,8559,Normal,215422,Normal,107,Prediabetic,199,Normal,0.9,Normal,0,Low,Health stable
+R0435,P1435,40,Male,13.7,Normal,7721,Normal,287567,Normal,125,Prediabetic,187,Normal,1.9,High,2,Low,Health stable
+R0436,P1436,56,Female,14.2,Normal,11813,High,361220,Normal,108,Prediabetic,215,Borderline,1.1,Normal,1,Low,Health stable
+R0437,P1437,23,Female,14.8,Normal,7724,Normal,159908,Normal,142,High,171,Normal,0.9,Normal,2,Low,Health stable
+R0438,P1438,18,Male,14.7,Normal,6378,Normal,135931,Low,175,High,187,Normal,0.7,Normal,2,Low,Health stable
+R0439,P1439,20,Male,10.6,Low,9345,Normal,225249,Normal,95,Normal,245,High,1.1,Normal,4,Medium,Medical attention recommended
+R0440,P1440,68,Female,13.3,Normal,5935,Normal,326564,Normal,169,High,195,Normal,1.4,High,4,Medium,Medical attention recommended
+R0441,P1441,64,Female,13,Normal,4754,Normal,172237,Normal,144,High,171,Normal,1.3,Normal,2,Low,Health stable
+R0442,P1442,31,Male,10.3,Low,5084,Normal,213370,Normal,85,Normal,160,Normal,0.7,Normal,2,Low,Health stable
+R0443,P1443,50,Female,13.5,Normal,10250,Normal,349006,Normal,154,High,242,High,1.1,Normal,4,Medium,Medical attention recommended
+R0444,P1444,43,Female,14.3,Normal,11096,High,151162,Normal,167,High,239,Borderline,0.7,Normal,3,Medium,Medical attention recommended
+R0445,P1445,66,Female,15.6,Normal,9813,Normal,176734,Normal,168,High,265,High,1.2,Normal,4,Medium,Medical attention recommended
+R0446,P1446,60,Female,12.7,Normal,5694,Normal,158439,Normal,174,High,177,Normal,1.2,Normal,2,Low,Health stable
+R0447,P1447,22,Male,12.3,Normal,10610,Normal,176186,Normal,140,High,220,Borderline,0.8,Normal,2,Low,Health stable
+R0448,P1448,43,Female,13.9,Normal,5376,Normal,348015,Normal,176,High,297,High,1.6,High,6,High,Medical attention recommended
+R0449,P1449,22,Female,13.1,Normal,8897,Normal,230031,Normal,165,High,283,High,1,Normal,4,Medium,Medical attention recommended
+R0450,P1450,29,Male,14.4,Normal,4887,Normal,219618,Normal,156,High,182,Normal,1,Normal,2,Low,Health stable
+R0451,P1451,64,Female,15.8,Normal,8176,Normal,296593,Normal,131,High,273,High,1.8,High,6,High,Medical attention recommended
+R0452,P1452,53,Female,12.5,Normal,8380,Normal,153930,Normal,86,Normal,197,Normal,1.6,High,2,Low,Health stable
+R0453,P1453,75,Female,11.3,Low,4162,Normal,349983,Normal,156,High,275,High,0.8,Normal,6,High,Medical attention recommended
+R0454,P1454,51,Female,13.6,Normal,7920,Normal,184567,Normal,106,Prediabetic,175,Normal,0.9,Normal,0,Low,Health stable
+R0455,P1455,19,Female,12.6,Normal,5904,Normal,201685,Normal,102,Prediabetic,180,Normal,1.7,High,2,Low,Health stable
+R0456,P1456,29,Female,13.1,Normal,4075,Normal,225858,Normal,146,High,296,High,1.1,Normal,4,Medium,Medical attention recommended
+R0457,P1457,20,Male,15.5,Normal,10476,Normal,269500,Normal,171,High,223,Borderline,1.7,High,4,Medium,Medical attention recommended
+R0458,P1458,37,Male,10.1,Low,4272,Normal,181367,Normal,83,Normal,208,Borderline,1.1,Normal,2,Low,Health stable
+R0459,P1459,62,Female,10.7,Low,10879,Normal,238714,Normal,175,High,150,Normal,1.4,High,6,High,Medical attention recommended
+R0460,P1460,26,Male,9.2,Low,10103,Normal,345701,Normal,146,High,254,High,1.3,Normal,6,High,Medical attention recommended
+R0461,P1461,41,Male,10,Low,8482,Normal,157717,Normal,102,Prediabetic,214,Borderline,1,Normal,2,Low,Health stable
+R0462,P1462,21,Female,10.2,Low,9289,Normal,268508,Normal,165,High,248,High,0.8,Normal,6,High,Medical attention recommended
+R0463,P1463,60,Female,14.8,Normal,8435,Normal,328705,Normal,93,Normal,192,Normal,1.2,Normal,0,Low,Health stable
+R0464,P1464,20,Female,13.8,Normal,6550,Normal,130881,Low,107,Prediabetic,153,Normal,2,High,2,Low,Health stable
+R0465,P1465,56,Male,13.5,Normal,10107,Normal,164834,Normal,115,Prediabetic,284,High,1.9,High,4,Medium,Medical attention recommended
+R0466,P1466,22,Female,13.3,Normal,5958,Normal,293963,Normal,127,High,297,High,1.4,High,6,High,Medical attention recommended
+R0467,P1467,65,Female,15.7,Normal,7115,Normal,257147,Normal,99,Normal,173,Normal,0.6,Low,0,Low,Health stable
+R0468,P1468,38,Female,13.8,Normal,5296,Normal,393704,Normal,157,High,250,High,0.9,Normal,4,Medium,Medical attention recommended
+R0469,P1469,39,Male,11.4,Low,6369,Normal,188505,Normal,147,High,267,High,1.2,Normal,6,High,Medical attention recommended
+R0470,P1470,42,Female,12.9,Normal,6356,Normal,217024,Normal,123,Prediabetic,239,Borderline,1.8,High,2,Low,Health stable
+R0471,P1471,32,Female,11.6,Low,8833,Normal,342301,Normal,103,Prediabetic,210,Borderline,0.7,Normal,2,Low,Health stable
+R0472,P1472,67,Female,13.7,Normal,10207,Normal,278981,Normal,139,High,299,High,1.7,High,6,High,Medical attention recommended
+R0473,P1473,48,Male,14.3,Normal,4409,Normal,131559,Low,141,High,176,Normal,1.8,High,4,Medium,Medical attention recommended
+R0474,P1474,75,Female,9.2,Low,7724,Normal,348961,Normal,82,Normal,270,High,1.4,High,6,High,Medical attention recommended
+R0475,P1475,40,Female,10.2,Low,11531,High,206187,Normal,155,High,282,High,0.8,Normal,7,High,Medical attention recommended
+R0476,P1476,73,Male,14,Normal,11195,High,316559,Normal,137,High,254,High,1.6,High,7,High,Medical attention recommended
+R0477,P1477,18,Male,9.3,Low,4919,Normal,143885,Low,134,High,273,High,1.4,High,8,High,Medical attention recommended
+R0478,P1478,42,Female,15.2,Normal,11421,High,375270,Normal,121,Prediabetic,221,Borderline,1.8,High,3,Medium,Medical attention recommended
+R0479,P1479,70,Male,9.3,Low,8816,Normal,158305,Normal,134,High,168,Normal,1.4,High,6,High,Medical attention recommended
+R0480,P1480,54,Male,9.3,Low,8121,Normal,286357,Normal,94,Normal,243,High,1.1,Normal,4,Medium,Medical attention recommended
+R0481,P1481,44,Male,14.2,Normal,6517,Normal,374962,Normal,142,High,240,High,1.8,High,6,High,Medical attention recommended
+R0482,P1482,45,Male,10.5,Low,5255,Normal,313679,Normal,144,High,170,Normal,1.8,High,6,High,Medical attention recommended
+R0483,P1483,75,Female,14.7,Normal,10212,Normal,178603,Normal,113,Prediabetic,280,High,1.8,High,4,Medium,Medical attention recommended
+R0484,P1484,36,Male,15.7,Normal,4796,Normal,193651,Normal,95,Normal,235,Borderline,1.8,High,2,Low,Health stable
+R0485,P1485,62,Female,14.3,Normal,5679,Normal,127058,Low,83,Normal,209,Borderline,1.1,Normal,0,Low,Health stable
+R0486,P1486,47,Male,15.3,Normal,10261,Normal,241950,Normal,96,Normal,293,High,1.6,High,4,Medium,Medical attention recommended
+R0487,P1487,54,Female,9.2,Low,4194,Normal,254677,Normal,167,High,271,High,1.3,Normal,6,High,Medical attention recommended
+R0488,P1488,65,Female,11.2,Low,6897,Normal,325923,Normal,145,High,176,Normal,1.4,High,6,High,Medical attention recommended
+R0489,P1489,47,Female,13.9,Normal,5206,Normal,317928,Normal,141,High,170,Normal,0.7,Normal,2,Low,Health stable
+R0490,P1490,31,Female,13.5,Normal,4426,Normal,277904,Normal,83,Normal,200,Borderline,1,Normal,0,Low,Health stable
+R0491,P1491,50,Female,15.6,Normal,4131,Normal,331856,Normal,89,Normal,186,Normal,1.5,High,2,Low,Health stable
+R0492,P1492,38,Female,15.9,Normal,9768,Normal,310566,Normal,81,Normal,296,High,0.9,Normal,2,Low,Health stable
+R0493,P1493,45,Female,15.9,Normal,9608,Normal,357815,Normal,145,High,253,High,1.5,High,6,High,Medical attention recommended
+R0494,P1494,48,Female,11.6,Low,5086,Normal,326432,Normal,135,High,170,Normal,1.3,Normal,4,Medium,Medical attention recommended
+R0495,P1495,38,Female,10,Low,8066,Normal,313725,Normal,113,Prediabetic,294,High,1.3,Normal,4,Medium,Medical attention recommended
+R0496,P1496,56,Male,11.1,Low,6320,Normal,227332,Normal,143,High,172,Normal,2,High,6,High,Medical attention recommended
+R0497,P1497,67,Male,9.2,Low,7368,Normal,242290,Normal,109,Prediabetic,164,Normal,0.8,Normal,2,Low,Health stable
+R0498,P1498,53,Female,14.7,Normal,10177,Normal,284662,Normal,82,Normal,220,Borderline,0.9,Normal,0,Low,Health stable
+R0499,P1499,36,Male,15.2,Normal,9994,Normal,176001,Normal,179,High,288,High,1.8,High,6,High,Medical attention recommended
+R0500,P1500,29,Female,15.6,Normal,9472,Normal,151677,Normal,153,High,288,High,1.4,High,6,High,Medical attention recommended
+R0501,P1501,59,Female,9.8,Low,5761,Normal,235694,Normal,98,Normal,211,Borderline,1.5,High,4,Medium,Medical attention recommended
+R0502,P1502,39,Male,11.1,Low,4527,Normal,155398,Normal,118,Prediabetic,224,Borderline,1.7,High,4,Medium,Medical attention recommended
+R0503,P1503,47,Male,11.6,Low,5362,Normal,122204,Low,170,High,248,High,0.7,Normal,6,High,Medical attention recommended
+R0504,P1504,73,Male,13,Normal,5587,Normal,377123,Normal,81,Normal,289,High,0.7,Normal,2,Low,Health stable
+R0505,P1505,23,Female,12.6,Normal,10502,Normal,197213,Normal,129,High,211,Borderline,1.1,Normal,2,Low,Health stable
+R0506,P1506,64,Male,11.6,Low,5270,Normal,271920,Normal,106,Prediabetic,269,High,1.6,High,6,High,Medical attention recommended
+R0507,P1507,65,Male,13.2,Normal,11725,High,341052,Normal,170,High,162,Normal,1.2,Normal,3,Medium,Medical attention recommended
+R0508,P1508,47,Male,16,Normal,7136,Normal,176446,Normal,106,Prediabetic,272,High,1.4,High,4,Medium,Medical attention recommended
+R0509,P1509,51,Male,10.4,Low,8902,Normal,307689,Normal,82,Normal,299,High,1.9,High,6,High,Medical attention recommended
+R0510,P1510,72,Male,13.6,Normal,7363,Normal,333316,Normal,119,Prediabetic,216,Borderline,1.8,High,2,Low,Health stable
+R0511,P1511,53,Male,12.7,Normal,9713,Normal,133947,Low,109,Prediabetic,265,High,1.1,Normal,2,Low,Health stable
+R0512,P1512,44,Male,9.9,Low,5065,Normal,135587,Low,93,Normal,187,Normal,1.9,High,4,Medium,Medical attention recommended
+R0513,P1513,57,Female,12.1,Normal,8496,Normal,240299,Normal,155,High,278,High,1.4,High,6,High,Medical attention recommended
+R0514,P1514,27,Female,10.7,Low,7566,Normal,197262,Normal,81,Normal,186,Normal,0.9,Normal,2,Low,Health stable
+R0515,P1515,71,Male,12.4,Normal,4747,Normal,191565,Normal,116,Prediabetic,283,High,1.5,High,4,Medium,Medical attention recommended
+R0516,P1516,66,Male,14.3,Normal,8081,Normal,292086,Normal,86,Normal,294,High,1.5,High,4,Medium,Medical attention recommended
+R0517,P1517,21,Male,15.6,Normal,4696,Normal,314410,Normal,163,High,286,High,2,High,6,High,Medical attention recommended
+R0518,P1518,58,Male,15.6,Normal,10858,Normal,300510,Normal,95,Normal,174,Normal,0.7,Normal,0,Low,Health stable
+R0519,P1519,35,Male,14.6,Normal,8865,Normal,173126,Normal,116,Prediabetic,152,Normal,1.8,High,2,Low,Health stable
+R0520,P1520,53,Female,9,Low,11564,High,387234,Normal,81,Normal,228,Borderline,0.9,Normal,3,Medium,Medical attention recommended
+R0521,P1521,24,Female,9.4,Low,4149,Normal,323639,Normal,114,Prediabetic,203,Borderline,1.1,Normal,2,Low,Health stable
+R0522,P1522,50,Male,11.6,Low,9458,Normal,161106,Normal,146,High,222,Borderline,0.8,Normal,4,Medium,Medical attention recommended
+R0523,P1523,75,Female,12.6,Normal,6556,Normal,350528,Normal,98,Normal,166,Normal,1.5,High,2,Low,Health stable
+R0524,P1524,56,Female,13.7,Normal,9039,Normal,326771,Normal,166,High,169,Normal,1.2,Normal,2,Low,Health stable
+R0525,P1525,67,Male,12.6,Normal,4137,Normal,143516,Low,125,Prediabetic,289,High,1.6,High,4,Medium,Medical attention recommended
+R0526,P1526,27,Female,11.9,Low,5843,Normal,313279,Normal,116,Prediabetic,191,Normal,1.3,Normal,2,Low,Health stable
+R0527,P1527,43,Male,11.3,Low,6594,Normal,295714,Normal,86,Normal,170,Normal,1.1,Normal,2,Low,Health stable
+R0528,P1528,64,Female,13.3,Normal,9909,Normal,398651,Normal,161,High,175,Normal,1.6,High,4,Medium,Medical attention recommended
+R0529,P1529,25,Male,10.4,Low,10062,Normal,365980,Normal,121,Prediabetic,169,Normal,1.9,High,4,Medium,Medical attention recommended
+R0530,P1530,55,Male,9.2,Low,8058,Normal,237356,Normal,83,Normal,277,High,1.5,High,6,High,Medical attention recommended
+R0531,P1531,30,Male,9.4,Low,6451,Normal,296131,Normal,117,Prediabetic,293,High,0.9,Normal,4,Medium,Medical attention recommended
+R0532,P1532,37,Male,10.4,Low,4968,Normal,237705,Normal,159,High,228,Borderline,0.8,Normal,4,Medium,Medical attention recommended
+R0533,P1533,33,Male,12.6,Normal,11651,High,152886,Normal,159,High,267,High,1.9,High,7,High,Medical attention recommended
+R0534,P1534,25,Female,15.9,Normal,4368,Normal,261259,Normal,169,High,225,Borderline,0.8,Normal,2,Low,Health stable
+R0535,P1535,19,Female,13.2,Normal,4479,Normal,291351,Normal,106,Prediabetic,202,Borderline,1.9,High,2,Low,Health stable
+R0536,P1536,20,Female,15.1,Normal,7216,Normal,220343,Normal,125,Prediabetic,260,High,1.7,High,4,Medium,Medical attention recommended
+R0537,P1537,64,Male,12.8,Normal,4289,Normal,169487,Normal,122,Prediabetic,257,High,1.1,Normal,2,Low,Health stable
+R0538,P1538,25,Female,12.9,Normal,8124,Normal,339411,Normal,82,Normal,171,Normal,1.1,Normal,0,Low,Health stable
+R0539,P1539,27,Female,15.8,Normal,7964,Normal,181847,Normal,162,High,229,Borderline,1.1,Normal,2,Low,Health stable
+R0540,P1540,65,Female,11.3,Low,5824,Normal,329197,Normal,162,High,263,High,1.2,Normal,6,High,Medical attention recommended
+R0541,P1541,57,Male,15,Normal,5827,Normal,373672,Normal,97,Normal,225,Borderline,0.9,Normal,0,Low,Health stable
+R0542,P1542,60,Female,15.5,Normal,5168,Normal,378192,Normal,92,Normal,206,Borderline,1.8,High,2,Low,Health stable
+R0543,P1543,42,Female,13.6,Normal,5373,Normal,253709,Normal,145,High,218,Borderline,1.9,High,4,Medium,Medical attention recommended
+R0544,P1544,67,Female,15.2,Normal,9268,Normal,161614,Normal,130,High,276,High,1.1,Normal,4,Medium,Medical attention recommended
+R0545,P1545,45,Male,11.6,Low,6741,Normal,221790,Normal,155,High,259,High,0.7,Normal,6,High,Medical attention recommended
+R0546,P1546,39,Male,11.2,Low,6663,Normal,275720,Normal,136,High,280,High,1.4,High,8,High,Medical attention recommended
+R0547,P1547,18,Male,10,Low,7842,Normal,187307,Normal,129,High,220,Borderline,1,Normal,4,Medium,Medical attention recommended
+R0548,P1548,71,Male,9.8,Low,11900,High,193043,Normal,102,Prediabetic,178,Normal,1.8,High,5,Medium,Medical attention recommended
+R0549,P1549,23,Female,10.3,Low,6973,Normal,162965,Normal,96,Normal,275,High,1.3,Normal,4,Medium,Medical attention recommended
+R0550,P1550,20,Male,11.7,Low,7249,Normal,265492,Normal,103,Prediabetic,264,High,0.9,Normal,4,Medium,Medical attention recommended
+R0551,P1551,61,Female,15.9,Normal,11678,High,297399,Normal,107,Prediabetic,185,Normal,0.7,Normal,1,Low,Health stable
+R0552,P1552,19,Male,15.9,Normal,9020,Normal,326053,Normal,106,Prediabetic,262,High,1.9,High,4,Medium,Medical attention recommended
+R0553,P1553,32,Female,12.1,Normal,10214,Normal,339522,Normal,175,High,163,Normal,1.5,High,4,Medium,Medical attention recommended
+R0554,P1554,71,Female,13.3,Normal,6702,Normal,252526,Normal,107,Prediabetic,295,High,1.3,Normal,2,Low,Health stable
+R0555,P1555,62,Male,13.3,Normal,5876,Normal,155354,Normal,128,High,209,Borderline,1.3,Normal,2,Low,Health stable
+R0556,P1556,47,Female,14.6,Normal,7729,Normal,203062,Normal,138,High,174,Normal,1.6,High,4,Medium,Medical attention recommended
+R0557,P1557,20,Female,15.6,Normal,5578,Normal,265976,Normal,100,Prediabetic,182,Normal,1.9,High,2,Low,Health stable
+R0558,P1558,49,Female,9.3,Low,8950,Normal,202686,Normal,87,Normal,238,Borderline,1.1,Normal,2,Low,Health stable
+R0559,P1559,51,Female,11.9,Low,5792,Normal,151826,Normal,101,Prediabetic,282,High,0.7,Normal,4,Medium,Medical attention recommended
+R0560,P1560,69,Female,10.7,Low,6492,Normal,131121,Low,86,Normal,293,High,1.3,Normal,4,Medium,Medical attention recommended
+R0561,P1561,72,Female,14.8,Normal,10692,Normal,318505,Normal,113,Prediabetic,183,Normal,1.8,High,2,Low,Health stable
+R0562,P1562,60,Female,16,Normal,8741,Normal,304534,Normal,109,Prediabetic,160,Normal,1.7,High,2,Low,Health stable
+R0563,P1563,64,Female,15,Normal,10602,Normal,152559,Normal,153,High,215,Borderline,0.7,Normal,2,Low,Health stable
+R0564,P1564,32,Female,15,Normal,5807,Normal,216997,Normal,163,High,252,High,1.4,High,6,High,Medical attention recommended
+R0565,P1565,31,Female,13,Normal,7368,Normal,282592,Normal,145,High,162,Normal,1.2,Normal,2,Low,Health stable
+R0566,P1566,66,Female,14.1,Normal,7668,Normal,163599,Normal,111,Prediabetic,232,Borderline,1.9,High,2,Low,Health stable
+R0567,P1567,29,Female,15.9,Normal,8045,Normal,227997,Normal,168,High,203,Borderline,1.2,Normal,2,Low,Health stable
+R0568,P1568,64,Female,11.4,Low,9525,Normal,384569,Normal,140,High,233,Borderline,1.4,High,6,High,Medical attention recommended
+R0569,P1569,74,Male,14.6,Normal,6771,Normal,263004,Normal,86,Normal,231,Borderline,1.3,Normal,0,Low,Health stable
+R0570,P1570,70,Male,10.1,Low,10748,Normal,272323,Normal,115,Prediabetic,188,Normal,1.2,Normal,2,Low,Health stable
+R0571,P1571,66,Female,9.3,Low,8419,Normal,227112,Normal,143,High,228,Borderline,0.6,Low,4,Medium,Medical attention recommended
+R0572,P1572,44,Female,9.4,Low,7068,Normal,390679,Normal,104,Prediabetic,256,High,1.6,High,6,High,Medical attention recommended
+R0573,P1573,44,Male,14,Normal,11882,High,169940,Normal,174,High,196,Normal,1.1,Normal,3,Medium,Medical attention recommended
+R0574,P1574,63,Female,9.4,Low,6923,Normal,152659,Normal,101,Prediabetic,162,Normal,1.7,High,4,Medium,Medical attention recommended
+R0575,P1575,51,Female,9.2,Low,8471,Normal,194534,Normal,150,High,161,Normal,0.9,Normal,4,Medium,Medical attention recommended
+R0576,P1576,32,Female,12.9,Normal,4523,Normal,190881,Normal,100,Prediabetic,222,Borderline,1.7,High,2,Low,Health stable
+R0577,P1577,29,Male,11.8,Low,6624,Normal,236135,Normal,116,Prediabetic,215,Borderline,2,High,4,Medium,Medical attention recommended
+R0578,P1578,66,Male,15.5,Normal,5806,Normal,297463,Normal,171,High,245,High,1.6,High,6,High,Medical attention recommended
+R0579,P1579,66,Female,9.4,Low,11297,High,245683,Normal,82,Normal,152,Normal,1.5,High,5,Medium,Medical attention recommended
+R0580,P1580,40,Female,11.1,Low,9941,Normal,283475,Normal,94,Normal,263,High,0.9,Normal,4,Medium,Medical attention recommended
+R0581,P1581,57,Male,15,Normal,9906,Normal,209870,Normal,178,High,174,Normal,1.1,Normal,2,Low,Health stable
+R0582,P1582,20,Male,10.7,Low,5724,Normal,149363,Low,100,Prediabetic,158,Normal,1.9,High,4,Medium,Medical attention recommended
+R0583,P1583,18,Female,10.6,Low,4301,Normal,366003,Normal,142,High,296,High,0.7,Normal,6,High,Medical attention recommended
+R0584,P1584,20,Female,11.2,Low,7461,Normal,302955,Normal,178,High,256,High,0.8,Normal,6,High,Medical attention recommended
+R0585,P1585,23,Male,11.7,Low,11709,High,357601,Normal,158,High,288,High,2,High,9,Critical,Medical attention recommended
+R0586,P1586,52,Male,15.8,Normal,8281,Normal,196020,Normal,83,Normal,178,Normal,0.9,Normal,0,Low,Health stable
+R0587,P1587,47,Male,13.8,Normal,10006,Normal,124985,Low,132,High,205,Borderline,1.5,High,4,Medium,Medical attention recommended
+R0588,P1588,44,Female,9.6,Low,5391,Normal,309157,Normal,118,Prediabetic,237,Borderline,1.5,High,4,Medium,Medical attention recommended
+R0589,P1589,36,Female,10.7,Low,9307,Normal,392986,Normal,170,High,293,High,1.8,High,8,High,Medical attention recommended
+R0590,P1590,41,Female,15.7,Normal,10044,Normal,195778,Normal,180,High,160,Normal,1.2,Normal,2,Low,Health stable
+R0591,P1591,30,Female,14.6,Normal,9210,Normal,356165,Normal,131,High,270,High,1.7,High,6,High,Medical attention recommended
+R0592,P1592,67,Male,11.8,Low,5510,Normal,215452,Normal,180,High,237,Borderline,1.2,Normal,4,Medium,Medical attention recommended
+R0593,P1593,35,Female,11.8,Low,11355,High,223134,Normal,161,High,236,Borderline,1.7,High,7,High,Medical attention recommended
+R0594,P1594,63,Female,11.2,Low,5694,Normal,390025,Normal,106,Prediabetic,174,Normal,0.8,Normal,2,Low,Health stable
+R0595,P1595,36,Male,16,Normal,7665,Normal,397441,Normal,141,High,240,High,1.3,Normal,4,Medium,Medical attention recommended
+R0596,P1596,49,Male,9.7,Low,11051,High,378515,Normal,147,High,177,Normal,1.6,High,7,High,Medical attention recommended
+R0597,P1597,67,Female,12.2,Normal,5805,Normal,347731,Normal,128,High,219,Borderline,1.9,High,4,Medium,Medical attention recommended
+R0598,P1598,50,Male,15,Normal,4983,Normal,237169,Normal,90,Normal,252,High,1.1,Normal,2,Low,Health stable
+R0599,P1599,68,Female,14.5,Normal,11876,High,203635,Normal,87,Normal,264,High,1.7,High,5,Medium,Medical attention recommended
+R0600,P1600,59,Female,12.5,Normal,6793,Normal,155899,Normal,114,Prediabetic,272,High,1.7,High,4,Medium,Medical attention recommended
+R0601,P1601,52,Female,9,Low,4084,Normal,308416,Normal,177,High,205,Borderline,1.3,Normal,4,Medium,Medical attention recommended
+R0602,P1602,53,Male,9.6,Low,8596,Normal,310198,Normal,118,Prediabetic,180,Normal,1.5,High,4,Medium,Medical attention recommended
+R0603,P1603,38,Female,11.9,Low,10850,Normal,287273,Normal,128,High,247,High,1.3,Normal,6,High,Medical attention recommended
+R0604,P1604,70,Male,13.2,Normal,4436,Normal,306611,Normal,149,High,274,High,1.6,High,6,High,Medical attention recommended
+R0605,P1605,40,Female,12.6,Normal,7092,Normal,157194,Normal,94,Normal,177,Normal,1.1,Normal,0,Low,Health stable
+R0606,P1606,69,Female,13.1,Normal,6110,Normal,282930,Normal,129,High,198,Normal,2,High,4,Medium,Medical attention recommended
+R0607,P1607,30,Female,12.3,Normal,7102,Normal,240023,Normal,180,High,255,High,1.5,High,6,High,Medical attention recommended
+R0608,P1608,28,Female,12.1,Normal,6446,Normal,202393,Normal,115,Prediabetic,261,High,1.8,High,4,Medium,Medical attention recommended
+R0609,P1609,24,Male,12.2,Normal,9631,Normal,180584,Normal,137,High,202,Borderline,1.4,High,4,Medium,Medical attention recommended
+R0610,P1610,62,Female,9.4,Low,8536,Normal,223694,Normal,113,Prediabetic,168,Normal,0.7,Normal,2,Low,Health stable
+R0611,P1611,68,Female,10.2,Low,8878,Normal,392125,Normal,125,Prediabetic,192,Normal,1.8,High,4,Medium,Medical attention recommended
+R0612,P1612,26,Female,12.8,Normal,10210,Normal,243614,Normal,106,Prediabetic,221,Borderline,1,Normal,0,Low,Health stable
+R0613,P1613,45,Male,10,Low,10957,Normal,302386,Normal,94,Normal,196,Normal,0.9,Normal,2,Low,Health stable
+R0614,P1614,57,Male,9.2,Low,5589,Normal,351085,Normal,120,Prediabetic,252,High,1.1,Normal,4,Medium,Medical attention recommended
+R0615,P1615,66,Male,10,Low,5900,Normal,285445,Normal,92,Normal,299,High,0.9,Normal,4,Medium,Medical attention recommended
+R0616,P1616,73,Female,12.2,Normal,4386,Normal,316975,Normal,85,Normal,177,Normal,1.3,Normal,0,Low,Health stable
+R0617,P1617,57,Male,15.1,Normal,11953,High,316665,Normal,100,Prediabetic,167,Normal,1.5,High,3,Medium,Medical attention recommended
+R0618,P1618,57,Female,13.3,Normal,11805,High,292679,Normal,163,High,239,Borderline,0.6,Low,3,Medium,Medical attention recommended
+R0619,P1619,37,Male,15.6,Normal,11874,High,274667,Normal,142,High,295,High,0.8,Normal,5,Medium,Medical attention recommended
+R0620,P1620,37,Female,9.7,Low,8091,Normal,229848,Normal,99,Normal,206,Borderline,1.1,Normal,2,Low,Health stable
+R0621,P1621,34,Male,13.6,Normal,10604,Normal,150335,Normal,89,Normal,288,High,1.4,High,4,Medium,Medical attention recommended
+R0622,P1622,40,Male,9.5,Low,9488,Normal,379945,Normal,132,High,232,Borderline,1.4,High,6,High,Medical attention recommended
+R0623,P1623,69,Female,14.4,Normal,10990,Normal,370993,Normal,81,Normal,236,Borderline,1.5,High,2,Low,Health stable
+R0624,P1624,42,Female,15.4,Normal,4080,Normal,162172,Normal,137,High,262,High,1,Normal,4,Medium,Medical attention recommended
+R0625,P1625,25,Female,12.2,Normal,11862,High,295499,Normal,94,Normal,276,High,1.2,Normal,3,Medium,Medical attention recommended
+R0626,P1626,75,Female,9.4,Low,5101,Normal,317974,Normal,168,High,294,High,0.6,Low,6,High,Medical attention recommended
+R0627,P1627,48,Male,15.9,Normal,8638,Normal,126240,Low,177,High,229,Borderline,1.2,Normal,2,Low,Health stable
+R0628,P1628,70,Male,10.8,Low,11479,High,289136,Normal,118,Prediabetic,177,Normal,0.8,Normal,3,Medium,Medical attention recommended
+R0629,P1629,40,Male,13.8,Normal,8927,Normal,366929,Normal,120,Prediabetic,279,High,1.5,High,4,Medium,Medical attention recommended
+R0630,P1630,63,Male,15,Normal,6677,Normal,145149,Low,142,High,199,Normal,1.1,Normal,2,Low,Health stable
+R0631,P1631,46,Female,14.2,Normal,8876,Normal,294944,Normal,120,Prediabetic,199,Normal,1.3,Normal,0,Low,Health stable
+R0632,P1632,20,Male,9.8,Low,7368,Normal,386566,Normal,162,High,251,High,1.1,Normal,6,High,Medical attention recommended
+R0633,P1633,60,Male,9.1,Low,5608,Normal,281511,Normal,96,Normal,295,High,0.8,Normal,4,Medium,Medical attention recommended
+R0634,P1634,55,Male,14,Normal,4285,Normal,182169,Normal,94,Normal,208,Borderline,1.2,Normal,0,Low,Health stable
+R0635,P1635,71,Female,10.8,Low,10493,Normal,285195,Normal,169,High,170,Normal,1.2,Normal,4,Medium,Medical attention recommended
+R0636,P1636,29,Male,15.4,Normal,5187,Normal,268070,Normal,129,High,199,Normal,1.6,High,4,Medium,Medical attention recommended
+R0637,P1637,36,Female,9.4,Low,11980,High,246657,Normal,133,High,198,Normal,0.8,Normal,5,Medium,Medical attention recommended
+R0638,P1638,64,Male,14.1,Normal,9355,Normal,376545,Normal,85,Normal,292,High,1.1,Normal,2,Low,Health stable
+R0639,P1639,48,Female,11.3,Low,10042,Normal,207211,Normal,92,Normal,236,Borderline,1.2,Normal,2,Low,Health stable
+R0640,P1640,39,Female,9.4,Low,9659,Normal,279398,Normal,123,Prediabetic,269,High,1.7,High,6,High,Medical attention recommended
+R0641,P1641,69,Female,12,Normal,6272,Normal,289807,Normal,91,Normal,287,High,0.9,Normal,2,Low,Health stable
+R0642,P1642,18,Female,13.6,Normal,6443,Normal,177107,Normal,122,Prediabetic,205,Borderline,1.2,Normal,0,Low,Health stable
+R0643,P1643,34,Male,12.3,Normal,9613,Normal,174775,Normal,160,High,274,High,1.8,High,6,High,Medical attention recommended
+R0644,P1644,42,Female,11,Low,7783,Normal,201479,Normal,150,High,228,Borderline,1.7,High,6,High,Medical attention recommended
+R0645,P1645,52,Female,9.7,Low,4076,Normal,371765,Normal,145,High,176,Normal,0.8,Normal,4,Medium,Medical attention recommended
+R0646,P1646,31,Male,11.7,Low,10779,Normal,209249,Normal,99,Normal,241,High,1.1,Normal,4,Medium,Medical attention recommended
+R0647,P1647,59,Male,12.3,Normal,9136,Normal,127646,Low,144,High,223,Borderline,1,Normal,2,Low,Health stable
+R0648,P1648,61,Female,12,Normal,9976,Normal,359740,Normal,94,Normal,215,Borderline,1.9,High,2,Low,Health stable
+R0649,P1649,21,Female,12.1,Normal,5500,Normal,371758,Normal,111,Prediabetic,162,Normal,1.3,Normal,0,Low,Health stable
+R0650,P1650,37,Male,10,Low,10305,Normal,243932,Normal,97,Normal,200,Borderline,1,Normal,2,Low,Health stable
+R0651,P1651,25,Female,10.3,Low,6509,Normal,376830,Normal,167,High,203,Borderline,1.9,High,6,High,Medical attention recommended
+R0652,P1652,75,Female,13,Normal,8136,Normal,281662,Normal,148,High,246,High,2,High,6,High,Medical attention recommended
+R0653,P1653,21,Female,11.5,Low,4225,Normal,334016,Normal,109,Prediabetic,158,Normal,1.7,High,4,Medium,Medical attention recommended
+R0654,P1654,52,Male,14.9,Normal,4070,Normal,329333,Normal,171,High,284,High,1.2,Normal,4,Medium,Medical attention recommended
+R0655,P1655,33,Female,13.5,Normal,9068,Normal,301850,Normal,167,High,246,High,1.7,High,6,High,Medical attention recommended
+R0656,P1656,71,Male,11.9,Low,5014,Normal,267943,Normal,105,Prediabetic,241,High,1.6,High,6,High,Medical attention recommended
+R0657,P1657,32,Female,12.8,Normal,8103,Normal,321353,Normal,136,High,296,High,1,Normal,4,Medium,Medical attention recommended
+R0658,P1658,70,Female,13.5,Normal,8952,Normal,321233,Normal,84,Normal,287,High,0.7,Normal,2,Low,Health stable
+R0659,P1659,73,Female,9,Low,6722,Normal,242565,Normal,157,High,258,High,1.6,High,8,High,Medical attention recommended
+R0660,P1660,20,Female,12,Normal,11994,High,384198,Normal,172,High,203,Borderline,1.5,High,5,Medium,Medical attention recommended
+R0661,P1661,23,Male,13.9,Normal,9611,Normal,234416,Normal,87,Normal,207,Borderline,1.4,High,2,Low,Health stable
+R0662,P1662,65,Male,10,Low,10724,Normal,348775,Normal,113,Prediabetic,213,Borderline,1.5,High,4,Medium,Medical attention recommended
+R0663,P1663,43,Female,11.4,Low,8092,Normal,327665,Normal,149,High,245,High,1,Normal,6,High,Medical attention recommended
+R0664,P1664,72,Male,13.5,Normal,7733,Normal,219776,Normal,143,High,173,Normal,0.8,Normal,2,Low,Health stable
+R0665,P1665,36,Male,10.5,Low,5753,Normal,312870,Normal,118,Prediabetic,205,Borderline,1,Normal,2,Low,Health stable
+R0666,P1666,70,Female,14.3,Normal,5668,Normal,228188,Normal,90,Normal,180,Normal,0.6,Low,0,Low,Health stable
+R0667,P1667,40,Female,12.4,Normal,5347,Normal,288390,Normal,83,Normal,164,Normal,1.7,High,2,Low,Health stable
+R0668,P1668,25,Female,13.3,Normal,4122,Normal,384254,Normal,81,Normal,284,High,2,High,4,Medium,Medical attention recommended
+R0669,P1669,41,Female,10,Low,4790,Normal,322468,Normal,83,Normal,160,Normal,1,Normal,2,Low,Health stable
+R0670,P1670,38,Male,13.9,Normal,10193,Normal,396843,Normal,165,High,238,Borderline,0.9,Normal,2,Low,Health stable
+R0671,P1671,68,Male,15.5,Normal,9218,Normal,174963,Normal,174,High,229,Borderline,1.6,High,4,Medium,Medical attention recommended
+R0672,P1672,25,Male,9.2,Low,9192,Normal,141369,Low,155,High,223,Borderline,2,High,6,High,Medical attention recommended
+R0673,P1673,55,Female,10,Low,7133,Normal,329881,Normal,120,Prediabetic,185,Normal,1.3,Normal,2,Low,Health stable
+R0674,P1674,49,Female,14.6,Normal,4740,Normal,158264,Normal,165,High,191,Normal,0.6,Low,2,Low,Health stable
+R0675,P1675,63,Female,14.7,Normal,6458,Normal,375608,Normal,141,High,215,Borderline,1,Normal,2,Low,Health stable
+R0676,P1676,52,Female,10.5,Low,9740,Normal,145239,Low,146,High,271,High,1,Normal,6,High,Medical attention recommended
+R0677,P1677,63,Male,14.8,Normal,6415,Normal,219247,Normal,86,Normal,277,High,1.9,High,4,Medium,Medical attention recommended
+R0678,P1678,62,Male,12.6,Normal,5547,Normal,287694,Normal,178,High,217,Borderline,0.6,Low,2,Low,Health stable
+R0679,P1679,60,Female,11.9,Low,8224,Normal,278107,Normal,92,Normal,246,High,1.6,High,6,High,Medical attention recommended
+R0680,P1680,65,Male,10.8,Low,5260,Normal,206846,Normal,179,High,162,Normal,1.3,Normal,4,Medium,Medical attention recommended
+R0681,P1681,56,Female,14,Normal,5189,Normal,325534,Normal,109,Prediabetic,197,Normal,1.2,Normal,0,Low,Health stable
+R0682,P1682,41,Male,13.6,Normal,6117,Normal,171213,Normal,153,High,173,Normal,1.5,High,4,Medium,Medical attention recommended
+R0683,P1683,52,Female,13.7,Normal,8986,Normal,124292,Low,82,Normal,186,Normal,0.8,Normal,0,Low,Health stable
+R0684,P1684,53,Female,9.2,Low,5554,Normal,319050,Normal,122,Prediabetic,235,Borderline,1.5,High,4,Medium,Medical attention recommended
+R0685,P1685,73,Female,9.5,Low,4366,Normal,211894,Normal,101,Prediabetic,204,Borderline,2,High,4,Medium,Medical attention recommended
+R0686,P1686,66,Male,12,Normal,8973,Normal,213871,Normal,95,Normal,268,High,1.6,High,4,Medium,Medical attention recommended
+R0687,P1687,36,Male,11.7,Low,4021,Normal,173528,Normal,129,High,193,Normal,1.5,High,6,High,Medical attention recommended
+R0688,P1688,18,Male,12.7,Normal,8102,Normal,169632,Normal,144,High,197,Normal,1,Normal,2,Low,Health stable
+R0689,P1689,43,Female,12.8,Normal,8661,Normal,384905,Normal,135,High,269,High,0.7,Normal,4,Medium,Medical attention recommended
+R0690,P1690,29,Male,12.6,Normal,8810,Normal,308143,Normal,86,Normal,190,Normal,1.8,High,2,Low,Health stable
+R0691,P1691,22,Female,11.9,Low,10038,Normal,122886,Low,137,High,216,Borderline,0.6,Low,4,Medium,Medical attention recommended
+R0692,P1692,46,Male,15.7,Normal,4374,Normal,319614,Normal,148,High,270,High,1.5,High,6,High,Medical attention recommended
+R0693,P1693,37,Male,13.2,Normal,9139,Normal,338383,Normal,158,High,181,Normal,1.7,High,4,Medium,Medical attention recommended
+R0694,P1694,22,Male,14.6,Normal,11546,High,377752,Normal,90,Normal,199,Normal,0.9,Normal,1,Low,Health stable
+R0695,P1695,19,Female,14.3,Normal,6464,Normal,185817,Normal,103,Prediabetic,189,Normal,1.7,High,2,Low,Health stable
+R0696,P1696,38,Male,15.6,Normal,11719,High,338961,Normal,85,Normal,183,Normal,0.9,Normal,1,Low,Health stable
+R0697,P1697,27,Male,9.4,Low,5543,Normal,378971,Normal,161,High,229,Borderline,1.1,Normal,4,Medium,Medical attention recommended
+R0698,P1698,53,Female,15,Normal,9416,Normal,316811,Normal,111,Prediabetic,263,High,1.5,High,4,Medium,Medical attention recommended
+R0699,P1699,48,Female,9.8,Low,7235,Normal,139167,Low,145,High,294,High,2,High,8,High,Medical attention recommended
+R0700,P1700,70,Female,10.3,Low,5194,Normal,157096,Normal,127,High,212,Borderline,0.7,Normal,4,Medium,Medical attention recommended
+R0701,P1701,51,Female,11.3,Low,9622,Normal,264000,Normal,130,High,160,Normal,1.9,High,6,High,Medical attention recommended
+R0702,P1702,26,Male,11.9,Low,10256,Normal,391198,Normal,139,High,163,Normal,1.9,High,6,High,Medical attention recommended
+R0703,P1703,56,Male,15.9,Normal,4089,Normal,323027,Normal,123,Prediabetic,244,High,1,Normal,2,Low,Health stable
+R0704,P1704,51,Female,13.7,Normal,4071,Normal,208173,Normal,82,Normal,298,High,1.4,High,4,Medium,Medical attention recommended
+R0705,P1705,25,Male,9.9,Low,9319,Normal,176410,Normal,142,High,260,High,1,Normal,6,High,Medical attention recommended
+R0706,P1706,20,Female,12.9,Normal,5075,Normal,339686,Normal,166,High,196,Normal,1.1,Normal,2,Low,Health stable
+R0707,P1707,58,Female,15.5,Normal,4207,Normal,183212,Normal,101,Prediabetic,278,High,0.9,Normal,2,Low,Health stable
+R0708,P1708,39,Female,10.6,Low,5214,Normal,311172,Normal,179,High,183,Normal,1.5,High,6,High,Medical attention recommended
+R0709,P1709,53,Female,11.5,Low,8305,Normal,329111,Normal,89,Normal,260,High,1.3,Normal,4,Medium,Medical attention recommended
+R0710,P1710,22,Male,14.6,Normal,11362,High,390393,Normal,86,Normal,181,Normal,2,High,3,Medium,Medical attention recommended
+R0711,P1711,27,Female,9.8,Low,11919,High,386985,Normal,93,Normal,212,Borderline,1.4,High,5,Medium,Medical attention recommended
+R0712,P1712,24,Male,13.4,Normal,10924,Normal,324491,Normal,132,High,273,High,1.2,Normal,4,Medium,Medical attention recommended
+R0713,P1713,52,Male,9.1,Low,11258,High,268731,Normal,156,High,210,Borderline,1.9,High,7,High,Medical attention recommended
+R0714,P1714,43,Male,10.2,Low,11751,High,135125,Low,112,Prediabetic,293,High,0.6,Low,5,Medium,Medical attention recommended
+R0715,P1715,35,Male,12.8,Normal,11220,High,235215,Normal,160,High,270,High,1.3,Normal,5,Medium,Medical attention recommended
+R0716,P1716,25,Female,9,Low,4578,Normal,126203,Low,123,Prediabetic,274,High,1.6,High,6,High,Medical attention recommended
+R0717,P1717,21,Female,15.7,Normal,10095,Normal,385472,Normal,126,High,276,High,1.7,High,6,High,Medical attention recommended
+R0718,P1718,59,Male,11.9,Low,11923,High,292101,Normal,96,Normal,178,Normal,1.3,Normal,3,Medium,Medical attention recommended
+R0719,P1719,47,Female,12.7,Normal,11667,High,144207,Low,115,Prediabetic,158,Normal,1.5,High,3,Medium,Medical attention recommended
+R0720,P1720,48,Male,14.7,Normal,10929,Normal,336192,Normal,100,Prediabetic,224,Borderline,1.3,Normal,0,Low,Health stable
+R0721,P1721,24,Female,11.7,Low,9935,Normal,334200,Normal,170,High,194,Normal,0.8,Normal,4,Medium,Medical attention recommended
+R0722,P1722,50,Female,13.2,Normal,10943,Normal,192874,Normal,172,High,184,Normal,1.4,High,4,Medium,Medical attention recommended
+R0723,P1723,73,Male,12.7,Normal,6472,Normal,188761,Normal,142,High,216,Borderline,1.8,High,4,Medium,Medical attention recommended
+R0724,P1724,21,Female,12.2,Normal,8322,Normal,254669,Normal,132,High,249,High,0.7,Normal,4,Medium,Medical attention recommended
+R0725,P1725,74,Female,14.8,Normal,6470,Normal,348434,Normal,94,Normal,170,Normal,2,High,2,Low,Health stable
+R0726,P1726,52,Female,9.7,Low,8002,Normal,250714,Normal,103,Prediabetic,190,Normal,1.8,High,4,Medium,Medical attention recommended
+R0727,P1727,40,Female,10.6,Low,7746,Normal,329639,Normal,142,High,173,Normal,0.6,Low,4,Medium,Medical attention recommended
+R0728,P1728,26,Male,13,Normal,4964,Normal,219540,Normal,102,Prediabetic,279,High,1.7,High,4,Medium,Medical attention recommended
+R0729,P1729,36,Male,14.5,Normal,11931,High,260521,Normal,100,Prediabetic,280,High,1.2,Normal,3,Medium,Medical attention recommended
+R0730,P1730,62,Female,12.1,Normal,9381,Normal,376698,Normal,129,High,273,High,1.7,High,6,High,Medical attention recommended
+R0731,P1731,32,Female,14.7,Normal,9813,Normal,294960,Normal,164,High,257,High,0.7,Normal,4,Medium,Medical attention recommended
+R0732,P1732,52,Female,9.7,Low,6889,Normal,300756,Normal,139,High,277,High,1.6,High,8,High,Medical attention recommended
+R0733,P1733,66,Male,10.8,Low,11182,High,185672,Normal,117,Prediabetic,164,Normal,1.3,Normal,3,Medium,Medical attention recommended
+R0734,P1734,56,Female,15.7,Normal,4897,Normal,266653,Normal,156,High,196,Normal,1.1,Normal,2,Low,Health stable
+R0735,P1735,50,Female,10.7,Low,4066,Normal,324294,Normal,169,High,181,Normal,1.3,Normal,4,Medium,Medical attention recommended
+R0736,P1736,21,Male,10.9,Low,8175,Normal,250684,Normal,96,Normal,284,High,0.9,Normal,4,Medium,Medical attention recommended
+R0737,P1737,65,Male,9.4,Low,7970,Normal,299899,Normal,172,High,164,Normal,1.9,High,6,High,Medical attention recommended
+R0738,P1738,59,Male,9.4,Low,5181,Normal,162648,Normal,80,Normal,150,Normal,1.4,High,4,Medium,Medical attention recommended
+R0739,P1739,49,Male,13,Normal,5000,Normal,351385,Normal,146,High,250,High,1.8,High,6,High,Medical attention recommended
+R0740,P1740,64,Male,9,Low,10740,Normal,306034,Normal,99,Normal,238,Borderline,2,High,4,Medium,Medical attention recommended
+R0741,P1741,63,Female,12.1,Normal,4295,Normal,231459,Normal,87,Normal,200,Borderline,1,Normal,0,Low,Health stable
+R0742,P1742,38,Male,14.2,Normal,5366,Normal,216303,Normal,115,Prediabetic,167,Normal,0.7,Normal,0,Low,Health stable
+R0743,P1743,42,Female,12.6,Normal,6196,Normal,239193,Normal,117,Prediabetic,216,Borderline,1.9,High,2,Low,Health stable
+R0744,P1744,30,Female,13.2,Normal,11408,High,311710,Normal,90,Normal,155,Normal,1.2,Normal,1,Low,Health stable
+R0745,P1745,30,Male,11.9,Low,5678,Normal,191802,Normal,102,Prediabetic,152,Normal,1.7,High,4,Medium,Medical attention recommended
+R0746,P1746,58,Female,15.8,Normal,4834,Normal,160514,Normal,83,Normal,275,High,1.1,Normal,2,Low,Health stable
+R0747,P1747,24,Female,13.5,Normal,4132,Normal,370399,Normal,179,High,193,Normal,1.2,Normal,2,Low,Health stable
+R0748,P1748,52,Male,13,Normal,7764,Normal,142695,Low,87,Normal,225,Borderline,1.2,Normal,0,Low,Health stable
+R0749,P1749,53,Male,13.7,Normal,4995,Normal,316143,Normal,141,High,227,Borderline,1.9,High,4,Medium,Medical attention recommended
+R0750,P1750,69,Male,10.3,Low,6250,Normal,263196,Normal,86,Normal,151,Normal,1.6,High,4,Medium,Medical attention recommended
+R0751,P1751,34,Female,10.7,Low,6232,Normal,167954,Normal,152,High,160,Normal,1.7,High,6,High,Medical attention recommended
+R0752,P1752,73,Male,16,Normal,9325,Normal,163170,Normal,157,High,211,Borderline,1.3,Normal,2,Low,Health stable
+R0753,P1753,56,Female,15.3,Normal,5238,Normal,387948,Normal,154,High,255,High,1.2,Normal,4,Medium,Medical attention recommended
+R0754,P1754,36,Female,10,Low,9531,Normal,297448,Normal,130,High,194,Normal,1.7,High,6,High,Medical attention recommended
+R0755,P1755,30,Female,9.3,Low,5223,Normal,395566,Normal,124,Prediabetic,237,Borderline,0.9,Normal,2,Low,Health stable
+R0756,P1756,22,Male,14.4,Normal,9159,Normal,219643,Normal,111,Prediabetic,182,Normal,1.1,Normal,0,Low,Health stable
+R0757,P1757,38,Female,12.5,Normal,6917,Normal,308435,Normal,178,High,163,Normal,1.6,High,4,Medium,Medical attention recommended
+R0758,P1758,46,Male,9,Low,7604,Normal,287614,Normal,165,High,216,Borderline,1.3,Normal,4,Medium,Medical attention recommended
+R0759,P1759,27,Female,10.1,Low,11676,High,291599,Normal,169,High,193,Normal,1.8,High,7,High,Medical attention recommended
+R0760,P1760,27,Female,9.6,Low,6705,Normal,325022,Normal,158,High,234,Borderline,1.2,Normal,4,Medium,Medical attention recommended
+R0761,P1761,66,Male,13.9,Normal,7972,Normal,308842,Normal,92,Normal,263,High,1.5,High,4,Medium,Medical attention recommended
+R0762,P1762,51,Male,15.1,Normal,4456,Normal,391531,Normal,131,High,278,High,1.5,High,6,High,Medical attention recommended
+R0763,P1763,54,Female,15.9,Normal,6213,Normal,246657,Normal,121,Prediabetic,206,Borderline,1.7,High,2,Low,Health stable
+R0764,P1764,30,Male,13.3,Normal,5026,Normal,352278,Normal,119,Prediabetic,161,Normal,0.9,Normal,0,Low,Health stable
+R0765,P1765,20,Male,9.9,Low,10087,Normal,239832,Normal,137,High,276,High,1.4,High,8,High,Medical attention recommended
+R0766,P1766,39,Male,11.1,Low,9660,Normal,323121,Normal,83,Normal,178,Normal,0.8,Normal,2,Low,Health stable
+R0767,P1767,24,Male,15.6,Normal,4591,Normal,247931,Normal,122,Prediabetic,289,High,1.1,Normal,2,Low,Health stable
+R0768,P1768,27,Female,13.2,Normal,4635,Normal,280333,Normal,121,Prediabetic,210,Borderline,1.7,High,2,Low,Health stable
+R0769,P1769,62,Female,13.1,Normal,6425,Normal,284431,Normal,176,High,265,High,1.9,High,6,High,Medical attention recommended
+R0770,P1770,62,Male,13,Normal,10568,Normal,200975,Normal,163,High,200,Borderline,0.8,Normal,2,Low,Health stable
+R0771,P1771,62,Male,9.9,Low,11572,High,155096,Normal,150,High,233,Borderline,2,High,7,High,Medical attention recommended
+R0772,P1772,31,Female,13.7,Normal,8504,Normal,381509,Normal,120,Prediabetic,300,High,1.2,Normal,2,Low,Health stable
+R0773,P1773,23,Female,14.9,Normal,9964,Normal,131802,Low,120,Prediabetic,281,High,1.8,High,4,Medium,Medical attention recommended
+R0774,P1774,44,Female,12,Normal,11797,High,144188,Low,141,High,257,High,1,Normal,5,Medium,Medical attention recommended
+R0775,P1775,55,Female,13,Normal,5626,Normal,197102,Normal,110,Prediabetic,279,High,0.8,Normal,2,Low,Health stable
+R0776,P1776,71,Male,11.4,Low,11183,High,226148,Normal,137,High,201,Borderline,1.4,High,7,High,Medical attention recommended
+R0777,P1777,18,Female,10.6,Low,7867,Normal,226812,Normal,175,High,206,Borderline,1.2,Normal,4,Medium,Medical attention recommended
+R0778,P1778,47,Male,11.8,Low,9108,Normal,164424,Normal,131,High,207,Borderline,1,Normal,4,Medium,Medical attention recommended
+R0779,P1779,22,Male,11.5,Low,5602,Normal,305360,Normal,155,High,274,High,1.3,Normal,6,High,Medical attention recommended
+R0780,P1780,18,Female,9.9,Low,9201,Normal,337909,Normal,140,High,289,High,1.2,Normal,6,High,Medical attention recommended
+R0781,P1781,51,Male,11.1,Low,7892,Normal,312533,Normal,137,High,269,High,1.9,High,8,High,Medical attention recommended
+R0782,P1782,27,Female,11.4,Low,8067,Normal,295349,Normal,164,High,213,Borderline,1.8,High,6,High,Medical attention recommended
+R0783,P1783,26,Female,15.9,Normal,7230,Normal,377063,Normal,142,High,260,High,1,Normal,4,Medium,Medical attention recommended
+R0784,P1784,71,Male,13.6,Normal,9176,Normal,191991,Normal,129,High,177,Normal,1.7,High,4,Medium,Medical attention recommended
+R0785,P1785,51,Male,10.7,Low,10723,Normal,287715,Normal,155,High,154,Normal,1.3,Normal,4,Medium,Medical attention recommended
+R0786,P1786,55,Male,11.9,Low,4382,Normal,277786,Normal,158,High,176,Normal,1.1,Normal,4,Medium,Medical attention recommended
+R0787,P1787,58,Male,14.1,Normal,10664,Normal,360154,Normal,126,High,180,Normal,1.7,High,4,Medium,Medical attention recommended
+R0788,P1788,63,Female,11.5,Low,7841,Normal,361328,Normal,147,High,216,Borderline,1.9,High,6,High,Medical attention recommended
+R0789,P1789,45,Male,11.7,Low,10959,Normal,349171,Normal,139,High,277,High,1.4,High,8,High,Medical attention recommended
+R0790,P1790,22,Female,9.4,Low,4179,Normal,234522,Normal,87,Normal,194,Normal,0.6,Low,2,Low,Health stable
+R0791,P1791,73,Male,13.3,Normal,5229,Normal,214961,Normal,180,High,233,Borderline,1,Normal,2,Low,Health stable
+R0792,P1792,20,Male,15.6,Normal,10179,Normal,345279,Normal,107,Prediabetic,207,Borderline,1.3,Normal,0,Low,Health stable
+R0793,P1793,59,Female,11.1,Low,11210,High,193489,Normal,175,High,220,Borderline,0.6,Low,5,Medium,Medical attention recommended
+R0794,P1794,42,Female,10.1,Low,5586,Normal,215004,Normal,146,High,283,High,1.1,Normal,6,High,Medical attention recommended
+R0795,P1795,55,Female,12.4,Normal,5328,Normal,333692,Normal,163,High,249,High,1.1,Normal,4,Medium,Medical attention recommended
+R0796,P1796,48,Male,13,Normal,11227,High,120817,Low,140,High,278,High,1.8,High,7,High,Medical attention recommended
+R0797,P1797,28,Male,11.3,Low,4549,Normal,215329,Normal,84,Normal,215,Borderline,1.5,High,4,Medium,Medical attention recommended
+R0798,P1798,75,Male,10.6,Low,8906,Normal,347729,Normal,136,High,174,Normal,0.6,Low,4,Medium,Medical attention recommended
+R0799,P1799,58,Female,15.4,Normal,10309,Normal,190115,Normal,97,Normal,222,Borderline,1.9,High,2,Low,Health stable
+R0800,P1800,47,Male,13.1,Normal,11638,High,279914,Normal,154,High,272,High,1.2,Normal,5,Medium,Medical attention recommended
+R0801,P1801,29,Male,14.4,Normal,8687,Normal,178073,Normal,178,High,217,Borderline,1.3,Normal,2,Low,Health stable
+R0802,P1802,18,Male,10.7,Low,7089,Normal,354141,Normal,96,Normal,236,Borderline,0.6,Low,2,Low,Health stable
+R0803,P1803,26,Female,14.9,Normal,10758,Normal,177732,Normal,168,High,222,Borderline,0.9,Normal,2,Low,Health stable
+R0804,P1804,20,Male,10.2,Low,8257,Normal,223121,Normal,161,High,281,High,1.3,Normal,6,High,Medical attention recommended
+R0805,P1805,22,Male,12.5,Normal,8983,Normal,306708,Normal,131,High,167,Normal,1.6,High,4,Medium,Medical attention recommended
+R0806,P1806,59,Female,9.2,Low,9032,Normal,298866,Normal,144,High,172,Normal,1.3,Normal,4,Medium,Medical attention recommended
+R0807,P1807,50,Male,10.2,Low,6787,Normal,272624,Normal,127,High,282,High,1.6,High,8,High,Medical attention recommended
+R0808,P1808,57,Female,10.8,Low,7551,Normal,224395,Normal,133,High,252,High,1.4,High,8,High,Medical attention recommended
+R0809,P1809,32,Female,13.5,Normal,9376,Normal,146922,Low,163,High,263,High,1.9,High,6,High,Medical attention recommended
+R0810,P1810,36,Female,10.1,Low,7346,Normal,385199,Normal,123,Prediabetic,282,High,1.5,High,6,High,Medical attention recommended
+R0811,P1811,74,Female,9.1,Low,8942,Normal,134849,Low,94,Normal,223,Borderline,0.7,Normal,2,Low,Health stable
+R0812,P1812,45,Male,9.3,Low,5220,Normal,283802,Normal,117,Prediabetic,196,Normal,1.4,High,4,Medium,Medical attention recommended
+R0813,P1813,24,Male,11.1,Low,4894,Normal,138257,Low,165,High,152,Normal,2,High,6,High,Medical attention recommended
+R0814,P1814,74,Male,15.2,Normal,8846,Normal,184073,Normal,119,Prediabetic,165,Normal,1.4,High,2,Low,Health stable
+R0815,P1815,19,Male,11.1,Low,9349,Normal,197685,Normal,172,High,230,Borderline,1,Normal,4,Medium,Medical attention recommended
+R0816,P1816,28,Female,15.3,Normal,8149,Normal,257818,Normal,90,Normal,203,Borderline,1.1,Normal,0,Low,Health stable
+R0817,P1817,35,Female,13.2,Normal,8999,Normal,158254,Normal,137,High,155,Normal,1.9,High,4,Medium,Medical attention recommended
+R0818,P1818,74,Male,14.8,Normal,8320,Normal,216387,Normal,126,High,190,Normal,1.1,Normal,2,Low,Health stable
+R0819,P1819,31,Female,11.9,Low,8450,Normal,205275,Normal,150,High,201,Borderline,1.9,High,6,High,Medical attention recommended
+R0820,P1820,63,Male,11.1,Low,10502,Normal,278272,Normal,155,High,233,Borderline,1.6,High,6,High,Medical attention recommended
+R0821,P1821,26,Female,11.5,Low,10246,Normal,310563,Normal,126,High,247,High,1.1,Normal,6,High,Medical attention recommended
+R0822,P1822,34,Male,12.6,Normal,7686,Normal,335608,Normal,133,High,270,High,1.4,High,6,High,Medical attention recommended
+R0823,P1823,28,Male,14.3,Normal,11098,High,371544,Normal,113,Prediabetic,156,Normal,1.8,High,3,Medium,Medical attention recommended
+R0824,P1824,65,Female,13.6,Normal,8533,Normal,296508,Normal,92,Normal,280,High,1.3,Normal,2,Low,Health stable
+R0825,P1825,37,Male,14.1,Normal,8907,Normal,217148,Normal,137,High,264,High,1.5,High,6,High,Medical attention recommended
+R0826,P1826,32,Female,12.6,Normal,4664,Normal,337184,Normal,96,Normal,171,Normal,1.8,High,2,Low,Health stable
+R0827,P1827,51,Male,12.8,Normal,7679,Normal,163127,Normal,123,Prediabetic,250,High,0.9,Normal,2,Low,Health stable
+R0828,P1828,23,Female,10.8,Low,11903,High,364143,Normal,91,Normal,268,High,1.7,High,7,High,Medical attention recommended
+R0829,P1829,34,Female,9.1,Low,6071,Normal,295716,Normal,114,Prediabetic,209,Borderline,0.6,Low,2,Low,Health stable
+R0830,P1830,60,Male,13.9,Normal,9297,Normal,373989,Normal,179,High,272,High,1,Normal,4,Medium,Medical attention recommended
+R0831,P1831,66,Male,11,Low,4296,Normal,248289,Normal,140,High,210,Borderline,1.9,High,6,High,Medical attention recommended
+R0832,P1832,58,Male,14.3,Normal,7424,Normal,222807,Normal,175,High,277,High,1.3,Normal,4,Medium,Medical attention recommended
+R0833,P1833,25,Female,14.9,Normal,4457,Normal,169982,Normal,167,High,282,High,1,Normal,4,Medium,Medical attention recommended
+R0834,P1834,56,Male,11.6,Low,6904,Normal,262427,Normal,136,High,211,Borderline,1.2,Normal,4,Medium,Medical attention recommended
+R0835,P1835,52,Male,14,Normal,6055,Normal,248856,Normal,163,High,263,High,1.3,Normal,4,Medium,Medical attention recommended
+R0836,P1836,32,Female,11,Low,9416,Normal,211156,Normal,178,High,240,High,1.8,High,8,High,Medical attention recommended
+R0837,P1837,56,Male,14,Normal,7792,Normal,152554,Normal,147,High,163,Normal,1.5,High,4,Medium,Medical attention recommended
+R0838,P1838,27,Female,13.9,Normal,9411,Normal,316880,Normal,158,High,250,High,1.6,High,6,High,Medical attention recommended
+R0839,P1839,70,Male,13.3,Normal,6339,Normal,293665,Normal,143,High,271,High,1,Normal,4,Medium,Medical attention recommended
+R0840,P1840,37,Female,13.4,Normal,9087,Normal,301512,Normal,80,Normal,264,High,0.8,Normal,2,Low,Health stable
+R0841,P1841,64,Male,15,Normal,8308,Normal,203173,Normal,161,High,282,High,1,Normal,4,Medium,Medical attention recommended
+R0842,P1842,39,Female,10.2,Low,4835,Normal,221180,Normal,99,Normal,256,High,1.4,High,6,High,Medical attention recommended
+R0843,P1843,64,Female,15.5,Normal,9045,Normal,186504,Normal,167,High,260,High,0.9,Normal,4,Medium,Medical attention recommended
+R0844,P1844,62,Female,10.1,Low,8047,Normal,319431,Normal,84,Normal,188,Normal,1.4,High,4,Medium,Medical attention recommended
+R0845,P1845,33,Male,11.8,Low,4025,Normal,326781,Normal,89,Normal,278,High,1.6,High,6,High,Medical attention recommended
+R0846,P1846,51,Male,14,Normal,5026,Normal,321854,Normal,125,Prediabetic,254,High,1.5,High,4,Medium,Medical attention recommended
+R0847,P1847,54,Male,14,Normal,6943,Normal,195846,Normal,97,Normal,221,Borderline,1.2,Normal,0,Low,Health stable
+R0848,P1848,26,Female,15.6,Normal,6150,Normal,260272,Normal,109,Prediabetic,210,Borderline,1.7,High,2,Low,Health stable
+R0849,P1849,26,Female,15.2,Normal,5164,Normal,379463,Normal,126,High,296,High,1.4,High,6,High,Medical attention recommended
+R0850,P1850,21,Male,9.2,Low,9741,Normal,175640,Normal,94,Normal,284,High,1.9,High,6,High,Medical attention recommended
+R0851,P1851,69,Female,14.7,Normal,9760,Normal,342782,Normal,101,Prediabetic,287,High,1.3,Normal,2,Low,Health stable
+R0852,P1852,34,Female,13,Normal,4897,Normal,283510,Normal,118,Prediabetic,290,High,1.6,High,4,Medium,Medical attention recommended
+R0853,P1853,42,Male,10.6,Low,9402,Normal,257096,Normal,162,High,245,High,1.8,High,8,High,Medical attention recommended
+R0854,P1854,38,Female,11,Low,5500,Normal,158879,Normal,107,Prediabetic,296,High,1.7,High,6,High,Medical attention recommended
+R0855,P1855,73,Male,11.6,Low,8719,Normal,347946,Normal,174,High,214,Borderline,1,Normal,4,Medium,Medical attention recommended
+R0856,P1856,41,Male,15.8,Normal,11886,High,266103,Normal,80,Normal,173,Normal,0.7,Normal,1,Low,Health stable
+R0857,P1857,32,Female,12.9,Normal,5346,Normal,294506,Normal,159,High,162,Normal,0.6,Low,2,Low,Health stable
+R0858,P1858,18,Female,10.6,Low,9294,Normal,287081,Normal,93,Normal,299,High,1.6,High,6,High,Medical attention recommended
+R0859,P1859,29,Female,15.5,Normal,11650,High,174857,Normal,117,Prediabetic,221,Borderline,1.6,High,3,Medium,Medical attention recommended
+R0860,P1860,68,Male,13.5,Normal,9281,Normal,282168,Normal,170,High,188,Normal,0.9,Normal,2,Low,Health stable
+R0861,P1861,73,Female,9.9,Low,6092,Normal,378279,Normal,91,Normal,256,High,1.5,High,6,High,Medical attention recommended
+R0862,P1862,30,Female,11.6,Low,9162,Normal,189822,Normal,133,High,203,Borderline,0.9,Normal,4,Medium,Medical attention recommended
+R0863,P1863,27,Female,12.4,Normal,10922,Normal,343456,Normal,119,Prediabetic,171,Normal,1.5,High,2,Low,Health stable
+R0864,P1864,52,Female,10.2,Low,7561,Normal,264236,Normal,169,High,263,High,0.8,Normal,6,High,Medical attention recommended
+R0865,P1865,24,Male,9.8,Low,11077,High,182744,Normal,94,Normal,293,High,0.9,Normal,5,Medium,Medical attention recommended
+R0866,P1866,29,Female,11.5,Low,5640,Normal,328805,Normal,83,Normal,220,Borderline,1.4,High,4,Medium,Medical attention recommended
+R0867,P1867,72,Male,14.3,Normal,7585,Normal,280302,Normal,164,High,194,Normal,1.3,Normal,2,Low,Health stable
+R0868,P1868,59,Male,10.3,Low,7928,Normal,367024,Normal,152,High,262,High,1.3,Normal,6,High,Medical attention recommended
+R0869,P1869,37,Male,13.8,Normal,7974,Normal,145597,Low,80,Normal,226,Borderline,0.9,Normal,0,Low,Health stable
+R0870,P1870,51,Male,11.8,Low,6400,Normal,171288,Normal,109,Prediabetic,169,Normal,1.9,High,4,Medium,Medical attention recommended
+R0871,P1871,70,Female,14.7,Normal,9043,Normal,226634,Normal,140,High,265,High,1.8,High,6,High,Medical attention recommended
+R0872,P1872,30,Female,11.5,Low,10929,Normal,130089,Low,153,High,151,Normal,0.7,Normal,4,Medium,Medical attention recommended
+R0873,P1873,69,Male,13.6,Normal,9992,Normal,326271,Normal,157,High,253,High,1.1,Normal,4,Medium,Medical attention recommended
+R0874,P1874,27,Female,15.3,Normal,8942,Normal,256425,Normal,154,High,192,Normal,1.2,Normal,2,Low,Health stable
+R0875,P1875,28,Female,15.3,Normal,7730,Normal,325150,Normal,118,Prediabetic,291,High,1.4,High,4,Medium,Medical attention recommended
+R0876,P1876,59,Male,13,Normal,11341,High,253417,Normal,137,High,245,High,0.9,Normal,5,Medium,Medical attention recommended
+R0877,P1877,70,Male,15.8,Normal,6252,Normal,386456,Normal,158,High,234,Borderline,0.7,Normal,2,Low,Health stable
+R0878,P1878,49,Female,14,Normal,7730,Normal,395016,Normal,139,High,240,High,1.2,Normal,4,Medium,Medical attention recommended
+R0879,P1879,54,Male,15.9,Normal,11044,High,394868,Normal,127,High,255,High,1.8,High,7,High,Medical attention recommended
+R0880,P1880,40,Female,14.7,Normal,8035,Normal,277469,Normal,126,High,223,Borderline,1.7,High,4,Medium,Medical attention recommended
+R0881,P1881,26,Female,15.5,Normal,11817,High,271880,Normal,103,Prediabetic,200,Borderline,1.3,Normal,1,Low,Health stable
+R0882,P1882,18,Female,11.7,Low,9085,Normal,355202,Normal,156,High,235,Borderline,1.2,Normal,4,Medium,Medical attention recommended
+R0883,P1883,45,Female,13,Normal,11438,High,393036,Normal,154,High,220,Borderline,1.8,High,5,Medium,Medical attention recommended
+R0884,P1884,49,Female,9.3,Low,11765,High,361241,Normal,87,Normal,174,Normal,0.8,Normal,3,Medium,Medical attention recommended
+R0885,P1885,54,Female,11.7,Low,4849,Normal,183184,Normal,157,High,191,Normal,1.5,High,6,High,Medical attention recommended
+R0886,P1886,29,Female,13.9,Normal,6180,Normal,385670,Normal,134,High,175,Normal,0.9,Normal,2,Low,Health stable
+R0887,P1887,22,Female,10.3,Low,6389,Normal,342248,Normal,121,Prediabetic,163,Normal,1,Normal,2,Low,Health stable
+R0888,P1888,32,Female,11.8,Low,9584,Normal,228055,Normal,113,Prediabetic,277,High,0.7,Normal,4,Medium,Medical attention recommended
+R0889,P1889,68,Female,12.6,Normal,7867,Normal,397490,Normal,93,Normal,167,Normal,1.2,Normal,0,Low,Health stable
+R0890,P1890,65,Female,14.1,Normal,7470,Normal,171222,Normal,104,Prediabetic,206,Borderline,1.7,High,2,Low,Health stable
+R0891,P1891,47,Male,9.3,Low,9543,Normal,326545,Normal,157,High,234,Borderline,0.9,Normal,4,Medium,Medical attention recommended
+R0892,P1892,65,Male,9,Low,6686,Normal,264513,Normal,175,High,187,Normal,1.8,High,6,High,Medical attention recommended
+R0893,P1893,56,Female,9.7,Low,9629,Normal,186123,Normal,161,High,236,Borderline,1.8,High,6,High,Medical attention recommended
+R0894,P1894,65,Male,9,Low,11649,High,314109,Normal,159,High,171,Normal,1.7,High,7,High,Medical attention recommended
+R0895,P1895,56,Male,14.1,Normal,11874,High,328760,Normal,169,High,182,Normal,1.1,Normal,3,Medium,Medical attention recommended
+R0896,P1896,28,Female,10.2,Low,4362,Normal,397668,Normal,124,Prediabetic,202,Borderline,0.6,Low,2,Low,Health stable
+R0897,P1897,54,Female,10.5,Low,5249,Normal,200832,Normal,124,Prediabetic,178,Normal,1.8,High,4,Medium,Medical attention recommended
+R0898,P1898,23,Male,9.5,Low,10387,Normal,222225,Normal,100,Prediabetic,210,Borderline,1.9,High,4,Medium,Medical attention recommended
+R0899,P1899,44,Male,9.5,Low,8428,Normal,364822,Normal,122,Prediabetic,229,Borderline,1.5,High,4,Medium,Medical attention recommended
+R0900,P1900,70,Male,12.8,Normal,10577,Normal,368719,Normal,179,High,216,Borderline,1.4,High,4,Medium,Medical attention recommended
+R0901,P1901,21,Female,11.2,Low,5538,Normal,248762,Normal,150,High,300,High,1,Normal,6,High,Medical attention recommended
+R0902,P1902,48,Male,12.6,Normal,7027,Normal,331665,Normal,176,High,171,Normal,0.8,Normal,2,Low,Health stable
+R0903,P1903,56,Male,14.7,Normal,8055,Normal,145166,Low,141,High,232,Borderline,0.8,Normal,2,Low,Health stable
+R0904,P1904,39,Male,12.3,Normal,9847,Normal,340108,Normal,113,Prediabetic,172,Normal,1.6,High,2,Low,Health stable
+R0905,P1905,51,Male,14,Normal,5041,Normal,238180,Normal,108,Prediabetic,185,Normal,1.2,Normal,0,Low,Health stable
+R0906,P1906,48,Female,12.7,Normal,6801,Normal,302521,Normal,130,High,228,Borderline,0.8,Normal,2,Low,Health stable
+R0907,P1907,27,Female,11.4,Low,8040,Normal,200401,Normal,106,Prediabetic,237,Borderline,0.8,Normal,2,Low,Health stable
+R0908,P1908,58,Male,9,Low,11333,High,213443,Normal,141,High,242,High,1.6,High,9,Critical,Medical attention recommended
+R0909,P1909,31,Male,10.5,Low,11799,High,207760,Normal,112,Prediabetic,267,High,0.9,Normal,5,Medium,Medical attention recommended
+R0910,P1910,64,Male,13.1,Normal,8654,Normal,146089,Low,89,Normal,267,High,1,Normal,2,Low,Health stable
+R0911,P1911,26,Female,15.7,Normal,7197,Normal,139007,Low,171,High,198,Normal,1.7,High,4,Medium,Medical attention recommended
+R0912,P1912,24,Male,15.6,Normal,9106,Normal,264032,Normal,113,Prediabetic,261,High,1.9,High,4,Medium,Medical attention recommended
+R0913,P1913,31,Male,12,Normal,7552,Normal,207750,Normal,95,Normal,255,High,1.8,High,4,Medium,Medical attention recommended
+R0914,P1914,72,Male,12.2,Normal,5504,Normal,138048,Low,121,Prediabetic,260,High,0.9,Normal,2,Low,Health stable
+R0915,P1915,73,Male,9.2,Low,4107,Normal,208880,Normal,114,Prediabetic,272,High,1.3,Normal,4,Medium,Medical attention recommended
+R0916,P1916,68,Female,15.5,Normal,5210,Normal,281012,Normal,114,Prediabetic,227,Borderline,1.7,High,2,Low,Health stable
+R0917,P1917,50,Female,9.1,Low,10749,Normal,308834,Normal,86,Normal,155,Normal,1.9,High,4,Medium,Medical attention recommended
+R0918,P1918,66,Male,13.9,Normal,8837,Normal,204860,Normal,108,Prediabetic,293,High,1,Normal,2,Low,Health stable
+R0919,P1919,37,Male,15,Normal,5007,Normal,394711,Normal,119,Prediabetic,283,High,1.6,High,4,Medium,Medical attention recommended
+R0920,P1920,38,Male,14.8,Normal,11634,High,382209,Normal,127,High,223,Borderline,0.8,Normal,3,Medium,Medical attention recommended
+R0921,P1921,30,Female,15.4,Normal,5218,Normal,148091,Low,97,Normal,297,High,2,High,4,Medium,Medical attention recommended
+R0922,P1922,39,Male,10.6,Low,6076,Normal,268193,Normal,105,Prediabetic,175,Normal,1.1,Normal,2,Low,Health stable
+R0923,P1923,52,Male,11.1,Low,9161,Normal,255276,Normal,95,Normal,197,Normal,1.4,High,4,Medium,Medical attention recommended
+R0924,P1924,21,Male,13.2,Normal,8101,Normal,376845,Normal,173,High,284,High,1.8,High,6,High,Medical attention recommended
+R0925,P1925,48,Male,10.1,Low,8766,Normal,261527,Normal,99,Normal,245,High,1.4,High,6,High,Medical attention recommended
+R0926,P1926,42,Male,11.2,Low,6292,Normal,124629,Low,115,Prediabetic,296,High,2,High,6,High,Medical attention recommended
+R0927,P1927,49,Female,13,Normal,4780,Normal,220930,Normal,82,Normal,253,High,2,High,4,Medium,Medical attention recommended
+R0928,P1928,39,Male,13.8,Normal,8690,Normal,220117,Normal,108,Prediabetic,163,Normal,1.8,High,2,Low,Health stable
+R0929,P1929,68,Male,12.2,Normal,5072,Normal,193619,Normal,91,Normal,259,High,1.3,Normal,2,Low,Health stable
+R0930,P1930,56,Female,11.5,Low,5472,Normal,383266,Normal,179,High,277,High,1.5,High,8,High,Medical attention recommended
+R0931,P1931,59,Male,10.5,Low,6300,Normal,151434,Normal,149,High,209,Borderline,0.7,Normal,4,Medium,Medical attention recommended
+R0932,P1932,48,Male,13.7,Normal,6222,Normal,148868,Low,121,Prediabetic,194,Normal,1.6,High,2,Low,Health stable
+R0933,P1933,58,Male,12.4,Normal,9519,Normal,318735,Normal,123,Prediabetic,257,High,0.7,Normal,2,Low,Health stable
+R0934,P1934,50,Male,14.9,Normal,10671,Normal,261318,Normal,180,High,265,High,0.8,Normal,4,Medium,Medical attention recommended
+R0935,P1935,22,Female,14.8,Normal,9763,Normal,375273,Normal,125,Prediabetic,297,High,1.3,Normal,2,Low,Health stable
+R0936,P1936,75,Female,14,Normal,6259,Normal,368654,Normal,176,High,259,High,1.2,Normal,4,Medium,Medical attention recommended
+R0937,P1937,48,Male,13.5,Normal,11520,High,313121,Normal,80,Normal,237,Borderline,1,Normal,1,Low,Health stable
+R0938,P1938,24,Female,12.7,Normal,8434,Normal,145217,Low,157,High,180,Normal,1.4,High,4,Medium,Medical attention recommended
+R0939,P1939,68,Female,12.8,Normal,9695,Normal,348011,Normal,139,High,209,Borderline,1,Normal,2,Low,Health stable
+R0940,P1940,35,Male,15.4,Normal,11402,High,247164,Normal,85,Normal,244,High,1.9,High,5,Medium,Medical attention recommended
+R0941,P1941,49,Female,9.5,Low,7210,Normal,349495,Normal,147,High,277,High,0.9,Normal,6,High,Medical attention recommended
+R0942,P1942,57,Male,12.3,Normal,8448,Normal,256247,Normal,113,Prediabetic,273,High,1.9,High,4,Medium,Medical attention recommended
+R0943,P1943,40,Female,13.3,Normal,9255,Normal,399279,Normal,99,Normal,278,High,0.7,Normal,2,Low,Health stable
+R0944,P1944,59,Male,11.8,Low,4332,Normal,369636,Normal,80,Normal,215,Borderline,1,Normal,2,Low,Health stable
+R0945,P1945,49,Female,9.8,Low,10414,Normal,318808,Normal,171,High,180,Normal,1.8,High,6,High,Medical attention recommended
+R0946,P1946,51,Male,10.4,Low,11831,High,271949,Normal,122,Prediabetic,165,Normal,1.2,Normal,3,Medium,Medical attention recommended
+R0947,P1947,60,Female,13.5,Normal,5743,Normal,297939,Normal,144,High,185,Normal,1.9,High,4,Medium,Medical attention recommended
+R0948,P1948,52,Male,16,Normal,7218,Normal,337284,Normal,83,Normal,159,Normal,1,Normal,0,Low,Health stable
+R0949,P1949,39,Male,11.5,Low,4350,Normal,367064,Normal,160,High,266,High,1,Normal,6,High,Medical attention recommended
+R0950,P1950,41,Male,15.2,Normal,8296,Normal,301995,Normal,114,Prediabetic,254,High,1.9,High,4,Medium,Medical attention recommended
+R0951,P1951,74,Male,9.3,Low,7496,Normal,168427,Normal,133,High,216,Borderline,1.3,Normal,4,Medium,Medical attention recommended
+R0952,P1952,38,Male,15.5,Normal,8263,Normal,274724,Normal,154,High,217,Borderline,1.8,High,4,Medium,Medical attention recommended
+R0953,P1953,73,Female,9.5,Low,11380,High,311168,Normal,177,High,166,Normal,1,Normal,5,Medium,Medical attention recommended
+R0954,P1954,42,Female,15.8,Normal,4090,Normal,386864,Normal,141,High,190,Normal,1.9,High,4,Medium,Medical attention recommended
+R0955,P1955,56,Female,13.3,Normal,4711,Normal,359221,Normal,98,Normal,262,High,1.1,Normal,2,Low,Health stable
+R0956,P1956,35,Male,11.4,Low,11915,High,129788,Low,137,High,240,High,1.5,High,9,Critical,Medical attention recommended
+R0957,P1957,66,Male,15.4,Normal,9309,Normal,283979,Normal,162,High,153,Normal,1.8,High,4,Medium,Medical attention recommended
+R0958,P1958,28,Male,9.2,Low,5363,Normal,366162,Normal,133,High,292,High,0.8,Normal,6,High,Medical attention recommended
+R0959,P1959,68,Male,12.9,Normal,8218,Normal,379379,Normal,145,High,186,Normal,0.7,Normal,2,Low,Health stable
+R0960,P1960,66,Male,14.5,Normal,11311,High,180223,Normal,119,Prediabetic,183,Normal,0.7,Normal,1,Low,Health stable
+R0961,P1961,33,Male,14.9,Normal,7983,Normal,157632,Normal,83,Normal,206,Borderline,0.8,Normal,0,Low,Health stable
+R0962,P1962,37,Male,12.5,Normal,9412,Normal,205515,Normal,125,Prediabetic,259,High,1.6,High,4,Medium,Medical attention recommended
+R0963,P1963,57,Female,13.5,Normal,8830,Normal,267487,Normal,140,High,287,High,1.5,High,6,High,Medical attention recommended
+R0964,P1964,44,Female,9.3,Low,10836,Normal,147711,Low,131,High,175,Normal,1.4,High,6,High,Medical attention recommended
+R0965,P1965,45,Male,9.8,Low,10380,Normal,310901,Normal,147,High,273,High,1.7,High,8,High,Medical attention recommended
+R0966,P1966,52,Female,9.1,Low,9931,Normal,258777,Normal,135,High,270,High,1.4,High,8,High,Medical attention recommended
+R0967,P1967,71,Female,11.8,Low,6757,Normal,283246,Normal,114,Prediabetic,158,Normal,0.8,Normal,2,Low,Health stable
+R0968,P1968,30,Male,10.2,Low,9146,Normal,260057,Normal,178,High,213,Borderline,1.5,High,6,High,Medical attention recommended
+R0969,P1969,41,Male,14.1,Normal,6401,Normal,215253,Normal,151,High,215,Borderline,1.1,Normal,2,Low,Health stable
+R0970,P1970,44,Female,13.5,Normal,4929,Normal,124042,Low,175,High,187,Normal,1.4,High,4,Medium,Medical attention recommended
+R0971,P1971,69,Male,10.3,Low,11064,High,383590,Normal,139,High,242,High,1.2,Normal,7,High,Medical attention recommended
+R0972,P1972,31,Female,11.2,Low,9997,Normal,172972,Normal,115,Prediabetic,164,Normal,0.7,Normal,2,Low,Health stable
+R0973,P1973,69,Male,12,Normal,9070,Normal,149735,Low,131,High,241,High,1.8,High,6,High,Medical attention recommended
+R0974,P1974,24,Male,9.3,Low,9490,Normal,289989,Normal,118,Prediabetic,259,High,1.8,High,6,High,Medical attention recommended
+R0975,P1975,66,Male,9.8,Low,7322,Normal,372196,Normal,126,High,254,High,1.2,Normal,6,High,Medical attention recommended
+R0976,P1976,23,Female,9.1,Low,8051,Normal,254976,Normal,81,Normal,300,High,1.6,High,6,High,Medical attention recommended
+R0977,P1977,49,Female,10.3,Low,7855,Normal,398489,Normal,103,Prediabetic,271,High,1.5,High,6,High,Medical attention recommended
+R0978,P1978,62,Female,9.6,Low,6748,Normal,397198,Normal,157,High,238,Borderline,1.4,High,6,High,Medical attention recommended
+R0979,P1979,63,Female,16,Normal,5130,Normal,341628,Normal,127,High,248,High,0.8,Normal,4,Medium,Medical attention recommended
+R0980,P1980,22,Female,10.5,Low,6860,Normal,326466,Normal,141,High,250,High,1,Normal,6,High,Medical attention recommended
+R0981,P1981,31,Male,10.4,Low,11842,High,352014,Normal,173,High,171,Normal,1.9,High,7,High,Medical attention recommended
+R0982,P1982,24,Female,14.3,Normal,7098,Normal,305552,Normal,157,High,247,High,1.8,High,6,High,Medical attention recommended
+R0983,P1983,50,Male,15,Normal,7315,Normal,224967,Normal,112,Prediabetic,169,Normal,1.1,Normal,0,Low,Health stable
+R0984,P1984,20,Male,11.4,Low,10804,Normal,332157,Normal,169,High,208,Borderline,0.9,Normal,4,Medium,Medical attention recommended
+R0985,P1985,58,Male,15.5,Normal,9451,Normal,312744,Normal,94,Normal,197,Normal,1,Normal,0,Low,Health stable
+R0986,P1986,39,Female,13.2,Normal,6250,Normal,133950,Low,141,High,296,High,0.9,Normal,4,Medium,Medical attention recommended
+R0987,P1987,52,Female,11.4,Low,4308,Normal,264556,Normal,128,High,153,Normal,1.1,Normal,4,Medium,Medical attention recommended
+R0988,P1988,54,Female,10.8,Low,11765,High,251718,Normal,82,Normal,206,Borderline,0.9,Normal,3,Medium,Medical attention recommended
+R0989,P1989,57,Male,10.1,Low,11297,High,280373,Normal,150,High,259,High,0.6,Low,7,High,Medical attention recommended
+R0990,P1990,68,Male,12.3,Normal,5620,Normal,201438,Normal,170,High,179,Normal,1.9,High,4,Medium,Medical attention recommended
+R0991,P1991,56,Female,10,Low,9331,Normal,399858,Normal,122,Prediabetic,207,Borderline,1.1,Normal,2,Low,Health stable
+R0992,P1992,18,Female,13.4,Normal,7195,Normal,363351,Normal,110,Prediabetic,287,High,1.1,Normal,2,Low,Health stable
+R0993,P1993,64,Male,14.4,Normal,9080,Normal,397344,Normal,83,Normal,160,Normal,1.7,High,2,Low,Health stable
+R0994,P1994,23,Male,15.9,Normal,8878,Normal,393470,Normal,88,Normal,299,High,1.5,High,4,Medium,Medical attention recommended
+R0995,P1995,43,Male,15.2,Normal,4956,Normal,189031,Normal,109,Prediabetic,252,High,1.2,Normal,2,Low,Health stable
+R0996,P1996,28,Female,12.4,Normal,5425,Normal,228583,Normal,164,High,232,Borderline,1.6,High,4,Medium,Medical attention recommended
+R0997,P1997,51,Male,11.2,Low,5784,Normal,385340,Normal,173,High,189,Normal,1.3,Normal,4,Medium,Medical attention recommended
+R0998,P1998,40,Male,13.5,Normal,10468,Normal,378947,Normal,145,High,238,Borderline,1.1,Normal,2,Low,Health stable
+R0999,P1999,31,Male,13,Normal,7090,Normal,195350,Normal,170,High,190,Normal,1.4,High,4,Medium,Medical attention recommended
+R1000,P2000,37,Female,12.8,Normal,10301,Normal,142370,Low,117,Prediabetic,183,Normal,1.9,High,2,Low,Health stable
