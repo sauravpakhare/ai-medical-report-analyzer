@@ -1,0 +1,73 @@
+MISSING VALUES:
+
+Report_ID                   0
+Patient_ID                  0
+Patient_Name                0
+Age                         0
+Gender                      0
+Report_Date                 0
+Hemoglobin                  0
+WBC_Count                   0
+RBC_Count                   0
+Platelet_Count              0
+Blood_Sugar_Fasting         0
+Blood_Sugar_Postprandial    0
+HbA1c                       0
+Cholesterol_Total           0
+Cholesterol_LDL             0
+Cholesterol_HDL             0
+Triglycerides               0
+Urea                        0
+Creatinine                  0
+Sodium                      0
+Potassium                   0
+Test_Unit_Hemoglobin        0
+Test_Unit_WBC               0
+Test_Unit_Sugar             0
+Test_Unit_Cholesterol       0
+Lab_Name                    0
+Doctor_Name                 0
+Report_Type                 0
+dtype: int64
+
+
+DUPLICATE ROWS: 0
+
+EMPTY FIELDS:
+
+Report_ID                   0
+Patient_ID                  0
+Patient_Name                0
+Age                         0
+Gender                      0
+Report_Date                 0
+Hemoglobin                  0
+WBC_Count                   0
+RBC_Count                   0
+Platelet_Count              0
+Blood_Sugar_Fasting         0
+Blood_Sugar_Postprandial    0
+HbA1c                       0
+Cholesterol_Total           0
+Cholesterol_LDL             0
+Cholesterol_HDL             0
+Triglycerides               0
+Urea                        0
+Creatinine                  0
+Sodium                      0
+Potassium                   0
+Test_Unit_Hemoglobin        0
+Test_Unit_WBC               0
+Test_Unit_Sugar             0
+Test_Unit_Cholesterol       0
+Lab_Name                    0
+Doctor_Name                 0
+Report_Type                 0
+dtype: int64
+
+
+INVALID AGE RECORDS: 0
+
+UNREALISTIC HEMOGLOBIN RECORDS: 0
+
+UNREALISTIC SUGAR RECORDS: 0
